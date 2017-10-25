@@ -1,0 +1,71 @@
+local art_timer_manager = nil
+local timer_start_value = {0,0,0,0,0}
+local nextx = {1,1,1,1,1}
+local nexty = {100,99,98,97,96,95,94,93,92,91,90,89,88,87,86,85,84,83,82,81,80,79,78,77,76,75,74,73,72,71,70,69,68,67,66,65,64,63,62,61,60,59,58,57,56,55,54,53,52,51,50,49,48,47,46,45,44,43,42,41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0}
+local art_timer_value = {}
+
+----------------------------------------------------------------
+class "art_timer" 
+function art_timer:__init() 
+end
+function art_timer:__finalize()
+end
+
+function save(packet)
+	utils.w_CTime(packet, timer_start_value[1])
+	utils.w_CTime(packet, timer_start_value[2])
+	utils.w_CTime(packet, timer_start_value[3])
+	utils.w_CTime(packet, timer_start_value[4])
+	utils.w_CTime(packet, timer_start_value[5])
+end
+
+function load(packet)
+	timer_start_value[1] = utils.r_CTime(packet)
+	timer_start_value[2] = utils.r_CTime(packet)
+	timer_start_value[3] = utils.r_CTime(packet)
+	timer_start_value[4] = utils.r_CTime(packet)
+	timer_start_value[5] = utils.r_CTime(packet)
+end
+
+function Update()
+if (alife() ~= nil) then
+for p = 1,5 do
+	if db.actor:has_info("resultart_timer_start_"..p) and db.actor:dont_has_info("resultart_timer_end_"..p) and db.actor:dont_has_info("resultart_timer_"..p) then
+		db.actor:give_info_portion("resultart_timer_"..p)
+		timer_start_value[p] = game.get_game_time()
+			if db.actor:has_info("transmut_4") then
+				db.actor:give_info_portion("yan_stalker_sakharov_actor_trans_start")
+			end
+			if db.actor:has_info("transmut_5") then
+				db.actor:give_info_portion("yan_stalker_sakharov_actor_trans_start_2")
+			end
+	end	
+
+	if db.actor:has_info("resultart_timer_start_"..p) and db.actor:dont_has_info("resultart_timer_end_"..p) and db.actor:has_info("resultart_timer_"..p) then
+    local art_timer_limit_timer_value = {7000,6000,6500,6000,6000}
+		art_timer_value[p] = art_timer_limit_timer_value[p] - game.get_game_time():diffSec(timer_start_value[p])		
+            local nextxx = nextx[p]
+			if art_timer_value[p] <= art_timer_limit_timer_value[p]/100*nexty[nextxx] then
+				nextx[p] = nextx[p] + 1
+        		db.actor:give_info_portion("resultart_timer_greenline_"..p.."_"..nextx[p])	
+			end
+			if art_timer_value[p] <=0 then	
+			db.actor:disable_info_portion("resultart_timer_"..p)
+		    db.actor:disable_info_portion("resultart_timer_start_"..p)
+			db.actor:give_info_portion("resultart_timer_end_"..p)
+			nextx[p] = 1
+			timer_start_value[p] = 0
+		    for x=1,100 do
+		        db.actor:disable_info_portion("resultart_timer_greenline_"..p.."_"..x)
+		    end
+					if p == 4 then
+						db.actor:disable_info_portion("yan_stalker_sakharov_actor_trans_start")
+					end
+					if p == 5 then
+						db.actor:disable_info_portion("yan_stalker_sakharov_actor_trans_start_2")
+					end
+		end
+	end
+end
+end
+end

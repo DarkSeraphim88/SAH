@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_plenka_111_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_111_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_plenka_121_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_121_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_plenka_131_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_131_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_plenka_141_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_141_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_112_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_112_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_plenka_122_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_122_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_plenka_132_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_132_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_plenka_142_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_142_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_plenka_113_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_113_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_123_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_123_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_133_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_133_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_143_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_143_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_114_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_114_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_124_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_124_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_134_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_134_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_144_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_144_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_115_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_115_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_125_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_125_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_135_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_135_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_145_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_145_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_116_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_116_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_126_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_126_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_136_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_136_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_146_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_146_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_117_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_117_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_127_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_127_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_137_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_137_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_147_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_147_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_118_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_118_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_128_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_128_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_138_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_138_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_148_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_148_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_119_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_119_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_129_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_129_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_139_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_139_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_149_name">
+<text>«Кожа»</text>
+</string>
+<string id="st_af_plenka_149_descr">
+<text>Доподлинно неизвестно являлась ли эта структура частью живого существа, но по своим физическим свойствам и внешнему виду она напоминает обычный кожный покров, имея клеточное строение. Наделена рядом не свойственных эпидермису качетвам.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_211_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_221_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_231_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_241_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_212_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_222_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_232_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_242_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_213_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_223_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_233_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_243_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_214_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_224_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_234_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_244_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_215_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_225_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_235_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_245_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_216_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_plenka_226_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_plenka_236_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_plenka_246_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_217_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_227_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_237_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_247_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_218_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_228_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_238_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_248_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_219_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_229_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_239_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_249_name">
+<text>«Опилки»</text>
+</string>
+<string id="st_af_plenka_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_311_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_321_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_331_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_341_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_312_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_322_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_332_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_342_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_313_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_323_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_333_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_343_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_314_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_324_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_334_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_344_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_315_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_325_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_335_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_345_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_316_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_plenka_326_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_plenka_336_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_plenka_346_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_317_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_plenka_327_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_plenka_337_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_plenka_347_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_plenka_318_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_328_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_338_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_348_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_319_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_329_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_339_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_349_name">
+<text>«Огненный Червь»</text>
+</string>
+<string id="st_af_plenka_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_411_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_411_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_plenka_421_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_421_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_plenka_431_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_431_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_plenka_441_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_441_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_412_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_412_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_422_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_422_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_432_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_432_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_442_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_442_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_413_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_413_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_423_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_423_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_433_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_433_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_443_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_443_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_414_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_414_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_424_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_424_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_434_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_434_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_444_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_444_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_415_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_415_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_425_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_425_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_435_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_435_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_445_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_445_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_416_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_416_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_426_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_426_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_436_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_436_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_446_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_446_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_417_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_417_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_427_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_427_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_437_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_437_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_447_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_447_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_418_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_418_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_428_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_428_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_438_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_438_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_448_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_448_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_419_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_419_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_429_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_429_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_439_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_439_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_449_name">
+<text>«Лазурный Покров»</text>
+</string>
+<string id="st_af_plenka_449_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_511_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_plenka_521_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_plenka_531_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_plenka_541_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_512_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_plenka_522_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_plenka_532_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_plenka_542_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_plenka_513_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_523_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_533_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_543_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_514_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_524_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_534_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_544_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_515_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_525_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_535_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_545_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_516_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_526_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_536_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_546_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_plenka_517_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_527_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_537_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_547_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_518_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_528_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_538_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_548_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_519_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_529_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_539_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_549_name">
+<text>«Томный Блин»</text>
+</string>
+<string id="st_af_plenka_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_611_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_611_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_621_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_621_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_631_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_631_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_641_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_641_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_612_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_612_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_622_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_622_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_632_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_632_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_642_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_642_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_613_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_613_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_623_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_623_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_633_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_633_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_643_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_643_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_614_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_614_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_624_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_624_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_634_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_634_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_644_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_644_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_615_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_615_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_625_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_625_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_635_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_635_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_645_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_645_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_plenka_616_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_616_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_plenka_626_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_626_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_plenka_636_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_636_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_plenka_646_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_646_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_617_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_617_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_627_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_627_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_637_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_637_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_647_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_647_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_618_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_618_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_628_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_628_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_638_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_638_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_648_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_648_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_619_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_619_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_629_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_629_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_639_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_639_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_649_name">
+<text>«Хитин»</text>
+</string>
+<string id="st_af_plenka_649_descr">
+<text>Происхождение артефакта никак не связано с его названием. Ученые уверены, что это остатки живого существа, которое попало в аномалию. Существо по всей видимости обладало возможностью воздействовать на сознание.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_711_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_711_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_721_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_721_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_731_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_731_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_741_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_741_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_plenka_712_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_712_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288</text>
+</string>
+<string id="st_af_plenka_722_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_722_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576</text>
+</string>
+<string id="st_af_plenka_732_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_732_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864</text>
+</string>
+<string id="st_af_plenka_742_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_742_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152</text>
+</string>
+<string id="st_af_plenka_713_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_713_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288</text>
+</string>
+<string id="st_af_plenka_723_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_723_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576</text>
+</string>
+<string id="st_af_plenka_733_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_733_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864</text>
+</string>
+<string id="st_af_plenka_743_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_743_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152</text>
+</string>
+<string id="st_af_plenka_714_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_714_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288</text>
+</string>
+<string id="st_af_plenka_724_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_724_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576</text>
+</string>
+<string id="st_af_plenka_734_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_734_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864</text>
+</string>
+<string id="st_af_plenka_744_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_744_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152</text>
+</string>
+<string id="st_af_plenka_715_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_715_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288</text>
+</string>
+<string id="st_af_plenka_725_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_725_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576</text>
+</string>
+<string id="st_af_plenka_735_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_735_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864</text>
+</string>
+<string id="st_af_plenka_745_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_745_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152</text>
+</string>
+<string id="st_af_plenka_716_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_716_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.038</text>
+</string>
+<string id="st_af_plenka_726_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_726_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.076</text>
+</string>
+<string id="st_af_plenka_736_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_736_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.2088275862069</text>
+</string>
+<string id="st_af_plenka_746_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_746_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152</text>
+</string>
+<string id="st_af_plenka_717_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_717_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_plenka_727_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_727_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_plenka_737_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_737_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_plenka_747_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_747_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_plenka_718_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_718_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288</text>
+</string>
+<string id="st_af_plenka_728_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_728_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576</text>
+</string>
+<string id="st_af_plenka_738_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_738_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864</text>
+</string>
+<string id="st_af_plenka_748_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_748_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152</text>
+</string>
+<string id="st_af_plenka_719_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_719_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.288</text>
+</string>
+<string id="st_af_plenka_729_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_729_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576</text>
+</string>
+<string id="st_af_plenka_739_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_739_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.864</text>
+</string>
+<string id="st_af_plenka_749_name">
+<text>«Шкура»</text>
+</string>
+<string id="st_af_plenka_749_descr">
+<text>Шкуры некоторых животных, попавших в жарку, успевают молекулярно перестроится и начинают отталкивать избыточное тепловое излучение, но поскольку изменение носит сугубо локальный характер, их хозяин испепеляется аномалией. А шкура так и остаются лежать на земле, пока её не заметит внимательный глаз сталкера.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.152</text>
+</string>
+<string id="st_af_plenka_811_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_811_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_plenka_821_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_821_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_plenka_831_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_831_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_plenka_841_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_841_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_812_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_812_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_822_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_822_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_832_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_832_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_842_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_842_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_813_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_813_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_823_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_823_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_833_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_833_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_843_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_843_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_814_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_814_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_824_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_824_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_834_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_834_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_844_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_844_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_815_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_815_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_825_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_825_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_835_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_835_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_845_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_845_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_816_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_816_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_826_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_826_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_836_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_836_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_846_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_846_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_817_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_817_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_827_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_827_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_837_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_837_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_847_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_847_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_818_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_818_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_plenka_828_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_828_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_plenka_838_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_838_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_plenka_848_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_848_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_plenka_819_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_819_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_829_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_829_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_839_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_839_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_849_name">
+<text>«Скальп»</text>
+</string>
+<string id="st_af_plenka_849_descr">
+<text>Ученым не удалось выяснить как такое возможно, но эта живая структура смогла частично металлизироваться и, предположительно, являлась частью скелета какого-то существа. Но кто из сталкеров будет через лупу пялиться на кости и выискивать владельца, когда кругом опасность, а в животе то и дело урчит.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_plenka_911_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_911_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.8. </text>
+</string>
+<string id="st_af_plenka_921_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_921_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.4. </text>
+</string>
+<string id="st_af_plenka_931_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_931_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.22068965517241. </text>
+</string>
+<string id="st_af_plenka_941_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_941_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_plenka_912_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_912_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_plenka_922_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_922_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_plenka_932_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_932_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.841379310344828. </text>
+</string>
+<string id="st_af_plenka_942_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_942_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.89750297265161. </text>
+</string>
+<string id="st_af_plenka_913_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_913_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_plenka_923_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_923_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_plenka_933_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_933_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_plenka_943_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_943_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_plenka_914_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_914_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_plenka_924_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_924_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_plenka_934_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_934_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_plenka_944_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_944_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_plenka_915_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_915_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_plenka_925_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_925_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_plenka_935_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_935_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_plenka_945_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_945_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_plenka_916_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_916_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.2. </text>
+</string>
+<string id="st_af_plenka_926_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_926_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.4. </text>
+</string>
+<string id="st_af_plenka_936_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_936_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_plenka_946_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_946_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_plenka_917_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_917_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_plenka_927_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_927_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_plenka_937_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_937_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_plenka_947_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_947_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_plenka_918_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_918_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_plenka_928_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_928_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_plenka_938_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_938_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_plenka_948_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_948_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_plenka_919_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_919_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_plenka_929_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_929_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_plenka_939_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_939_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_plenka_949_name">
+<text>«Панцырь»</text>
+</string>
+<string id="st_af_plenka_949_descr">
+<text>Зона не щадит даже свои собственные творения и постоянно пытается "вылепить" нечто новое и совершенное, подстегивая эволюцию. Аномальные поля вдавили куски заряженных Зоной металлов в живую ткань и причудливо слили их между собой. Хоть эта структура и не имеет правильного узора, но отдаленно, по строению, напоминает панцирь, за что и артефакт и получил своё название.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_plenka_011_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_011_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.6.  </text>
+</string>
+<string id="st_af_plenka_021_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_021_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.54.  </text>
+</string>
+<string id="st_af_plenka_031_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_031_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.48.  </text>
+</string>
+<string id="st_af_plenka_041_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_041_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.4.  </text>
+</string>
+<string id="st_af_plenka_012_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_012_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_022_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_022_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_032_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_032_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_042_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_042_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_plenka_013_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_013_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_023_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_023_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_033_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_033_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_043_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_043_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_plenka_014_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_014_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_024_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_024_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_034_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_034_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_044_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_044_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_plenka_015_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_015_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_025_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_025_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_035_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_035_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_045_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_045_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_plenka_016_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_016_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_026_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_026_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_036_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_036_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_046_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_046_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_plenka_017_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_017_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_027_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_027_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_037_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_037_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.96. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_047_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_047_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.24. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_plenka_018_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_018_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_028_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_028_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_038_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_038_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_048_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_048_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_plenka_019_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_019_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_plenka_029_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_029_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.84. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_plenka_039_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_039_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_plenka_049_name">
+<text>«Самобранка»</text>
+</string>
+<string id="st_af_plenka_049_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.68. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+
+</string_table>

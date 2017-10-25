@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_drops_111_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_drops_121_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_drops_131_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_drops_141_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_112_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_drops_122_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_drops_132_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_drops_142_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_drops_113_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_123_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_133_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_143_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_114_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_124_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_134_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_144_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_115_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_125_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_135_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_145_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_116_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_126_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_136_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_146_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_117_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_127_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_137_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_147_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_118_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_128_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_138_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_148_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_119_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_129_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_139_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_149_name">
+<text>«Лилипут»</text>
+</string>
+<string id="st_af_drops_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_211_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_221_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_231_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_241_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_212_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_222_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_232_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_242_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_213_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_223_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_233_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_243_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_214_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_224_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_234_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_244_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_215_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_225_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_235_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_245_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_216_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_drops_226_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_drops_236_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_drops_246_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_217_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_227_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_237_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_247_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_218_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_228_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_238_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_248_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_219_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_229_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_239_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_249_name">
+<text>«Мелюзга»</text>
+</string>
+<string id="st_af_drops_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_311_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_311_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  "</text>
+</string>
+<string id="st_af_drops_321_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_321_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  "</text>
+</string>
+<string id="st_af_drops_331_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_331_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  "</text>
+</string>
+<string id="st_af_drops_341_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_341_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  "</text>
+</string>
+<string id="st_af_drops_312_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_312_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный."</text>
+</string>
+<string id="st_af_drops_322_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_322_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный."</text>
+</string>
+<string id="st_af_drops_332_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_332_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее."</text>
+</string>
+<string id="st_af_drops_342_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_342_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное."</text>
+</string>
+<string id="st_af_drops_313_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_313_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный."</text>
+</string>
+<string id="st_af_drops_323_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_323_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный."</text>
+</string>
+<string id="st_af_drops_333_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_333_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее."</text>
+</string>
+<string id="st_af_drops_343_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_343_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное."</text>
+</string>
+<string id="st_af_drops_314_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_314_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный."</text>
+</string>
+<string id="st_af_drops_324_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_324_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный."</text>
+</string>
+<string id="st_af_drops_334_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_334_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее."</text>
+</string>
+<string id="st_af_drops_344_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_344_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное."</text>
+</string>
+<string id="st_af_drops_315_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_315_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный."</text>
+</string>
+<string id="st_af_drops_325_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_325_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный."</text>
+</string>
+<string id="st_af_drops_335_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_335_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее."</text>
+</string>
+<string id="st_af_drops_345_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_345_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное."</text>
+</string>
+<string id="st_af_drops_316_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_316_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75"</text>
+</string>
+<string id="st_af_drops_326_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_326_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5"</text>
+</string>
+<string id="st_af_drops_336_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_336_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897"</text>
+</string>
+<string id="st_af_drops_346_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_346_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное."</text>
+</string>
+<string id="st_af_drops_317_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_317_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. "</text>
+</string>
+<string id="st_af_drops_327_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_327_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. "</text>
+</string>
+<string id="st_af_drops_337_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_337_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. "</text>
+</string>
+<string id="st_af_drops_347_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_347_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. "</text>
+</string>
+<string id="st_af_drops_318_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_318_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный."</text>
+</string>
+<string id="st_af_drops_328_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_328_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный."</text>
+</string>
+<string id="st_af_drops_338_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_338_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее."</text>
+</string>
+<string id="st_af_drops_348_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_348_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное."</text>
+</string>
+<string id="st_af_drops_319_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_319_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный."</text>
+</string>
+<string id="st_af_drops_329_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_329_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный."</text>
+</string>
+<string id="st_af_drops_339_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_339_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее."</text>
+</string>
+<string id="st_af_drops_349_name">
+<text>«Глаз»</text>
+</string>
+<string id="st_af_drops_349_descr">
+<text>"Этот артефакт, внешне действительно напоминающий орган зрения человека, заметно защищая носителя от тепловых воздействий.
+Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное."</text>
+</string>
+<string id="st_af_drops_411_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_drops_421_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_drops_431_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_drops_441_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_412_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_422_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_432_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_442_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_413_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_423_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_433_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_443_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_414_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_424_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_434_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_444_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_415_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_425_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_435_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_445_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_416_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_426_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_436_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_446_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_417_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_427_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_437_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_447_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_418_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_428_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_438_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_448_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_419_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_429_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_439_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_449_name">
+<text>«Инфузория»</text>
+</string>
+<string id="st_af_drops_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_511_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_511_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_drops_521_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_521_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_drops_531_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_531_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_drops_541_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_541_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_512_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_512_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_drops_522_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_522_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_drops_532_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_532_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_drops_542_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_542_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_drops_513_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_513_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_523_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_523_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_533_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_533_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_543_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_543_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_514_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_514_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_524_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_524_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_534_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_534_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_544_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_544_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_515_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_515_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_525_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_525_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_535_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_535_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_545_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_545_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_516_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_516_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_526_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_526_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_536_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_536_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_546_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_546_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_drops_517_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_517_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_527_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_527_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_537_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_537_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_547_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_547_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_518_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_518_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_528_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_528_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_538_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_538_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_548_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_548_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_519_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_519_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_529_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_529_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_539_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_539_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_549_name">
+<text>«Язва»</text>
+</string>
+<string id="st_af_drops_549_descr">
+<text>На вид, артефакт словно расползается в руках. Но это отнюдь не означает, что артефакт начал разлагаться, на самом деле - он ускорил внутренний метаболизм материала, и в его свойствах теперь присутствует некая тяга к небу.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_611_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_621_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_631_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_641_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_612_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_622_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_632_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_642_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_613_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_623_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_633_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_643_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_614_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_624_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_634_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_644_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_615_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_625_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_635_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_645_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_drops_616_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_drops_626_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_drops_636_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_drops_646_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_617_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_627_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_637_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_647_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_618_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_628_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_638_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_648_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_619_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_629_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_639_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_649_name">
+<text>«Слизень»</text>
+</string>
+<string id="st_af_drops_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_711_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_drops_721_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_drops_731_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_drops_741_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_drops_712_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_722_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_732_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_742_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_713_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_723_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_733_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_743_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_714_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_724_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_734_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_744_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_715_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_725_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_735_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_745_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_716_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_drops_726_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_drops_736_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_drops_746_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_717_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_drops_727_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_drops_737_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_drops_747_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_drops_718_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_728_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_738_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_748_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_719_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_729_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_739_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_749_name">
+<text>«Вырезка»</text>
+</string>
+<string id="st_af_drops_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_811_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_drops_821_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_drops_831_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_drops_841_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_812_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_822_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_832_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_842_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_813_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_823_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_833_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_843_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_814_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_824_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_834_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_844_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_815_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_825_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_835_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_845_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_816_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_826_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_836_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_846_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_817_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_827_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_837_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_847_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_818_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_drops_828_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_drops_838_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_drops_848_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_drops_819_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_829_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_839_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_849_name">
+<text>«Дужка»</text>
+</string>
+<string id="st_af_drops_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_drops_911_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.8. </text>
+</string>
+<string id="st_af_drops_921_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.4. </text>
+</string>
+<string id="st_af_drops_931_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.22068965517241. </text>
+</string>
+<string id="st_af_drops_941_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_drops_912_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_drops_922_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_drops_932_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.841379310344828. </text>
+</string>
+<string id="st_af_drops_942_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.89750297265161. </text>
+</string>
+<string id="st_af_drops_913_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_drops_923_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_drops_933_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_drops_943_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_drops_914_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_drops_924_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_drops_934_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_drops_944_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_drops_915_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_drops_925_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_drops_935_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_drops_945_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_drops_916_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.2. </text>
+</string>
+<string id="st_af_drops_926_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.4. </text>
+</string>
+<string id="st_af_drops_936_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_drops_946_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_drops_917_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_drops_927_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_drops_937_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_drops_947_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_drops_918_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_drops_928_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_drops_938_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_drops_948_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_drops_919_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_drops_929_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_drops_939_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_drops_949_name">
+<text>«Кочерга»</text>
+</string>
+<string id="st_af_drops_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_drops_011_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.6.  </text>
+</string>
+<string id="st_af_drops_021_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.54.  </text>
+</string>
+<string id="st_af_drops_031_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.48.  </text>
+</string>
+<string id="st_af_drops_041_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.4.  </text>
+</string>
+<string id="st_af_drops_012_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_022_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_032_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_042_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_drops_013_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_023_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_033_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_043_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_drops_014_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_024_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_034_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_044_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_drops_015_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_025_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_035_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_045_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_drops_016_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_026_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_036_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_046_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_drops_017_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_027_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_037_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_047_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_drops_018_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_028_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_038_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_048_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_drops_019_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_drops_029_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_drops_039_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_drops_049_name">
+<text>«Сетка»</text>
+</string>
+<string id="st_af_drops_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

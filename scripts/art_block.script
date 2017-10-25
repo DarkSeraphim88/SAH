@@ -1,0 +1,240 @@
+local belted_art = {}
+local belted_art_belt = {}
+local art = {}
+
+function save(packet)
+    packet:w_u8(belted_art_belt[1])
+	packet:w_u8(belted_art_belt[2])
+	packet:w_u8(belted_art_belt[3])
+	packet:w_u8(belted_art_belt[4])
+	packet:w_u8(belted_art_belt[5])
+	packet:w_stringZ(tostring(art[1]))
+	packet:w_stringZ(tostring(art[2]))
+	packet:w_stringZ(tostring(art[3]))
+	packet:w_stringZ(tostring(art[4]))
+	packet:w_stringZ(tostring(art[5]))
+end
+
+
+function load(reader)
+    belted_art_belt[1] = reader:r_u8()
+	belted_art_belt[2] = reader:r_u8()
+	belted_art_belt[3] = reader:r_u8()
+	belted_art_belt[4] = reader:r_u8()
+	belted_art_belt[5] = reader:r_u8()
+	art[1] = reader:r_stringZ()
+	art[2] = reader:r_stringZ()
+	art[3] = reader:r_stringZ()
+	art[4] = reader:r_stringZ()
+	art[5] = reader:r_stringZ()
+end
+
+local arts = {"af_medusa_",
+"af_vyvert_",
+"af_night_star_",
+"af_gravi_",
+"af_cristall_flower_",
+"af_cristall_star_",
+"af_vtulka_",
+"af_gold_fish_",
+"af_dummy_spring_",
+"af_blood_",
+"af_mincer_meat_",
+"af_ameba_slug_",
+"af_ameba_mica_",
+"af_electra_flash_",
+"af_baloon_",
+"af_ameba_slime_",
+"af_dummy_pellicle_",
+"af_plenka_",
+"af_fireball_",
+"af_cristall_",
+"af_drops_",
+"af_fire_",
+"af_dummy_glassbeads_",
+"af_eye_",
+"af_glass_crystal_",
+"af_soul_",
+"af_rusty_kristall_",
+"af_electra_sparkler_",
+"af_rusty_sea_",
+"af_glass_",
+"af_dummy_battery_",
+"af_rusty_thorn_",
+"af_electra_moonlight_",
+"af_fuzz_kolobok_",
+"af_dummy_dummy_",
+"af_ice_"}
+
+function on_game_start()
+	RegisterScriptCallback("actor_item_to_belt",actor_item_to_belt)
+	RegisterScriptCallback("actor_item_to_ruck",actor_item_to_ruck)
+	RegisterScriptCallback("actor_on_item_drop",actor_on_item_drop)
+end
+
+function actor_item_to_belt(item)
+	if IsArtefact(item) then
+	local index
+	local stop = 0
+	local stop2 = 0
+	local art_chenged = 0
+		belted_art[item:id()] = item:section()
+		for x=1,5 do
+		if stop == 0 and stop2 == 0 then
+			if art[x] == nil or art[x] == "nil" then
+			    stop2 = 1
+				art[x] = item:section()
+				for y = 1,36 do
+				if stop == 0 then
+					-------- Проверка на спайки
+					for x1 = 1,4 do
+						if stop == 0 then
+							for x2 = 1,4 do
+								if stop == 0 then
+									for x3 = 1,3 do
+										if stop == 0 then
+											if x3 == 1 then
+												index = "sp1_"
+											elseif x3 == 2 then
+												index = "sp2_"
+											elseif x3 == 3 then
+												index = "sp3_"
+											end
+											if art[x] == arts[y]..index..x1..x2 then
+												belted_art_belt[x] = 2
+												art_chenged = x
+												stop = 1
+												break
+											end
+										else
+											break
+										end
+									end
+								else
+									break
+								end
+							end
+						else
+							break
+						end
+					end
+					
+					-------- Проверка на абсолюты.
+					if stop == 0 then
+					index = "abs_"
+						for x1 = 1,4 do
+							if stop == 0 then
+								if art[x] == arts[y]..index..x1 then
+									belted_art_belt[x] = 3
+									art_chenged = x
+									stop = 1
+									break
+								end
+							else
+								break
+							end
+						end
+					else
+						break
+					end
+					
+					-------- Проверка на парадоксы.
+					if stop == 0 then
+					if y == 1 then
+					index = "af_para_"
+						for x1 = 1,90 do
+							if stop == 0 then
+								for x2 = 1,4 do
+									if stop == 0 then
+										if art[x] == index..x1.."_"..x2 then
+											belted_art_belt[x] = 4
+											art_chenged = x
+											stop = 1
+											break
+										end
+									else
+										break
+									end
+								end
+							else
+								break
+							end
+						end
+					end
+					else
+						break
+					end
+					if stop == 0 and y == 36 then
+					index = "_sim"
+					belted_art_belt[x] = 1
+					stop = 1
+					end
+				else
+					break
+				end
+				end
+			end
+		else
+			break
+		end
+		end
+		
+	
+	---- если арт нужно проверить на типы, чтобы выкинуть.
+	
+	
+	if art_chenged ~= 0  then
+	local stop = 0
+	local count = 0
+			for p = 2,4 do
+		    count = 0
+				if stop == 0 then
+					for u = 1,5 do
+						if belted_art_belt[u] == p then
+							count = count + 1
+						end
+					end
+					if count > 1 then
+						db.actor:drop_item(item) 
+						local tmpw1 = alife():create(item:section(), db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id()) 
+						db.actor:transfer_item(item,db.actor) 
+						alife():release(tmpw1) 
+						stop = 1
+					end
+				else
+					break
+				end
+			end
+		end	
+	end
+end
+	
+function actor_item_to_ruck(item)
+	if IsArtefact(item) then
+		belted_art[item:id()] = nil
+		for x = 1,5 do
+			if art[x] == item:section() then
+				art[x] = nil
+				belted_art_belt[x] = nil
+				break
+			end
+		end
+	end
+end
+
+function actor_on_item_drop(item)
+	if not IsArtefact(item) then
+		return
+	end
+	local art_id = item:id()
+	if belted_art[art_id] then 
+		belted_art[art_id] = nil
+		for x = 1,5 do
+			if art[x] == item:section() then
+				art[x] = nil
+				belted_art_belt[x] = nil
+				break
+			end
+		end
+	end
+end

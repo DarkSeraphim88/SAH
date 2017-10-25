@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<art_script>
+    <vkladka_general x="0" y="0" width="366" height="461" stretch="1">
+        <texture>ui_detector_up</texture>
+		
+		<Static_count_selected x="117" y="97" width="25" height="25" stretch="1" />
+        <button_exit x="14" y="293" width="341" height="25">
+            <text font="letterica16" x="0" y="0" align="c" vert_align="c" r="255" g="255" b="255">trans_exit</text>
+        </button_exit>
+        <Static_Selected x="16" y="14" width="328" height="36" stretch="1" />
+        <Static_Des x="16" y="57" width="328" height="21" stretch="1" />
+        <Static_name_1 x="22" y="10" width="219" height="23" stretch="1" />
+        <Static_name_2 x="276" y="10" width="219" height="23" stretch="1" />
+        <Static_name_3 x="529" y="10" width="219" height="23" stretch="1" />
+        <Static_name_4 x="783" y="10" width="219" height="23" stretch="1" />
+        <button_name_1 x="22" y="10" width="219" height="23">
+            <text font="letterica16" x="0" y="0" align="c" vert_align="c" r="255" g="255" b="255"></text>
+        </button_name_1>
+        <button_name_2 x="276" y="10" width="219" height="23">
+            <text font="letterica16" x="0" y="0" align="c" vert_align="c" r="255" g="255" b="255"></text>
+        </button_name_2>
+        <button_name_3 x="529" y="10" width="219" height="23">
+            <text font="letterica16" x="0" y="0" align="c" vert_align="c" r="255" g="255" b="255"></text>
+        </button_name_3>
+        <button_name_4 x="783" y="10" width="219" height="23">
+            <text font="letterica16" x="0" y="0" align="c" vert_align="c" r="255" g="255" b="255"></text>
+        </button_name_4>
+    </vkladka_general>
+</art_script>

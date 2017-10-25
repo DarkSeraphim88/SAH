@@ -1,0 +1,133 @@
+;USE THIS IF YOU WANT TO SAVE USAGE
+[booster_script_sah]:booster
+class									 = S_FOOD
+script_binding 							 = bind_item.bind
+
+[itm_pda_recept_1]:booster_script_sah
+inv_grid_x                               = 154
+inv_grid_y                               = 0
+description                              = st_itm_itm_pda_recept_1_descr
+inv_name                                 = st_itm_pda_recept_1_name
+inv_name_short                           = st_itm_pda_recept_1_name
+inv_weight                               = 0.05
+can_take                                 = true 
+can_trade                                = true
+inv_weight							     = 0.01
+remove_after_use                         = true
+dont_stack                               = false
+boost_time                               = 0.0
+boost_radiation_restore                  = 0.0
+cost                                     = 350
+
+[itm_pda_recept_2]:itm_pda_recept_1
+description                              = st_itm_itm_pda_recept_2_descr
+inv_name                                 = st_itm_pda_recept_2_name
+inv_name_short                           = st_itm_pda_recept_2_name
+inv_grid_x                               = 154
+inv_grid_y                               = 1
+cost                                     = 750
+
+[itm_pda_recept_3]:itm_pda_recept_1
+description                              = st_itm_itm_pda_recept_3_descr
+inv_name                                 = st_itm_pda_recept_3_name
+inv_name_short                           = st_itm_pda_recept_3_name
+inv_grid_x                               = 154
+inv_grid_y                               = 2
+cost                                     = 1600
+
+[itm_pda_common]:booster_script_sah
+$spawn                                   = "devices\pda"
+description                              = st_pda_descr
+visual                                   = dynamics\devices\dev_pda\dev_pda.ogf
+inv_weight                               = 0.1  
+inv_name                                 = st_pda_name
+inv_name_short                           = st_pda_name
+inv_grid_width                           = 1
+inv_grid_height                          = 1
+inv_grid_x                               = 7
+inv_grid_y                               = 3
+cost                                     = 0
+remove_after_use                         = true
+dont_stack                               = false
+boost_time                               = 0.0
+boost_radiation_restore                  = 0.0
+can_take                                 = true 
+can_trade                                = true
+
+
+[itm_pda_uncommon]:booster_script_sah
+$spawn                                   = "devices\pda"
+description                              = st_pda_descr
+visual                                   = dynamics\devices\dev_pda\dev_pda.ogf
+inv_weight                               = 0.1  
+inv_name                                 = st_pda_name
+inv_name_short                           = st_pda_name
+inv_grid_width                           = 1
+inv_grid_height                          = 1
+inv_grid_x                               = 7
+inv_grid_y                               = 3
+cost                                     = 0
+remove_after_use                         = true
+dont_stack                               = false
+boost_time                               = 0.0
+boost_radiation_restore                  = 0.0
+can_take                                 = true 
+can_trade                                = true
+
+[itm_pda_rare]:booster_script_sah
+$spawn                                   = "devices\pda"
+description                              = st_pda_descr
+visual                                   = dynamics\devices\dev_pda\dev_pda.ogf
+inv_weight                               = 0.1  
+inv_name                                 = st_pda_name
+inv_name_short                           = st_pda_name
+inv_grid_width                           = 1
+inv_grid_height                          = 1
+inv_grid_x                               = 7
+inv_grid_y                               = 3
+cost                                     = 0
+remove_after_use                         = true
+dont_stack                               = false
+boost_time                               = 0.0
+boost_radiation_restore                  = 0.0
+can_take                                 = true 
+can_trade                                = true
+
+[container_art_3]:booster_script_sah
+description							= enc_container_art_3_descr
+inv_name						    = enc_container_art_3_name
+inv_name_short					    = enc_container_art_3_name
+visual                              = dynamics\box\konteyner_03b.ogf
+cost                                = 250000
+inv_weight							= 10.00
+inv_grid_width					    = 3
+inv_grid_height					    = 2
+inv_grid_x							= 149
+inv_grid_y							= 0
+remove_after_use                         = false
+dont_stack                               = true
+boost_time                               = 0.0
+boost_radiation_restore                  = 0.0
+use_sound								 = interface\inv_open
+
+[container_art_2]:container_art_3
+description							= enc_container_art_2_descr
+inv_name						    = enc_container_art_2_name
+inv_name_short					    = enc_container_art_2_name
+cost                                = 100000
+inv_weight							= 5
+inv_grid_width					    = 2
+inv_grid_height					    = 2
+inv_grid_x							= 150
+inv_grid_y							= 2
+
+[container_art_1]:container_art_3
+description							= enc_container_art_1_descr
+inv_name						    = enc_container_art_1_name
+inv_name_short					    = enc_container_art_1_name
+cost                                = 35000
+inv_weight							= 3.5
+inv_grid_width					    = 2
+inv_grid_height					    = 1
+inv_grid_x							= 150
+inv_grid_y							= 4

@@ -1,0 +1,626 @@
+local recept_sim = {
+"af_medusa","af_kat_1","af_dummy_pellicle",nil,nil,1,1,1,0,0,"af_medusa_1",
+"af_medusa","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_medusa_2",
+"af_medusa","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_medusa_3",
+"af_medusa","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_medusa_4",
+"af_medusa","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_medusa_5",
+"af_medusa","af_kat_6","af_ice",nil,nil,1,1,1,0,0,"af_medusa_6",
+"af_medusa","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_medusa_7",
+"af_medusa","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_medusa_8",
+"af_medusa","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_medusa_9",
+"af_medusa","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_medusa_0",
+"af_vyvert","af_kat_1","af_cristall_4",nil,nil,1,1,1,0,0,"af_vyvert_1",
+"af_vyvert","af_kat_2","af_kat_9","af_dummy_spring",nil,1,1,1,1,0,"af_vyvert_2",
+"af_vyvert","af_kat_3","af_dummy_battery",nil,nil,1,1,1,0,0,"af_vyvert_3",
+"af_vyvert","af_kat_4","af_electra_sparkler",nil,nil,1,1,1,0,0,"af_vyvert_4",
+"af_vyvert","af_kat_5","af_gravi",nil,nil,1,1,1,0,0,"af_vyvert_5",
+"af_vyvert","af_kat_6","af_ameba_slime",nil,nil,1,1,1,0,0,"af_vyvert_6",
+"af_vyvert","af_kat_7","af_fire",nil,nil,1,1,1,0,0,"af_vyvert_7",
+"af_vyvert","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_vyvert_8",
+"af_vyvert","af_kat_9","af_dummy_spring",nil,nil,1,1,1,0,0,"af_vyvert_9",
+"af_vyvert","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_vyvert_0",
+"af_night_star","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_night_star_1",
+"af_night_star","af_kat_2","af_baloon",nil,nil,1,1,1,0,0,"af_night_star_2",
+"af_night_star","af_kat_3","af_cristall_flower_1",nil,nil,1,1,1,0,0,"af_night_star_3",
+"af_night_star","af_kat_4","af_electra_moonlight",nil,nil,1,1,1,0,0,"af_night_star_4",
+"af_night_star","af_kat_5","af_night_star",nil,nil,2,1,2,0,0,"af_night_star_5",
+"af_night_star","af_kat_6","af_ameba_slug",nil,nil,1,1,1,0,0,"af_night_star_6",
+"af_night_star","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_night_star_7",
+"af_night_star","af_kat_8","af_night_star","af_night_star",nil,3,1,3,3,0,"af_night_star_8",
+"af_night_star","af_kat_9","af_fire",nil,nil,1,1,1,0,0,"af_night_star_9",
+"af_night_star","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_night_star_0",
+"af_gravi","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_gravi_1",
+"af_gravi","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_gravi_2",
+"af_gravi","af_kat_3","af_cristall",nil,nil,1,1,1,0,0,"af_gravi_3",
+"af_gravi","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_gravi_4",
+"af_gravi","af_kat_5","af_medusa",nil,nil,1,1,1,0,0,"af_gravi_5",
+"af_gravi","af_kat_6","af_drops",nil,nil,1,1,1,0,0,"af_gravi_6",
+"af_gravi","af_kat_7","af_rusty_kristall",nil,nil,1,1,1,0,0,"af_gravi_7",
+"af_gravi","af_kat_8","af_dummy_dummy",nil,nil,1,1,1,0,0,"af_gravi_8",
+"af_gravi","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_gravi_9",
+"af_gravi","af_kat_0","af_drops",nil,nil,1,1,1,0,0,"af_gravi_0",
+"af_cristall_flower","af_kat_1","af_dummy_glassbeads",nil,nil,1,1,1,0,0,"af_cristall_flower_1",
+"af_cristall_flower","af_kat_2","af_glass_crystal",nil,nil,1,1,1,0,0,"af_cristall_flower_2",
+"af_cristall_flower","af_kat_3","af_gold_fish",nil,nil,1,1,1,0,0,"af_cristall_flower_3",
+"af_cristall_flower","af_kat_4","af_glass_8",nil,nil,1,1,1,0,0,"af_cristall_flower_4",
+"af_cristall_flower","af_kat_5","af_fireball",nil,nil,1,1,1,0,0,"af_cristall_flower_5",
+"af_cristall_flower","af_kat_6","af_electra_flash",nil,nil,1,1,1,0,0,"af_cristall_flower_6",
+"af_cristall_flower","af_kat_7","af_electra_sparkler",nil,nil,1,1,1,0,0,"af_cristall_flower_7",
+"af_cristall_flower","af_kat_8","af_rusty_sea",nil,nil,1,1,1,0,0,"af_cristall_flower_8",
+"af_cristall_flower","af_kat_9","af_ice",nil,nil,1,1,1,0,0,"af_cristall_flower_9",
+"af_cristall_flower","af_kat_0","af_ameba_mica",nil,nil,1,1,1,0,0,"af_cristall_flower_0",
+"af_cristall_star","af_kat_1","af_rusty_thorn",nil,nil,1,1,1,0,0,"af_cristall_star_1",
+"af_cristall_star","af_kat_2","af_electra_moonlight",nil,nil,1,1,1,0,0,"af_cristall_star_2",
+"af_cristall_star","af_kat_3","af_rusty_sea",nil,nil,1,1,1,0,0,"af_cristall_star_3",
+"af_cristall_star","af_kat_4","af_cristall_8",nil,nil,1,1,1,0,0,"af_cristall_star_4",
+"af_cristall_star","af_kat_5","af_fuzz_kolobok",nil,nil,1,1,1,0,0,"af_cristall_star_5",
+"af_cristall_star","af_kat_6","af_dummy_battery",nil,nil,1,1,1,0,0,"af_cristall_star_6",
+"af_cristall_star","af_kat_7","af_dummy_glassbeads",nil,nil,1,1,1,0,0,"af_cristall_star_7",
+"af_cristall_star","af_kat_8","af_dummy_pellicle",nil,nil,1,1,1,0,0,"af_cristall_star_8",
+"af_cristall_star","af_kat_9","af_ameba_slug",nil,nil,1,1,1,0,0,"af_cristall_star_9",
+"af_cristall_star","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_cristall_star_0",
+"af_vtulka","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_vtulka_1",
+"af_vtulka","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_vtulka_2",
+"af_vtulka","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_vtulka_3",
+"af_vtulka","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_vtulka_4",
+"af_vtulka","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_vtulka_5",
+"af_vtulka","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_vtulka_6",
+"af_vtulka","af_kat_7","af_dummy_spring",nil,nil,1,1,1,0,0,"af_vtulka_7",
+"af_vtulka","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_vtulka_8",
+"af_vtulka","af_kat_9","af_ameba_slime",nil,nil,1,1,1,0,0,"af_vtulka_9",
+"af_vtulka","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_vtulka_0",
+"af_gold_fish","af_kat_1","af_vyvert","af_rusty_kristall",nil,1,1,1,1,0,"af_gold_fish_1",
+"af_gold_fish","af_kat_2","af_cristall_flower",nil,nil,1,1,1,0,0,"af_gold_fish_2",
+"af_gold_fish","af_kat_3","af_fireball","af_ameba_mica",nil,1,1,1,1,0,"af_gold_fish_3",
+"af_gold_fish","af_kat_4","af_glass",nil,nil,1,1,1,0,0,"af_gold_fish_4",
+"af_gold_fish","af_kat_5","af_cristall_flower","af_ice",nil,1,1,1,1,0,"af_gold_fish_5",
+"af_gold_fish","af_kat_6","af_rusty_sea",nil,nil,1,1,1,0,0,"af_gold_fish_6",
+"af_gold_fish","af_kat_7","af_dummy_pellicle","af_eye",nil,1,1,1,1,0,"af_gold_fish_7",
+"af_gold_fish","af_kat_8","af_vtulka",nil,nil,1,1,1,0,0,"af_gold_fish_8",
+"af_gold_fish","af_kat_9","af_electra_flash","af_fire",nil,1,1,1,1,0,"af_gold_fish_9",
+"af_gold_fish","af_kat_0","af_dummy_dummy",nil,nil,1,1,1,0,0,"af_gold_fish_0",
+"af_dummy_spring","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_dummy_spring_1",
+"af_dummy_spring","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_dummy_spring_2",
+"af_dummy_spring","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_dummy_spring_3",
+"af_dummy_spring","af_kat_4","af_eye",nil,nil,1,1,1,0,0,"af_dummy_spring_4",
+"af_dummy_spring","af_kat_5","af_vyvert_9",nil,nil,1,1,1,0,0,"af_dummy_spring_5",
+"af_dummy_spring","af_kat_6","af_dummy_spring",nil,nil,2,1,2,0,0,"af_dummy_spring_6",
+"af_dummy_spring","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_dummy_spring_7",
+"af_dummy_spring","af_kat_8","af_mincer_meat_4",nil,nil,1,1,1,0,0,"af_dummy_spring_8",
+"af_dummy_spring","af_kat_9","af_night_star_9",nil,nil,1,1,1,0,0,"af_dummy_spring_9",
+"af_dummy_spring","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_dummy_spring_0",
+"af_blood","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_blood_1",
+"af_blood","af_kat_2","af_soul",nil,nil,1,1,1,0,0,"af_blood_2",
+"af_blood","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_blood_3",
+"af_blood","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_blood_4",
+"af_blood","af_kat_5","af_mincer_meat",nil,nil,1,1,1,0,0,"af_blood_5",
+"af_blood","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_blood_6",
+"af_blood","af_kat_7","af_night_star",nil,nil,1,1,1,0,0,"af_blood_7",
+"af_blood","af_kat_8","af_gravi",nil,nil,1,1,1,0,0,"af_blood_8",
+"af_blood","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_blood_9",
+"af_blood","af_kat_0","af_dummy_glassbeads_0",nil,nil,1,1,1,0,0,"af_blood_0",
+"af_mincer_meat","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_mincer_meat_1",
+"af_mincer_meat","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_mincer_meat_2",
+"af_mincer_meat","af_kat_3","af_fireball",nil,nil,1,1,1,0,0,"af_mincer_meat_3",
+"af_mincer_meat","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_mincer_meat_4",
+"af_mincer_meat","af_kat_5","af_night_star",nil,nil,1,1,1,0,0,"af_mincer_meat_5",
+"af_mincer_meat","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_mincer_meat_6",
+"af_mincer_meat","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_mincer_meat_7",
+"af_mincer_meat","af_kat_8","af_electra_moonlight",nil,nil,1,1,1,0,0,"af_mincer_meat_8",
+"af_mincer_meat","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_mincer_meat_9",
+"af_mincer_meat","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_mincer_meat_0",
+"af_ameba_slug","af_kat_1","af_ameba_slug",nil,nil,2,1,2,0,0,"af_ameba_slug_1",
+"af_ameba_slug","af_kat_2","af_dummy_dummy_2",nil,nil,1,1,1,0,0,"af_ameba_slug_2",
+"af_ameba_slug","af_kat_3","af_ameba_slug",nil,nil,2,1,2,0,0,"af_ameba_slug_3",
+"af_ameba_slug","af_kat_4","af_glass_crystal",nil,nil,1,1,1,0,0,"af_ameba_slug_4",
+"af_ameba_slug","af_kat_5","af_ameba_slug",nil,nil,2,1,2,0,0,"af_ameba_slug_5",
+"af_ameba_slug","af_kat_6","af_ameba_slug",nil,nil,2,1,2,0,0,"af_ameba_slug_6",
+"af_ameba_slug","af_kat_7","af_electra_flash",nil,nil,1,1,1,0,0,"af_ameba_slug_7",
+"af_ameba_slug","af_kat_8","af_ameba_slug",nil,nil,2,1,2,0,0,"af_ameba_slug_8",
+"af_ameba_slug","af_kat_9","af_ameba_slug","af_ameba_slug",nil,3,1,3,3,0,"af_ameba_slug_9",
+"af_ameba_slug","af_kat_0","af_ameba_slug","af_ameba_slug",nil,3,1,3,3,0,"af_ameba_slug_0",
+"af_ameba_mica","af_kat_1","af_ice",nil,nil,1,1,1,0,0,"af_ameba_mica_1",
+"af_ameba_mica","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_ameba_mica_2",
+"af_ameba_mica","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_ameba_mica_3",
+"af_ameba_mica","af_kat_4","af_glass_crystal",nil,nil,1,1,1,0,0,"af_ameba_mica_4",
+"af_ameba_mica","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_ameba_mica_5",
+"af_ameba_mica","af_kat_6","af_electra_sparkler_2",nil,nil,1,1,1,0,0,"af_ameba_mica_6",
+"af_ameba_mica","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_ameba_mica_7",
+"af_ameba_mica","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_ameba_mica_8",
+"af_ameba_mica","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_ameba_mica_9",
+"af_ameba_mica","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_ameba_mica_0",
+"af_electra_flash","af_kat_1","af_kat_8",nil,nil,1,1,1,0,0,"af_electra_flash_1",
+"af_electra_flash","af_kat_2","af_plenka_6",nil,nil,1,1,1,0,0,"af_electra_flash_2",
+"af_electra_flash","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_electra_flash_3",
+"af_electra_flash","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_electra_flash_4",
+"af_electra_flash","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_electra_flash_5",
+"af_electra_flash","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_electra_flash_6",
+"af_electra_flash","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_electra_flash_7",
+"af_electra_flash","af_kat_8","af_fire_2",nil,nil,1,1,1,0,0,"af_electra_flash_8",
+"af_electra_flash","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_electra_flash_9",
+"af_electra_flash","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_electra_flash_0",
+"af_baloon","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_baloon_1",
+"af_baloon","af_kat_2","af_glass_crystal",nil,nil,1,1,1,0,0,"af_baloon_2",
+"af_baloon","af_kat_3","af_drops",nil,nil,1,1,1,0,0,"af_baloon_3",
+"af_baloon","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_baloon_4",
+"af_baloon","af_kat_5","af_cristall_flower",nil,nil,1,1,1,0,0,"af_baloon_5",
+"af_baloon","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_baloon_6",
+"af_baloon","af_kat_7","af_rusty_kristall",nil,nil,1,1,1,0,0,"af_baloon_7",
+"af_baloon","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_baloon_8",
+"af_baloon","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_baloon_9",
+"af_baloon","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_baloon_0",
+"af_ameba_slime","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_ameba_slime_1",
+"af_ameba_slime","af_kat_2","af_rusty_thorn","af_medusa",nil,1,1,1,1,0,"af_ameba_slime_2",
+"af_ameba_slime","af_kat_3","af_dummy_spring",nil,nil,1,1,1,0,0,"af_ameba_slime_3",
+"af_ameba_slime","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_ameba_slime_4",
+"af_ameba_slime","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_ameba_slime_5",
+"af_ameba_slime","af_kat_6","af_cristall",nil,nil,1,1,1,0,0,"af_ameba_slime_6",
+"af_ameba_slime","af_kat_7","af_dummy_glassbeads_3",nil,nil,1,1,1,0,0,"af_ameba_slime_7",
+"af_ameba_slime","af_kat_8","af_eye",nil,nil,1,1,1,0,0,"af_ameba_slime_8",
+"af_ameba_slime","af_kat_9","af_plenka",nil,nil,1,1,1,0,0,"af_ameba_slime_9",
+"af_ameba_slime","af_kat_0","af_medusa_7",nil,nil,1,1,1,0,0,"af_ameba_slime_0",
+"af_dummy_pellicle","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_dummy_pellicle_1",
+"af_dummy_pellicle","af_kat_2","af_eye_6",nil,nil,1,1,1,0,0,"af_dummy_pellicle_2",
+"af_dummy_pellicle","af_kat_3","af_cristall",nil,nil,1,1,1,0,0,"af_dummy_pellicle_3",
+"af_dummy_pellicle","af_kat_4","af_drops_4",nil,nil,1,1,1,0,0,"af_dummy_pellicle_4",
+"af_dummy_pellicle","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_dummy_pellicle_5",
+"af_dummy_pellicle","af_kat_6","af_ameba_slime_9",nil,nil,1,1,1,0,0,"af_dummy_pellicle_6",
+"af_dummy_pellicle","af_kat_7","af_cristall_3",nil,nil,1,1,1,0,0,"af_dummy_pellicle_7",
+"af_dummy_pellicle","af_kat_8","af_rusty_thorn_1",nil,nil,1,1,1,0,0,"af_dummy_pellicle_8",
+"af_dummy_pellicle","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_dummy_pellicle_9",
+"af_dummy_pellicle","af_kat_0","af_vtulka",nil,nil,1,1,1,0,0,"af_dummy_pellicle_0",
+"af_plenka","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_plenka_1",
+"af_plenka","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_plenka_2",
+"af_plenka","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_plenka_3",
+"af_plenka","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_plenka_4",
+"af_plenka","af_kat_5","af_rusty_kristall",nil,nil,1,1,1,0,0,"af_plenka_5",
+"af_plenka","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_plenka_6",
+"af_plenka","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_plenka_7",
+"af_plenka","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_plenka_8",
+"af_plenka","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_plenka_9",
+"af_plenka","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_plenka_0",
+"af_fireball","af_kat_1","af_ameba_slug",nil,nil,1,1,1,0,0,"af_fireball_1",
+"af_fireball","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_fireball_2",
+"af_fireball","af_kat_3","af_kat_3",nil,nil,1,2,2,0,0,"af_fireball_3",
+"af_fireball","af_kat_4","af_rusty_sea",nil,nil,1,1,1,0,0,"af_fireball_4",
+"af_fireball","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_fireball_5",
+"af_fireball","af_kat_6","af_gravi",nil,nil,1,1,1,0,0,"af_fireball_6",
+"af_fireball","af_kat_7","af_electra_moonlight",nil,nil,1,1,1,0,0,"af_fireball_7",
+"af_fireball","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_fireball_8",
+"af_fireball","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_fireball_9",
+"af_fireball","af_kat_0","af_glass_crystal",nil,nil,1,1,1,0,0,"af_fireball_0",
+"af_cristall","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_cristall_1",
+"af_cristall","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_cristall_2",
+"af_cristall","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_cristall_3",
+"af_cristall","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_cristall_4",
+"af_cristall","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_cristall_5",
+"af_cristall","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_cristall_6",
+"af_cristall","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_cristall_7",
+"af_cristall","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_cristall_8",
+"af_cristall","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_cristall_9",
+"af_cristall","af_kat_0","af_ameba_slug",nil,nil,1,1,1,0,0,"af_cristall_0",
+"af_drops","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_drops_1",
+"af_drops","af_kat_2","af_gold_fish",nil,nil,1,1,1,0,0,"af_drops_2",
+"af_drops","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_drops_3",
+"af_drops","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_drops_4",
+"af_drops","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_drops_5",
+"af_drops","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_drops_6",
+"af_drops","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_drops_7",
+"af_drops","af_kat_8","af_drops",nil,nil,2,1,2,0,0,"af_drops_8",
+"af_drops","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_drops_9",
+"af_drops","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_drops_0",
+"af_fire","af_kat_1","af_cristall_flower","af_ameba_mica",nil,1,1,1,1,0,"af_fire_1",
+"af_fire","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_fire_2",
+"af_fire","af_kat_3","af_medusa_3",nil,nil,1,1,1,0,0,"af_fire_3",
+"af_fire","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_fire_4",
+"af_fire","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_fire_5",
+"af_fire","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_fire_6",
+"af_fire","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_fire_7",
+"af_fire","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_fire_8",
+"af_fire","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_fire_9",
+"af_fire","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_fire_0",
+"af_dummy_glassbeads","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_1",
+"af_dummy_glassbeads","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_2",
+"af_dummy_glassbeads","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_3",
+"af_dummy_glassbeads","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_4",
+"af_dummy_glassbeads","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_5",
+"af_dummy_glassbeads","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_6",
+"af_dummy_glassbeads","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_7",
+"af_dummy_glassbeads","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_8",
+"af_dummy_glassbeads","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_9",
+"af_dummy_glassbeads","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_dummy_glassbeads_0",
+"af_eye","af_kat_1","af_rusty_kristall","af_electra_sparkler",nil,1,1,1,1,0,"af_eye_1",
+"af_eye","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_eye_2",
+"af_eye","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_eye_3",
+"af_eye","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_eye_4",
+"af_eye","af_kat_5","af_dummy_dummy",nil,nil,1,1,1,0,0,"af_eye_5",
+"af_eye","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_eye_6",
+"af_eye","af_kat_7","af_medusa_5",nil,nil,1,1,1,0,0,"af_eye_7",
+"af_eye","af_kat_8","af_cristall_1",nil,nil,1,1,1,0,0,"af_eye_8",
+"af_eye","af_kat_9","af_vyvert",nil,nil,1,1,1,0,0,"af_eye_9",
+"af_eye","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_eye_0",
+"af_glass_crystal","af_kat_1","af_electra_flash",nil,nil,1,1,1,0,0,"af_glass_crystal_1",
+"af_glass_crystal","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_glass_crystal_2",
+"af_glass_crystal","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_glass_crystal_3",
+"af_glass_crystal","af_kat_4","af_fireball_8",nil,nil,1,1,1,0,0,"af_glass_crystal_4",
+"af_glass_crystal","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_glass_crystal_5",
+"af_glass_crystal","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_glass_crystal_6",
+"af_glass_crystal","af_kat_7","af_vyvert",nil,nil,1,1,1,0,0,"af_glass_crystal_7",
+"af_glass_crystal","af_kat_8","af_ameba_mica",nil,nil,1,1,1,0,0,"af_glass_crystal_8",
+"af_glass_crystal","af_kat_9","af_fire",nil,nil,1,1,1,0,0,"af_glass_crystal_9",
+"af_glass_crystal","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_glass_crystal_0",
+"af_soul","af_kat_1","af_mincer_meat",nil,nil,1,1,1,0,0,"af_soul_1",
+"af_soul","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_soul_2",
+"af_soul","af_kat_3","af_rusty_sea_7",nil,nil,1,1,1,0,0,"af_soul_3",
+"af_soul","af_kat_4","af_electra_sparkler",nil,nil,1,1,1,0,0,"af_soul_4",
+"af_soul","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_soul_5",
+"af_soul","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_soul_6",
+"af_soul","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_soul_7",
+"af_soul","af_kat_8","af_fireball",nil,nil,1,1,1,0,0,"af_soul_8",
+"af_soul","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_soul_9",
+"af_soul","af_kat_0","af_electra_moonlight",nil,nil,1,1,1,0,0,"af_soul_0",
+"af_rusty_kristall","af_kat_1","af_glass",nil,nil,1,1,1,0,0,"af_rusty_kristall_1",
+"af_rusty_kristall","af_kat_2","af_dummy_spring","af_blood",nil,1,1,1,1,0,"af_rusty_kristall_2",
+"af_rusty_kristall","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_rusty_kristall_3",
+"af_rusty_kristall","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_rusty_kristall_4",
+"af_rusty_kristall","af_kat_5","af_gold_fish",nil,nil,1,1,1,0,0,"af_rusty_kristall_5",
+"af_rusty_kristall","af_kat_6","af_medusa",nil,nil,1,1,1,0,0,"af_rusty_kristall_6",
+"af_rusty_kristall","af_kat_7","af_dummy_battery",nil,nil,1,1,1,0,0,"af_rusty_kristall_7",
+"af_rusty_kristall","af_kat_8","af_cristall_star",nil,nil,1,1,1,0,0,"af_rusty_kristall_8",
+"af_rusty_kristall","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_rusty_kristall_9",
+"af_rusty_kristall","af_kat_0","af_vyvert",nil,nil,1,1,1,0,0,"af_rusty_kristall_0",
+"af_electra_sparkler","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_electra_sparkler_1",
+"af_electra_sparkler","af_kat_2","af_vtulka",nil,nil,1,1,1,0,0,"af_electra_sparkler_2",
+"af_electra_sparkler","af_kat_3","af_cristall_7",nil,nil,1,1,1,0,0,"af_electra_sparkler_3",
+"af_electra_sparkler","af_kat_4","af_soul","af_soul",nil,1,1,2,2,0,"af_electra_sparkler_4",
+"af_electra_sparkler","af_kat_5","af_dummy_spring","af_dummy_glassbeads",nil,1,1,1,1,0,"af_electra_sparkler_5",
+"af_electra_sparkler","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_electra_sparkler_6",
+"af_electra_sparkler","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_electra_sparkler_7",
+"af_electra_sparkler","af_kat_8","af_plenka",nil,nil,1,1,1,0,0,"af_electra_sparkler_8",
+"af_electra_sparkler","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_electra_sparkler_9",
+"af_electra_sparkler","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_electra_sparkler_0",
+"af_rusty_sea","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_1",
+"af_rusty_sea","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_2",
+"af_rusty_sea","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_3",
+"af_rusty_sea","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_4",
+"af_rusty_sea","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_5",
+"af_rusty_sea","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_6",
+"af_rusty_sea","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_7",
+"af_rusty_sea","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_8",
+"af_rusty_sea","af_kat_9","af_rusty_thorn",nil,nil,1,1,1,0,0,"af_rusty_sea_9",
+"af_rusty_sea","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_rusty_sea_0",
+"af_glass","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_glass_1",
+"af_glass","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_glass_2",
+"af_glass","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_glass_3",
+"af_glass","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_glass_4",
+"af_glass","af_kat_5","af_cristall_flower",nil,nil,1,1,1,0,0,"af_glass_5",
+"af_glass","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_glass_6",
+"af_glass","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_glass_7",
+"af_glass","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_glass_8",
+"af_glass","af_kat_9","af_dummy_pellicle",nil,nil,1,1,1,0,0,"af_glass_9",
+"af_glass","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_glass_0",
+"af_dummy_battery","af_kat_1","af_fireball_5",nil,nil,1,1,1,0,0,"af_dummy_battery_1",
+"af_dummy_battery","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_dummy_battery_2",
+"af_dummy_battery","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_dummy_battery_3",
+"af_dummy_battery","af_kat_4","af_electra_sparkler",nil,nil,1,1,1,0,0,"af_dummy_battery_4",
+"af_dummy_battery","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_dummy_battery_5",
+"af_dummy_battery","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_dummy_battery_6",
+"af_dummy_battery","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_dummy_battery_7",
+"af_dummy_battery","af_kat_8","af_dummy_spring",nil,nil,1,1,1,0,0,"af_dummy_battery_8",
+"af_dummy_battery","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_dummy_battery_9",
+"af_dummy_battery","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_dummy_battery_0",
+"af_rusty_thorn","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_1",
+"af_rusty_thorn","af_kat_2","af_electra_flash",nil,nil,1,1,1,0,0,"af_rusty_thorn_2",
+"af_rusty_thorn","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_3",
+"af_rusty_thorn","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_4",
+"af_rusty_thorn","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_5",
+"af_rusty_thorn","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_6",
+"af_rusty_thorn","af_kat_7","af_rusty_kristall",nil,nil,1,1,1,0,0,"af_rusty_thorn_7",
+"af_rusty_thorn","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_8",
+"af_rusty_thorn","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_9",
+"af_rusty_thorn","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_rusty_thorn_0",
+"af_electra_moonlight","af_kat_1",nil,nil,nil,1,1,0,0,0,"af_electra_moonlight_1",
+"af_electra_moonlight","af_kat_2","af_rusty_sea",nil,nil,1,1,1,0,0,"af_electra_moonlight_2",
+"af_electra_moonlight","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_electra_moonlight_3",
+"af_electra_moonlight","af_kat_4","af_kat_4",nil,nil,1,2,2,0,0,"af_electra_moonlight_4",
+"af_electra_moonlight","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_electra_moonlight_5",
+"af_electra_moonlight","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_electra_moonlight_6",
+"af_electra_moonlight","af_kat_7","af_drops_5",nil,nil,1,1,1,0,0,"af_electra_moonlight_7",
+"af_electra_moonlight","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_electra_moonlight_8",
+"af_electra_moonlight","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_electra_moonlight_9",
+"af_electra_moonlight","af_kat_0","af_rusty_thorn",nil,nil,1,1,1,0,0,"af_electra_moonlight_0",
+"af_fuzz_kolobok","af_kat_1","af_gravi",nil,nil,1,1,1,0,0,"af_fuzz_kolobok_1",
+"af_fuzz_kolobok","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_2",
+"af_fuzz_kolobok","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_3",
+"af_fuzz_kolobok","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_4",
+"af_fuzz_kolobok","af_kat_5",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_5",
+"af_fuzz_kolobok","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_6",
+"af_fuzz_kolobok","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_7",
+"af_fuzz_kolobok","af_kat_8","af_dummy_pellicle",nil,nil,1,1,1,0,0,"af_fuzz_kolobok_8",
+"af_fuzz_kolobok","af_kat_9",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_9",
+"af_fuzz_kolobok","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_fuzz_kolobok_0",
+"af_dummy_dummy","af_kat_1","af_electra_flash_3",nil,nil,1,1,1,0,0,"af_dummy_dummy_1",
+"af_dummy_dummy","af_kat_2",nil,nil,nil,1,1,0,0,0,"af_dummy_dummy_2",
+"af_dummy_dummy","af_kat_3",nil,nil,nil,1,1,0,0,0,"af_dummy_dummy_3",
+"af_dummy_dummy","af_kat_4",nil,nil,nil,1,1,0,0,0,"af_dummy_dummy_4",
+"af_dummy_dummy","af_kat_5","af_rusty_kristall",nil,nil,1,1,1,0,0,"af_dummy_dummy_5",
+"af_dummy_dummy","af_kat_6",nil,nil,nil,1,1,0,0,0,"af_dummy_dummy_6",
+"af_dummy_dummy","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_dummy_dummy_7",
+"af_dummy_dummy","af_kat_8",nil,nil,nil,1,1,0,0,0,"af_dummy_dummy_8",
+"af_dummy_dummy","af_kat_9","af_dummy_dummy",nil,nil,2,1,2,0,0,"af_dummy_dummy_9",
+"af_dummy_dummy","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_dummy_dummy_0",
+"af_ice","af_kat_1","af_electra_moonlight_9",nil,nil,1,1,1,0,0,"af_ice_1",
+"af_ice","af_kat_2","af_gold_fish_2",nil,nil,1,1,1,0,0,"af_ice_2",
+"af_ice","af_kat_3","af_electra_flash_5",nil,nil,1,1,1,0,0,"af_ice_3",
+"af_ice","af_kat_4","af_glass_4",nil,nil,1,1,1,0,0,"af_ice_4",
+"af_ice","af_kat_5","af_night_star_1",nil,nil,1,1,1,0,0,"af_ice_5",
+"af_ice","af_kat_6","af_rusty_sea_6",nil,nil,1,1,1,0,0,"af_ice_6",
+"af_ice","af_kat_7",nil,nil,nil,1,1,0,0,0,"af_ice_7",
+"af_ice","af_kat_8","af_ameba_mica_8",nil,nil,1,1,1,0,0,"af_ice_8",
+"af_ice","af_kat_9","af_rusty_thorn_5",nil,nil,1,1,1,0,0,"af_ice_9",
+"af_ice","af_kat_0",nil,nil,nil,1,1,0,0,0,"af_ice_0"
+}
+
+local recept_sp = {
+"af_medusa_1", "af_medusa_6", nil, nil, nil, 1, 1, 0, 0, 0, "af_medusa_sp1_",
+"af_medusa_0", "af_rusty_thorn_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_medusa_sp2_",
+"af_vyvert_3", "af_electra_sparkler_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_vyvert_sp1_",
+"af_vyvert_6", "af_mincer_meat_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_vyvert_sp2_",
+"af_night_star_8", "af_ameba_slug_9", nil, nil, nil, 1, 1, 0, 0, 0, "af_night_star_sp1_",
+"af_night_star_5", "af_ameba_slime_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_night_star_sp2_",
+"af_gravi_8", "af_fireball_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_gravi_sp1_",
+"af_gravi_7", "af_fireball_9", nil, nil, nil, 1, 1, 0, 0, 0, "af_gravi_sp2_",
+"af_cristall_flower_9", "af_gravi_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_cristall_flower_sp1_",
+"af_cristall_flower_1", "af_dummy_battery_7", nil, nil, nil, 1, 1, 0, 0, 0, "af_cristall_flower_sp2_",
+"af_cristall_star_7", "af_electra_moonlight_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_cristall_star_sp1_",
+"af_cristall_star_9", "af_cristall_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_cristall_star_sp2_",
+"af_vtulka_7", "af_electra_flash_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_vtulka_sp1_",
+"af_vtulka_9", "af_ameba_slime_6", nil, nil, nil, 1, 1, 0, 0, 0, "af_vtulka_sp2_",
+"af_gold_fish_9", "af_electra_flash_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_gold_fish_sp1_",
+"af_gold_fish_7", "af_dummy_pellicle_3", nil, nil, nil, 1, 1, 0, 0, 0, "af_gold_fish_sp2_",
+"af_dummy_spring_3", "af_fireball_3", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_spring_sp1_",
+"af_dummy_spring_6", "af_rusty_kristall_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_spring_sp2_",
+"af_blood_4", "af_blood_2", nil, nil, nil, 1, 1, 0, 0, 0, "af_blood_sp1_",
+"af_blood_1", "af_ameba_mica_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_blood_sp2_",
+"af_mincer_meat_8", "af_medusa_9", nil, nil, nil, 1, 1, 0, 0, 0, "af_mincer_meat_sp1_",
+"af_mincer_meat_7", "af_dummy_dummy_6", nil, nil, nil, 1, 1, 0, 0, 0, "af_mincer_meat_sp2_",
+"af_ameba_slug_1", "af_fireball_2", nil, nil, nil, 1, 1, 0, 0, 0, "af_ameba_slug_sp1_",
+"af_ameba_slug_7", "af_fuzz_kolobok_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_ameba_slug_sp2_",
+"af_ameba_mica_3", "af_fireball_5", nil, nil, nil, 1, 1, 0, 0, 0, "af_ameba_mica_sp1_",
+"af_ameba_mica_0", "af_night_star_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_ameba_mica_sp2_",
+"af_electra_flash_3", "af_electra_flash_9", nil, nil, nil, 1, 1, 0, 0, 0, "af_electra_flash_sp1_",
+"af_electra_flash_6", "af_soul_1", nil, nil, nil, 1, 1, 0, 0, 0, "af_electra_flash_sp2_",
+"af_baloon_2", "af_fuzz_kolobok_5", nil, nil, nil, 1, 1, 0, 0, 0, "af_baloon_sp1_",
+"af_baloon_7", "af_gold_fish_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_baloon_sp2_",
+"af_ameba_slime_1", "af_dummy_glassbeads_9", nil, nil, nil, 1, 1, 0, 0, 0, "af_ameba_slime_sp1_",
+"af_ameba_slime_2", "af_drops_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_ameba_slime_sp2_",
+"af_dummy_pellicle_7", "af_ameba_slug_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_pellicle_sp1_",
+"af_dummy_pellicle_8", "af_plenka_9", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_pellicle_sp2_",
+"af_plenka_6", "af_dummy_battery_2", nil, nil, nil, 1, 1, 0, 0, 0, "af_plenka_sp1_",
+"af_plenka_7", "af_vtulka_5", nil, nil, nil, 1, 1, 0, 0, 0, "af_plenka_sp2_",
+"af_fireball_0", "af_rusty_kristall_7", nil, nil, nil, 1, 1, 0, 0, 0, "af_fireball_sp1_",
+"af_fireball_3", "af_vtulka_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_fireball_sp2_",
+"af_cristall_4", "af_glass_crystal_1", nil, nil, nil, 1, 1, 0, 0, 0, "af_cristall_sp1_",
+"af_cristall_6", "af_dummy_battery_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_cristall_sp2_",
+"af_drops_3", "af_drops_4", "af_drops_5", "af_drops_6", "af_drops_0", 1, 1, 1, 1, 1, "af_drops_sp1_",
+"af_drops_3", "af_plenka_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_drops_sp2_",
+"af_fire_3", "af_blood_3", nil, nil, nil, 1, 1, 0, 0, 0, "af_fire_sp1_",
+"af_fire_6", "af_blood_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_fire_sp2_",
+"af_dummy_glassbeads_6", "af_gold_fish_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_glassbeads_sp1_",
+"af_dummy_glassbeads_4", "af_baloon_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_glassbeads_sp2_",
+"af_eye_1", "af_soul_7", nil, nil, nil, 1, 1, 0, 0, 0, "af_eye_sp1_",
+"af_eye_5", "af_cristall_flower_3", nil, nil, nil, 1, 1, 0, 0, 0, "af_eye_sp2_",
+"af_glass_crystal_5", "af_cristall_flower_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_glass_crystal_sp1_",
+"af_glass_crystal_4", "af_cristall_flower_5", nil, nil, nil, 1, 1, 0, 0, 0, "af_glass_crystal_sp2_",
+"af_soul_8", "af_gold_fish_6", nil, nil, nil, 1, 1, 0, 0, 0, "af_soul_sp1_",
+"af_soul_1", "af_ameba_slug_3", nil, nil, nil, 1, 1, 0, 0, 0, "af_soul_sp2_",
+"af_rusty_kristall_5", "af_glass_crystal_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_rusty_kristall_sp1_",
+"af_rusty_kristall_2", "af_dummy_dummy_1", nil, nil, nil, 1, 1, 0, 0, 0, "af_rusty_kristall_sp2_",
+"af_electra_sparkler_8", "af_dummy_glassbeads_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_electra_sparkler_sp1_",
+"af_electra_sparkler_2", "af_ice_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_electra_sparkler_sp2_",
+"af_rusty_sea_9", "af_cristall_star_1", nil, nil, nil, 1, 1, 0, 0, 0, "af_rusty_sea_sp1_",
+"af_rusty_sea_7", "af_medusa_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_rusty_sea_sp2_",
+"af_glass_8", "af_soul_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_glass_sp1_",
+"af_glass_2", "af_fuzz_kolobok_7", nil, nil, nil, 1, 1, 0, 0, 0, "af_glass_sp2_",
+"af_dummy_battery_7", "af_soul_3", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_battery_sp1_",
+"af_dummy_battery_8", "af_rusty_kristall_4", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_battery_sp2_",
+"af_rusty_thorn_7", "af_dummy_pellicle_9", nil, nil, nil, 1, 1, 0, 0, 0, "af_rusty_thorn_sp1_",
+"af_rusty_thorn_6", "af_rusty_kristall_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_rusty_thorn_sp2_",
+"af_electra_moonlight_7", "af_rusty_thorn_3", nil, nil, nil, 1, 1, 0, 0, 0, "af_electra_moonlight_sp1_",
+"af_electra_moonlight_1", "af_vtulka_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_electra_moonlight_sp2_",
+"af_fuzz_kolobok_6", "af_night_star_2", nil, nil, nil, 1, 1, 0, 0, 0, "af_fuzz_kolobok_sp1_",
+"af_fuzz_kolobok_9", "af_fire_1", nil, nil, nil, 1, 1, 0, 0, 0, "af_fuzz_kolobok_sp2_",
+"af_dummy_dummy_5", "af_blood_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_dummy_sp1_",
+"af_dummy_dummy_4", "af_dummy_pellicle_0", nil, nil, nil, 1, 1, 0, 0, 0, "af_dummy_dummy_sp2_",
+"af_ice_9", "af_glass_1", nil, nil, nil, 1, 1, 0, 0, 0, "af_ice_sp1_",
+"af_ice_3", "af_ameba_mica_8", nil, nil, nil, 1, 1, 0, 0, 0, "af_ice_sp2_"
+}
+
+local recept_abs = {
+"af_medusa_ing_","af_medusa_8","af_fire_5","af_cristall_6",nil,1,1,1,1,0,"af_medusa_abs_",
+"af_vyvert_ing_","af_ameba_slime_8","af_electra_sparkler_4","af_eye_3","af_ameba_mica_8",1,1,1,1,1,"af_vyvert_abs_",
+"af_night_star_ing_","af_kat_1","af_night_star_9","af_fire_9",nil,1,1,1,1,0,"af_night_star_abs_",
+"af_gravi_ing_","af_mincer_meat_1","af_blood_9","af_baloon_2","af_dummy_dummy_7",1,1,1,1,1,"af_gravi_abs_",
+"af_cristall_flower_ing_","af_electra_flash_4","af_cristall_flower_6","af_cristall_flower_4","af_dummy_battery_4",1,1,1,1,1,"af_cristall_flower_abs_",
+"af_cristall_star_ing_","af_cristall_star_5","af_fuzz_kolobok_6","af_glass_9",nil,1,1,1,1,0,"af_cristall_star_abs_",
+"af_vtulka_ing_","af_rusty_sea_5","af_rusty_thorn_9","af_dummy_pellicle_2",nil,1,1,1,1,0,"af_vtulka_abs_",
+"af_gold_fish_ing_","af_cristall_8","af_glass_5","af_cristall_flower_0",nil,1,1,1,1,0,"af_gold_fish_abs_",
+"af_dummy_spring_ing_","af_medusa_0","af_ameba_slime_7","af_drops_7",nil,1,1,1,1,0,"af_dummy_spring_abs_",
+"af_blood_ing_","af_dummy_battery_9","af_fire_2","af_dummy_spring_5",nil,1,1,1,1,0,"af_blood_abs_",
+"af_mincer_meat_ing_","af_electra_moonlight_6","af_rusty_kristall_9","af_plenka_1","af_dummy_spring_2",1,1,1,1,1,"af_mincer_meat_abs_",
+"af_ameba_slug_ing_","af_ameba_slug_ing_","af_gold_fish_4",nil,nil,2,2,1,0,0,"af_ameba_slug_abs_",
+"af_ameba_mica_ing_","af_ameba_mica_0","af_glass_crystal_1","af_ice_7","af_ameba_mica_6",1,1,1,1,1,"af_ameba_mica_abs_",
+"af_electra_flash_ing_","af_ameba_slug_5","af_baloon_3","af_dummy_dummy_9",nil,1,1,1,1,0,"af_electra_flash_abs_",
+"af_baloon_ing_","af_gravi_0","af_baloon_0","af_vtulka_0","af_night_star_0",1,1,1,1,1,"af_baloon_abs_",
+"af_ameba_slime_ing_","af_ameba_slime_6","af_medusa_2","af_fire_5","af_gravi_9",1,1,1,1,1,"af_ameba_slime_abs_",
+"af_dummy_pellicle_ing_","af_ameba_slime_1","af_glass_6","af_glass_crystal_8","af_blood_2",1,1,1,1,1,"af_dummy_pellicle_abs_",
+"af_plenka_ing_","af_mincer_meat_7","af_dummy_dummy_3","af_electra_sparkler_7",nil,1,1,1,1,0,"af_plenka_abs_",
+"af_fireball_ing_","af_fireball_2","af_fireball_3","af_fireball_4","af_fireball_0",1,1,1,1,1,"af_fireball_abs_",
+"af_cristall_ing_","af_cristall_2","af_electra_flash_6","af_night_star_7",nil,1,1,1,1,0,"af_cristall_abs_",
+"af_drops_ing_","af_drops_sp1_1",nil,nil,nil,1,1,0,0,0,"af_drops_abs_",
+"af_fire_ing_","af_electra_moonlight_3","af_ice","af_fire_7",nil,1,1,1,1,0,"af_fire_abs_",
+"af_dummy_glassbeads_ing_","af_dummy_glassbeads_ing_","af_soul_0",nil,nil,2,2,1,0,0,"af_dummy_glassbeads_abs_",
+"af_eye_ing_","af_ameba_slug_9","af_ameba_mica_8","af_dummy_pellicle_1","af_gold_fish_7",1,1,1,1,1,"af_eye_abs_",
+"af_glass_crystal_ing_","af_glass_crystal_7","af_fireball_1","af_night_star_5",nil,1,1,1,1,0,"af_glass_crystal_abs_",
+"af_soul_ing_","af_rusty_kristall_1","af_glass_crystal_0","af_rusty_sea_8",nil,1,1,1,1,0,"af_soul_abs_",
+"af_rusty_kristall_ing_","af_electra_flash_1","af_vtulka_8",nil,nil,1,1,1,0,0,"af_rusty_kristall_abs_",
+"af_electra_sparkler_ing_","af_soul_1","af_eye_0","af_fire_7",nil,1,1,1,1,0,"af_electra_sparkler_abs_",
+"af_rusty_sea_ing_","af_rusty_sea_4","af_glass_8","af_electra_moonlight_0",nil,1,1,1,1,0,"af_rusty_sea_abs_",
+"af_glass_ing_","af_glass_4","af_cristall_star_6","af_eye_8",nil,1,1,1,1,0,"af_glass_abs_",
+"af_dummy_battery_ing_","af_dummy_battery_4","af_ameba_slime_4","af_eye_4",nil,1,1,1,1,0,"af_dummy_battery_abs_",
+"af_rusty_thorn_ing_","af_dummy_spring_2","af_fuzz_kolobok_3","af_rusty_sea_6","af_fuzz_kolobok_9",1,1,1,1,1,"af_rusty_thorn_abs_",
+"af_electra_moonlight_ing_","af_electra_moonlight_4","af_vtulka_4","af_cristall_star_2",nil,1,1,1,1,0,"af_electra_moonlight_abs_",
+"af_fuzz_kolobok_ing_","af_fuzz_kolobok_4","af_rusty_thorn_9","af_ameba_mica_8",nil,1,1,1,1,0,"af_fuzz_kolobok_abs_",
+"af_dummy_dummy_ing_","af_cristall_star_9","af_ameba_slug_1","af_ameba_slug_6",nil,1,1,1,1,0,"af_dummy_dummy_abs_",
+"af_ice_ing_","af_cristall_flower_8","af_baloon_9","af_vtulka_4",nil,1,1,1,1,0,"af_ice_abs_"
+}
+
+function actor_on_item_use(item) -- вешаем на юз
+	if item:section() == 'container_art_1' then
+	    db.actor:give_info_portion("transmut_1")
+		art_script.art_script():ShowDialog(true)
+	elseif item:section() == 'container_art_2' then
+	    db.actor:give_info_portion("transmut_2")
+		art_script.art_script():ShowDialog(true)
+	elseif item:section() == 'container_art_3' then
+	    db.actor:give_info_portion("transmut_3")
+		art_script.art_script():ShowDialog(true)
+		
+	elseif item:section() == "itm_pda_recept_1" or item:section() == "itm_pda_recept_2" or item:section() == "itm_pda_recept_3" or "itm_pda_common" or item:section() == "itm_pda_uncommon" or item:section() == "itm_pda_rare" then
+local actor = db.actor
+local rand = math.random(1,100)
+local tab
+local npc_rank
+local max
+local info = {nil,nil,nil}
+local level = 0
+local randoms
+if item:section() == "itm_pda_recept_1" or item:section() == "itm_pda_common" then
+level = 1
+elseif item:section() == "itm_pda_recept_2" or item:section() == "itm_pda_uncommon" then
+level = 2
+elseif item:section() == "itm_pda_recept_3" or item:section() == "itm_pda_rare" then
+level = 3
+end
+
+for lvl = level,1,-1 do
+
+	rand = math.random(1, 100)
+	if rand >= 100-5*lvl then
+		tab = recept_abs
+		max = 36
+	elseif rand >= 85-5*lvl then
+		tab = recept_sp
+		max = 72
+	else
+		tab = recept_sim 
+		max = 360
+	end
+	
+	
+	
+	local stop = 0
+	local havetab = {}
+	local havetabmax = 0
+	local getback = math.random(1,100)
+	if getback>=65 then                                             ----- Стараемся завершить уже имеющийся рецепт.
+		for x1 = 1, max do
+		info[lvl] = tab[x1*11]
+			if db.actor:has_info(info[lvl]) then
+				for y = 1,5 do
+					if db.actor:dont_has_info(tab[x1*11]..y) and tab[x1*11+y-11]~=nil then
+						havetabmax = havetabmax+1
+						havetab[havetabmax] = x1
+						break
+					end
+				end
+			end
+		end
+		if havetabmax ~= 0 then
+			local r = math.random(1,havetabmax)
+			randoms = havetab[r]*11
+			info[lvl] = tab[randoms]
+			stop = 1
+		else 
+			getback = 1
+		end
+	end
+	if getback<65 then                                                  ---- Даем случайное инфо.
+		for x = 1,5 do
+			if stop == 0 then
+		        randoms = math.random(1,max)*11
+				info[lvl] = tab[randoms]
+				    if db.actor:has_info(info[lvl]) then
+					    for y = 1,5 do
+						    if db.actor:dont_has_info(tab[randoms]..y) and tab[randoms+y-11]~=nil then
+								stop = 1
+								break
+							end
+						end
+					elseif db.actor:dont_has_info(info[lvl]) then
+						stop = 1
+						break
+					end
+			else
+				break						
+			end
+			
+			if x == 5 and stop == 0 then                            ----- Если цикл закончен, а все проверенные есть.
+				for x2 = 1, max do
+					if stop == 0 then
+						info[lvl] = tab[x2*11]
+						if db.actor:dont_has_info(info[lvl]) then
+							stop = 1
+							break
+						end
+					else
+						break
+					end
+				end
+			end
+		end
+	end
+		
+---------------------------------------------------	Выдаем рецепты.
+		if stop == 1 then
+		actor:give_game_news(" ", "P: %c[255,255,0,0] "..GetString("st_"..info[lvl].."_name").."%c[default] ", "ui_iconsTotal_found_money", 0, 10000)
+		db.actor:give_info_portion(info[lvl])
+		local randoms1
+			if lvl == 3 then
+				for x = 1,5 do
+					db.actor:give_info_portion(info[lvl]..x)
+				end
+			else
+				if lvl == 2 then
+					randoms1 = math.random(2,3)
+				elseif lvl == 1 then
+					randoms1 = 1
+				end
+				for x = 1,randoms1 do
+			    	    stop = 0
+			    		for u = 1,5 do
+							if stop == 0 then
+			   				local randoms2 = math.random(1,5)
+								if db.actor:dont_has_info(info[lvl]..randoms2) and tab[randoms+randoms2-11]~=nil then
+									db.actor:give_info_portion(info[lvl]..randoms2)
+									stop = 1
+								elseif u == 5 and stop == 0 then
+									for i = 1,5 do
+			   							if db.actor:dont_has_info(info[lvl]..i) and stop == 0 and tab[randoms+i-11]~=nil then
+											db.actor:give_info_portion(info[lvl]..i)
+											stop = 1
+										end
+									end
+								end
+							end
+						end
+				end
+			end
+		end
+	end
+end
+end
+
+function on_game_start() -- callback на юз
+	RegisterScriptCallback("actor_on_item_use",actor_on_item_use) 
+end

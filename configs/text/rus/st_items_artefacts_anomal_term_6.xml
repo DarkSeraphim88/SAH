@@ -1,0 +1,2164 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_eye_111_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_111_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_121_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_121_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_131_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_131_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_141_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_141_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264</text>
+</string>
+<string id="st_af_eye_112_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_112_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_122_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_122_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_132_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_132_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_142_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_142_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_eye_113_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_113_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_123_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_123_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_133_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_133_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_143_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_143_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264</text>
+</string>
+<string id="st_af_eye_114_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_114_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_124_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_124_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_134_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_134_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_144_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_144_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264</text>
+</string>
+<string id="st_af_eye_115_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_115_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_125_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_125_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_135_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_135_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_145_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_145_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264</text>
+</string>
+<string id="st_af_eye_116_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_116_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_126_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_126_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_136_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_136_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_146_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_146_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_eye_117_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_117_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_127_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_127_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_137_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_137_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_147_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_147_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264</text>
+</string>
+<string id="st_af_eye_118_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_118_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_128_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_128_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_138_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_138_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_148_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_148_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264</text>
+</string>
+<string id="st_af_eye_119_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_119_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_129_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_129_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_139_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_139_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_eye_149_name">
+<text>«Жильник»</text>
+</string>
+<string id="st_af_eye_149_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.229885057471264</text>
+</string>
+<string id="st_af_eye_211_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_221_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_231_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_241_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_212_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_222_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_232_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_242_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_213_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_223_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_233_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_243_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_214_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_224_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_234_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_244_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_215_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.55</text>
+</string>
+<string id="st_af_eye_225_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.3</text>
+</string>
+<string id="st_af_eye_235_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.144827586206897</text>
+</string>
+<string id="st_af_eye_245_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_eye_216_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_eye_226_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_eye_236_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_eye_246_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_217_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_227_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_237_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_247_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_218_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_228_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_238_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_248_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_219_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_229_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_239_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_249_name">
+<text>«Сафой»</text>
+</string>
+<string id="st_af_eye_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_311_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_311_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_321_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_321_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_331_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_331_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_341_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_341_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_312_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_312_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375</text>
+</string>
+<string id="st_af_eye_322_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_322_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425</text>
+</string>
+<string id="st_af_eye_332_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_332_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862</text>
+</string>
+<string id="st_af_eye_342_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_342_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_313_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_313_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375</text>
+</string>
+<string id="st_af_eye_323_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_323_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425</text>
+</string>
+<string id="st_af_eye_333_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_333_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862</text>
+</string>
+<string id="st_af_eye_343_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_343_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_314_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_314_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375</text>
+</string>
+<string id="st_af_eye_324_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_324_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425</text>
+</string>
+<string id="st_af_eye_334_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_334_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862</text>
+</string>
+<string id="st_af_eye_344_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_344_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_315_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_315_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375</text>
+</string>
+<string id="st_af_eye_325_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_325_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425</text>
+</string>
+<string id="st_af_eye_335_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_335_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862</text>
+</string>
+<string id="st_af_eye_345_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_345_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_316_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_316_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.3875</text>
+</string>
+<string id="st_af_eye_326_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_326_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.925</text>
+</string>
+<string id="st_af_eye_336_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_336_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.637931034482759</text>
+</string>
+<string id="st_af_eye_346_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_346_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_317_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_317_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_eye_327_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_327_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_eye_337_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_337_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_eye_347_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_347_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_eye_318_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_318_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375</text>
+</string>
+<string id="st_af_eye_328_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_328_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425</text>
+</string>
+<string id="st_af_eye_338_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_338_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862</text>
+</string>
+<string id="st_af_eye_348_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_348_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_319_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_319_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375</text>
+</string>
+<string id="st_af_eye_329_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_329_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425</text>
+</string>
+<string id="st_af_eye_339_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_339_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862</text>
+</string>
+<string id="st_af_eye_349_name">
+<text>«Закат»</text>
+</string>
+<string id="st_af_eye_349_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_411_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_eye_421_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_eye_431_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_eye_441_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_412_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_422_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_432_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_442_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_413_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_423_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_433_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_443_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_414_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_424_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_434_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_444_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_415_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_425_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_435_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_445_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_416_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_426_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_436_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_446_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_417_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_427_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_437_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_447_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_418_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_428_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_438_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_448_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_419_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_429_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_439_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_449_name">
+<text>«Джин»</text>
+</string>
+<string id="st_af_eye_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_511_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_eye_521_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_eye_531_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_eye_541_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_512_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_eye_522_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_eye_532_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_eye_542_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_eye_513_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_523_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_533_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_543_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_514_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_524_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_534_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_544_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_515_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_525_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_535_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_545_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_516_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_eye_526_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_eye_536_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_eye_546_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_eye_517_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_527_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_537_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_547_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_518_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_528_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_538_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_548_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_519_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_529_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_539_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_549_name">
+<text>«Мотылек»</text>
+</string>
+<string id="st_af_eye_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_611_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_621_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_631_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_641_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_612_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_622_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_632_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_642_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_613_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_623_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_633_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_643_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_614_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_624_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_634_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_644_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_615_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.55</text>
+</string>
+<string id="st_af_eye_625_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.3</text>
+</string>
+<string id="st_af_eye_635_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.144827586206897</text>
+</string>
+<string id="st_af_eye_645_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_eye_616_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_eye_626_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_eye_636_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_eye_646_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_617_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_627_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_637_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_647_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_618_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_628_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_638_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_648_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_619_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_629_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_639_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_649_name">
+<text>«Паразит»</text>
+</string>
+<string id="st_af_eye_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_711_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_721_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_731_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_741_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_eye_712_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_eye_722_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_eye_732_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. </text>
+</string>
+<string id="st_af_eye_742_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_713_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_eye_723_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_eye_733_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. </text>
+</string>
+<string id="st_af_eye_743_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_714_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_eye_724_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_eye_734_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. </text>
+</string>
+<string id="st_af_eye_744_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_715_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_eye_725_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_eye_735_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. </text>
+</string>
+<string id="st_af_eye_745_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_716_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.3875\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_eye_726_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.925\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_eye_736_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.637931034482759\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. </text>
+</string>
+<string id="st_af_eye_746_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_717_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-8.4. </text>
+</string>
+<string id="st_af_eye_727_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. </text>
+</string>
+<string id="st_af_eye_737_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.30344827586207. </text>
+</string>
+<string id="st_af_eye_747_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_eye_718_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_eye_728_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_eye_738_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. </text>
+</string>
+<string id="st_af_eye_748_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_719_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6375\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_eye_729_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.425\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_eye_739_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.293103448275862\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.10344827586207. </text>
+</string>
+<string id="st_af_eye_749_name">
+<text>«Лисицин хвост»</text>
+</string>
+<string id="st_af_eye_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_811_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_eye_821_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_eye_831_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_eye_841_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_812_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_822_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_832_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_842_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_813_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_823_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_833_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_843_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_814_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_824_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_834_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_844_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_815_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_825_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_835_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_845_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_816_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_826_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_836_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_846_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_817_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_827_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_837_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_847_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_818_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_eye_828_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_eye_838_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_eye_848_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_eye_819_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_829_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_839_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_849_name">
+<text>«Гидра»</text>
+</string>
+<string id="st_af_eye_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_eye_911_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_eye_921_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_eye_931_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_eye_941_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_912_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. </text>
+</string>
+<string id="st_af_eye_922_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_eye_932_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. </text>
+</string>
+<string id="st_af_eye_942_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_913_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. </text>
+</string>
+<string id="st_af_eye_923_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_eye_933_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. </text>
+</string>
+<string id="st_af_eye_943_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_914_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. </text>
+</string>
+<string id="st_af_eye_924_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_eye_934_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. </text>
+</string>
+<string id="st_af_eye_944_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_915_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. </text>
+</string>
+<string id="st_af_eye_925_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_eye_935_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. </text>
+</string>
+<string id="st_af_eye_945_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_916_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. </text>
+</string>
+<string id="st_af_eye_926_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_eye_936_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. </text>
+</string>
+<string id="st_af_eye_946_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_917_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. </text>
+</string>
+<string id="st_af_eye_927_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_eye_937_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. </text>
+</string>
+<string id="st_af_eye_947_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_918_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.6. </text>
+</string>
+<string id="st_af_eye_928_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_eye_938_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.39310344827586. </text>
+</string>
+<string id="st_af_eye_948_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.27800237812128. </text>
+</string>
+<string id="st_af_eye_919_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.4. </text>
+</string>
+<string id="st_af_eye_929_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.2. </text>
+</string>
+<string id="st_af_eye_939_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.39310344827586. </text>
+</string>
+<string id="st_af_eye_949_name">
+<text>«Вето»</text>
+</string>
+<string id="st_af_eye_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.27800237812128. </text>
+</string>
+<string id="st_af_eye_011_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_021_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_031_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_041_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_012_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_022_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_032_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_042_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_013_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_023_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_033_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_043_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_014_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_024_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_034_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_044_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_015_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.55\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_025_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.3\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_035_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.144827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_045_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_016_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_eye_026_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_eye_036_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_eye_046_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_017_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_027_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_037_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_047_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_018_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_028_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_038_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_048_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_eye_019_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_eye_029_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_eye_039_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_eye_049_name">
+<text>«Панацея»</text>
+</string>
+<string id="st_af_eye_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+</string_table>

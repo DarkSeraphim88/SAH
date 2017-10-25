@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_dummy_pellicle_111_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_111_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_dummy_pellicle_121_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_121_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_dummy_pellicle_131_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_131_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_dummy_pellicle_141_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_141_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_112_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_112_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_pellicle_122_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_122_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_pellicle_132_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_132_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_dummy_pellicle_142_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_142_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_dummy_pellicle_113_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_113_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_123_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_123_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_133_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_133_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_143_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_143_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_114_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_114_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_124_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_124_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_134_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_134_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_144_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_144_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_115_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_115_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_125_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_125_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_135_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_135_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_145_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_145_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_116_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_116_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_126_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_126_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_136_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_136_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_146_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_146_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_117_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_117_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_127_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_127_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_137_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_137_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_147_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_147_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_118_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_118_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_128_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_128_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_138_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_138_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_148_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_148_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_119_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_119_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_129_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_129_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_139_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_139_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_149_name">
+<text>«Семицвет»</text>
+</string>
+<string id="st_af_dummy_pellicle_149_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_211_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_211_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6</text>
+</string>
+<string id="st_af_dummy_pellicle_221_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_221_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_231_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_231_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517</text>
+</string>
+<string id="st_af_dummy_pellicle_241_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_241_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_212_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_212_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6</text>
+</string>
+<string id="st_af_dummy_pellicle_222_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_222_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_232_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_232_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517</text>
+</string>
+<string id="st_af_dummy_pellicle_242_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_242_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_213_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_213_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6</text>
+</string>
+<string id="st_af_dummy_pellicle_223_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_223_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_233_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_233_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517</text>
+</string>
+<string id="st_af_dummy_pellicle_243_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_243_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_214_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_214_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6</text>
+</string>
+<string id="st_af_dummy_pellicle_224_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_224_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_234_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_234_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517</text>
+</string>
+<string id="st_af_dummy_pellicle_244_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_244_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_215_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_215_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_225_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_225_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.2</text>
+</string>
+<string id="st_af_dummy_pellicle_235_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_235_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.0758620689655172</text>
+</string>
+<string id="st_af_dummy_pellicle_245_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_245_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_pellicle_216_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_216_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_pellicle_226_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_226_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_236_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_236_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_pellicle_246_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_246_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_217_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_217_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6</text>
+</string>
+<string id="st_af_dummy_pellicle_227_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_227_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_237_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_237_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517</text>
+</string>
+<string id="st_af_dummy_pellicle_247_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_247_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_218_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_218_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6</text>
+</string>
+<string id="st_af_dummy_pellicle_228_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_228_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_238_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_238_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517</text>
+</string>
+<string id="st_af_dummy_pellicle_248_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_248_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_219_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_219_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.6</text>
+</string>
+<string id="st_af_dummy_pellicle_229_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_229_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.4</text>
+</string>
+<string id="st_af_dummy_pellicle_239_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_239_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.275862068965517</text>
+</string>
+<string id="st_af_dummy_pellicle_249_name">
+<text>«Губка»</text>
+</string>
+<string id="st_af_dummy_pellicle_249_descr">
+<text>Довольно распространённая изумрудная вязкая субстанция. При ношении данного артефакта создаёт специальное химическое поле защищающее от вредных воздействий.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_311_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_321_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_331_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_341_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_312_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_322_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_332_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_342_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_313_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_323_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_333_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_343_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_314_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_324_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_334_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_344_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_315_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_325_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_335_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_345_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_316_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_dummy_pellicle_326_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_dummy_pellicle_336_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_dummy_pellicle_346_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_317_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_pellicle_327_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_pellicle_337_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_347_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_dummy_pellicle_318_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_328_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_338_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_348_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_319_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_329_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_339_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_349_name">
+<text>«Аленький цветок»</text>
+</string>
+<string id="st_af_dummy_pellicle_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_411_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_411_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_pellicle_421_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_421_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_pellicle_431_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_431_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_pellicle_441_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_441_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_412_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_412_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_422_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_422_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_432_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_432_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_442_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_442_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_413_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_413_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_423_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_423_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_433_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_433_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_443_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_443_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_414_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_414_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_424_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_424_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_434_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_434_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_444_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_444_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_415_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_415_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_425_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_425_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_435_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_435_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_445_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_445_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_416_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_416_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_426_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_426_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_436_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_436_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_446_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_446_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_417_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_417_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_427_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_427_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_437_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_437_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_447_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_447_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_418_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_418_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_428_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_428_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_438_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_438_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_448_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_448_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_419_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_419_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_429_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_429_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_439_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_439_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_449_name">
+<text>«Сверло»</text>
+</string>
+<string id="st_af_dummy_pellicle_449_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_511_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_dummy_pellicle_521_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_dummy_pellicle_531_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_dummy_pellicle_541_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_512_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_pellicle_522_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_pellicle_532_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_dummy_pellicle_542_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_dummy_pellicle_513_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_523_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_533_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_543_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_514_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_524_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_534_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_544_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_515_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_525_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_535_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_545_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_516_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_526_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_536_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_546_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_pellicle_517_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_527_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_537_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_547_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_518_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_528_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_538_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_548_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_519_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_529_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_539_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_549_name">
+<text>«Семена»</text>
+</string>
+<string id="st_af_dummy_pellicle_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_611_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_611_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_621_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_621_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_631_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_631_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_641_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_641_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_612_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_612_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_622_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_622_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_632_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_632_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_642_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_642_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_613_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_613_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_623_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_623_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_633_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_633_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_643_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_643_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_614_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_614_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_624_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_624_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_634_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_634_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_644_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_644_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_615_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_615_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_625_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_625_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_635_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_635_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_645_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_645_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_616_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_616_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_pellicle_626_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_626_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_636_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_636_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_pellicle_646_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_646_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_617_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_617_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_627_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_627_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_637_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_637_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_647_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_647_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_618_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_618_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_628_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_628_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_638_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_638_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_648_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_648_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_619_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_619_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.96. </text>
+</string>
+<string id="st_af_dummy_pellicle_629_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_629_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.92. </text>
+</string>
+<string id="st_af_dummy_pellicle_639_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_639_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.88. </text>
+</string>
+<string id="st_af_dummy_pellicle_649_name">
+<text>«Бур»</text>
+</string>
+<string id="st_af_dummy_pellicle_649_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.84. </text>
+</string>
+<string id="st_af_dummy_pellicle_711_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_711_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_721_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_721_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_pellicle_731_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_731_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_741_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_741_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+2.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_712_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_712_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_pellicle_722_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_722_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_pellicle_732_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_732_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_742_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_742_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_713_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_713_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_pellicle_723_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_723_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_pellicle_733_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_733_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_743_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_743_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_714_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_714_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_pellicle_724_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_724_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_pellicle_734_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_734_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_744_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_744_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_715_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_715_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_pellicle_725_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_725_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_pellicle_735_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_735_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_745_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_745_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_716_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_716_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_dummy_pellicle_726_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_726_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_dummy_pellicle_736_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_736_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_746_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_746_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_717_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_717_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_pellicle_727_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_727_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_pellicle_737_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_737_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_747_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_747_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_718_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_718_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_pellicle_728_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_728_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_pellicle_738_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_738_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_748_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_748_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_719_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_719_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_pellicle_729_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_729_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_pellicle_739_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_739_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.5376.  </text>
+</string>
+<string id="st_af_dummy_pellicle_749_name">
+<text>«Бутон»</text>
+</string>
+<string id="st_af_dummy_pellicle_749_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.0752.  </text>
+</string>
+<string id="st_af_dummy_pellicle_811_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_811_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_pellicle_821_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_821_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_pellicle_831_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_831_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_pellicle_841_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_841_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_812_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_812_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_822_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_822_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_832_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_832_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_842_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_842_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_813_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_813_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_823_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_823_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_833_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_833_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_843_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_843_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_814_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_814_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_824_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_824_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_834_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_834_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_844_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_844_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_815_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_815_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_825_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_825_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_835_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_835_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_845_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_845_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_816_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_816_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_826_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_826_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_836_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_836_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_846_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_846_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_817_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_817_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_827_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_827_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_837_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_837_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_847_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_847_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_818_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_818_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_pellicle_828_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_828_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_pellicle_838_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_838_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_pellicle_848_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_848_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_pellicle_819_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_819_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_829_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_829_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_839_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_839_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_849_name">
+<text>«Гребень»</text>
+</string>
+<string id="st_af_dummy_pellicle_849_descr">
+<text>Свое названия этот артефакт он получил из за немного заосренных зубчиков.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_pellicle_911_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_pellicle_921_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_pellicle_931_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_pellicle_941_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_912_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_922_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_932_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_942_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_913_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_923_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_933_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_943_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_914_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_924_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_934_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_944_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_915_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_925_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_935_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_945_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_916_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_926_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_936_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_946_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_917_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_927_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_937_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_947_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_918_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_928_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_938_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_948_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_919_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_dummy_pellicle_929_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_dummy_pellicle_939_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_dummy_pellicle_949_name">
+<text>«Серп»</text>
+</string>
+<string id="st_af_dummy_pellicle_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_dummy_pellicle_011_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_021_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_031_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_041_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_012_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_022_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_032_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_042_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_013_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_023_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_033_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_043_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_014_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_024_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_034_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_044_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_015_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_025_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_035_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_045_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_016_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_dummy_pellicle_026_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_036_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_dummy_pellicle_046_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_017_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_027_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_037_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_047_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_018_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_028_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_038_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_048_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_pellicle_019_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_pellicle_029_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_pellicle_039_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_pellicle_049_name">
+<text>«Рапан»</text>
+</string>
+<string id="st_af_dummy_pellicle_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+
+</string_table>

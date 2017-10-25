@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_cristall_111_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_cristall_121_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_cristall_131_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_cristall_141_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_112_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_cristall_122_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_cristall_132_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_cristall_142_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_cristall_113_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_123_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_133_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_143_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_114_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_124_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_134_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_144_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_115_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_125_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_135_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_145_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_116_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_126_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_136_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_146_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_117_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_127_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_137_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_147_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_118_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_128_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_138_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_148_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_119_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_129_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_139_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_149_name">
+<text>«Рубец»</text>
+</string>
+<string id="st_af_cristall_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_211_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_221_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_231_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_241_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_212_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_222_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_232_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_242_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_213_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_223_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_233_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_243_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_214_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_224_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_234_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_244_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_215_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_225_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_235_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_245_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_216_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_cristall_226_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_cristall_236_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_cristall_246_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_217_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_227_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_237_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_247_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_218_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_228_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_238_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_248_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_219_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_229_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_239_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_249_name">
+<text>«Реагент»</text>
+</string>
+<string id="st_af_cristall_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_311_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_311_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_321_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_321_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_331_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_331_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.672.  </text>
+</string>
+<string id="st_af_cristall_341_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_341_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+2.344.  </text>
+</string>
+<string id="st_af_cristall_312_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_312_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_322_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_322_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_332_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_332_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_342_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_342_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_313_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_313_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_323_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_323_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_333_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_333_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_343_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_343_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_314_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_314_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_324_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_324_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_334_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_334_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_344_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_344_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_315_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_315_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_325_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_325_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_335_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_335_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_345_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_345_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_316_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_316_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_cristall_326_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_326_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_cristall_336_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_336_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_346_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_346_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_317_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_317_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_cristall_327_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_327_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_cristall_337_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_337_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_347_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_347_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_318_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_318_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_328_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_328_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_338_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_338_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_348_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_348_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_319_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_319_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_329_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_329_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_339_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_339_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_cristall_349_name">
+<text>«Феникс»</text>
+</string>
+<string id="st_af_cristall_349_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_cristall_411_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_cristall_421_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_cristall_431_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_cristall_441_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_412_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_422_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_432_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_442_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_413_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_423_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_433_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_443_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_414_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_424_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_434_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_444_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_415_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_425_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_435_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_445_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_416_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_426_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_436_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_446_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_417_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_427_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_437_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_447_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_418_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_428_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_438_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_448_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_419_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_429_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_439_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_449_name">
+<text>«Лазурь»</text>
+</string>
+<string id="st_af_cristall_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_511_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_511_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_cristall_521_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_521_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_cristall_531_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_531_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_cristall_541_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_541_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_512_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_512_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_cristall_522_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_522_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_cristall_532_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_532_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_cristall_542_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_542_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_cristall_513_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_513_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_523_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_523_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_533_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_533_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_543_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_543_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_514_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_514_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_524_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_524_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_534_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_534_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_544_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_544_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_515_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_515_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_525_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_525_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_535_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_535_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_545_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_545_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_516_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_516_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_526_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_526_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_536_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_536_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_546_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_546_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_517_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_517_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_527_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_527_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_537_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_537_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_547_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_547_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_518_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_518_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_528_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_528_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_538_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_538_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_548_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_548_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_519_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_519_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_529_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_529_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_539_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_539_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_549_name">
+<text>«Золотник»</text>
+</string>
+<string id="st_af_cristall_549_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_611_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_621_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_631_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_641_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_612_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_622_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_632_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_642_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_613_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_623_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_633_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_643_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_614_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_624_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_634_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_644_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_615_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_625_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_635_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_645_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_cristall_616_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_cristall_626_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_cristall_636_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_cristall_646_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_617_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_627_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_637_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_647_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_618_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_628_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_638_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_648_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_619_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_629_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_639_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_649_name">
+<text>«Судрожник»</text>
+</string>
+<string id="st_af_cristall_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_711_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_721_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_731_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_741_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_712_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_cristall_722_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_cristall_732_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_cristall_742_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_cristall_713_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_cristall_723_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_cristall_733_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_cristall_743_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_cristall_714_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_cristall_724_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_cristall_734_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_cristall_744_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_cristall_715_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_cristall_725_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_cristall_735_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_cristall_745_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_cristall_716_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_cristall_726_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_cristall_736_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_cristall_746_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_cristall_717_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_cristall_727_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_cristall_737_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_cristall_747_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_cristall_718_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_cristall_728_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_cristall_738_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_cristall_748_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_cristall_719_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_cristall_729_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_cristall_739_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_cristall_749_name">
+<text>«Погань»</text>
+</string>
+<string id="st_af_cristall_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_cristall_811_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_cristall_821_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_cristall_831_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_cristall_841_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_812_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_822_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_832_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_842_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_813_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_823_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_833_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_843_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_814_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_824_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_834_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_844_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_815_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_825_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_835_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_845_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_816_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_826_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_836_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_846_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_817_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_827_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_837_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_847_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_818_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_828_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_838_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_cristall_848_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_cristall_819_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_829_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_839_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_849_name">
+<text>«Белила»</text>
+</string>
+<string id="st_af_cristall_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_911_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_cristall_921_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_cristall_931_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_cristall_941_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_912_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_cristall_922_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_cristall_932_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_cristall_942_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_913_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_cristall_923_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_cristall_933_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_cristall_943_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_914_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_cristall_924_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_cristall_934_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_cristall_944_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_915_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_cristall_925_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_cristall_935_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_cristall_945_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_916_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_cristall_926_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_cristall_936_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_cristall_946_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_917_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_cristall_927_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_cristall_937_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_cristall_947_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_918_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_cristall_928_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_cristall_938_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_cristall_948_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_cristall_919_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_929_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_cristall_939_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_cristall_949_name">
+<text>«Пряжа»</text>
+</string>
+<string id="st_af_cristall_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_cristall_011_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_021_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_031_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_041_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_012_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_022_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_032_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_042_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_013_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_023_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_033_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_043_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_014_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_024_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_034_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_044_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_015_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_025_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_035_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_045_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_016_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_cristall_026_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_cristall_036_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_cristall_046_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_017_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_027_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_037_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_047_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_018_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_028_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_038_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_048_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_019_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_029_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_039_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_049_name">
+<text>«Чернильница»</text>
+</string>
+<string id="st_af_cristall_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

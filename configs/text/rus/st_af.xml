@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+<string id="enc_container_art_3_name">
+	<text>Научный контейнер третьего поколения</text>
+</string>
+<string id="enc_container_art_2_name">
+	<text>Научный контейнер второго поколения</text>
+</string>
+<string id="enc_container_art_1_name">
+	<text>Научный контейнер первого поколения</text>
+</string>
+<string id="enc_container_art_3_descr">
+	<text>Довольно массивный агрегат, преднозначенный для проведения высокоточных опытов с артефактами. Крайне точный аппарат, технологии которого ещё не успели распространится в Зоне. Внутри контейнера есть пять ячеек, в которые можно поместить артефакты. Может работать в режиме исследования артефакта и в режиме трансмутации.</text>
+</string>
+<string id="enc_container_art_2_descr">
+	<text>Ящик средний размеров, преднозначенный для проведения опытов с артефактами. Имеет более модернезированные технологии, по сравнению с предыдущим образцом контейнера. Внутри контейнера есть четыре ячейки, в которые можно поместить артефакты. Может работать в режиме исследования артефакта и в режиме трансмутации.</text>
+</string>
+<string id="enc_container_art_1_descr">
+	<text>Небольшой чемодан, преднозначенный для проведения опытов с артефактами. Внутри контейнера есть три ячейки, в которые можно поместить артефакты. Может работать в режиме исследования артефакта и в режиме трансмутации.</text>
+</string>
+
+
+<string id="st_itm_pda_recept_1_name">
+	<text>Флешка с информацией</text>
+</string>
+<string id="st_itm_pda_recept_2_name">
+	<text>Флешка с информацией</text>
+</string>
+<string id="st_itm_pda_recept_3_name">
+	<text>Флешка с информацией</text>
+</string>
+<string id="st_itm_itm_pda_recept_1_descr">
+	<text>Компактный накопитель информации, часто используется для хранения разных данных. Может содержать полезные сведения о артефактах Зоны.</text>
+</string>
+<string id="st_itm_itm_pda_recept_2_descr">
+	<text>Компактный накопитель информации, часто используется для хранения разных данных. Может содержать полезные сведения о артефактах Зоны.</text>
+</string>
+<string id="st_itm_itm_pda_recept_3_descr">
+	<text>Компактный накопитель информации, часто используется для хранения разных данных. Может содержать полезные сведения о артефактах Зоны.</text>
+</string>
+
+
+
+
+<string id="trans_money">
+	<text>Стоимость: </text>
+</string>
+<string id="trans_no_money">
+	<text>Недостаточно денег.</text>
+</string>
+<string id="trans_choose">
+	<text>Выберете артефакты для варки или исследования.</text>
+</string>
+<string id="trans_name">
+	<text>Виберите имя новому артефакту.</text>
+</string>
+<string id="trans_take">
+	<text>Заберите полученный артефакт.</text>
+</string>
+<string id="trans_choosed">
+	<text>Выбранный артефакт: </text>
+</string>
+<string id="trans_no_arts">
+	<text>Недостаточное колличество артефактов в инвентаре!</text>
+</string>
+<string id="trans_research_selected">
+	<text>Выбран неизвестный артефакт для исследования. Ожидается инициализация процесса.</text>
+</string>
+<string id="trans_in_process">
+	<text>Идет процесс варки или исследования. Пожалуйства, подождите.</text>
+</string>
+<string id="trans_choose_name">
+	<text>Имя не выбрано.</text>
+</string>
+
+
+
+
+
+
+<string id="trans_next">
+	<text>Дальше</text>
+</string>
+<string id="trans_back">
+	<text>Назад</text>
+</string>
+<string id="trans_result">
+	<text>Запуск</text>
+</string>
+<string id="trans_exit">
+	<text>Выход</text>
+</string>
+
+
+</string_table>

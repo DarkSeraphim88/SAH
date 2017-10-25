@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_mincer_meat_111_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_111_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_mincer_meat_121_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_121_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_mincer_meat_131_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_131_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_mincer_meat_141_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_141_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_112_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_112_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_mincer_meat_122_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_122_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_mincer_meat_132_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_132_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_mincer_meat_142_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_142_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_mincer_meat_113_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_113_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_123_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_123_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_133_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_133_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_143_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_143_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_114_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_114_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_124_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_124_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_134_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_134_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_144_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_144_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_115_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_115_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_125_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_125_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_135_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_135_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_145_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_145_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_116_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_116_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_126_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_126_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_136_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_136_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_146_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_146_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_117_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_117_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_127_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_127_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_137_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_137_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_147_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_147_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_118_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_118_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_128_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_128_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_138_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_138_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_148_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_148_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_119_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_119_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_129_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_129_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_139_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_139_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_149_name">
+<text>«Золотой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_149_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_211_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_221_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_231_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_241_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_212_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_222_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_232_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_242_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_213_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_223_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_233_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_243_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_214_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_224_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_234_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_244_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_215_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_225_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_235_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_245_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_216_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_mincer_meat_226_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_mincer_meat_236_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_mincer_meat_246_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_217_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_227_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_237_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_247_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_218_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_228_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_238_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_248_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_219_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_229_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_239_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_249_name">
+<text>«Тугой»</text>
+</string>
+<string id="st_af_mincer_meat_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_311_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_mincer_meat_321_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_mincer_meat_331_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_mincer_meat_341_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_mincer_meat_312_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_322_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_332_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_342_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_313_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_323_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_333_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_343_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_314_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_324_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_334_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_344_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_315_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_325_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_335_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_345_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_316_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_326_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_336_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_346_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_317_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_327_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_337_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_347_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_318_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_328_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_338_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_348_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_319_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_329_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_339_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_349_name">
+<text>«Блестянка»</text>
+</string>
+<string id="st_af_mincer_meat_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_mincer_meat_411_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_mincer_meat_421_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_mincer_meat_431_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_mincer_meat_441_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_412_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_422_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_432_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_442_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_413_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_423_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_433_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_443_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_414_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_424_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_434_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_444_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_415_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_425_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_435_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_445_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_416_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_426_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_436_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_446_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_417_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_427_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_437_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_447_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_418_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_428_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_438_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_448_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_419_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_429_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_439_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_449_name">
+<text>«Искрящийся ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_511_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_mincer_meat_521_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_mincer_meat_531_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_mincer_meat_541_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_512_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_mincer_meat_522_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_mincer_meat_532_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_mincer_meat_542_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_mincer_meat_513_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_523_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_533_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_543_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_514_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_524_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_534_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_544_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_515_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_525_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_535_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_545_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_516_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_526_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_536_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_546_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_mincer_meat_517_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_527_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_537_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_547_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_518_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_528_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_538_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_548_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_519_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_529_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_539_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_549_name">
+<text>«Летучая Мышь»</text>
+</string>
+<string id="st_af_mincer_meat_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_611_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_611_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_621_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_621_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_631_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_631_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_641_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_641_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_612_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_612_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_622_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_622_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_632_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_632_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_642_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_642_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_613_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_613_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_623_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_623_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_633_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_633_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_643_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_643_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_614_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_614_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_624_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_624_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_634_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_634_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_644_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_644_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_615_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_615_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_625_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_625_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_635_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_635_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_645_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_645_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_mincer_meat_616_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_616_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_mincer_meat_626_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_626_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_mincer_meat_636_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_636_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_mincer_meat_646_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_646_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_617_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_617_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_627_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_627_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_637_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_637_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_647_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_647_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_618_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_618_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_628_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_628_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_638_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_638_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_648_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_648_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_619_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_619_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_629_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_629_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_639_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_639_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_649_name">
+<text>«Изумрудный ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_649_descr">
+<text>Когда Ломоть Мяса долго находится в агрессивной химической среде и продолжает поглащать органические материалы, он начинает бурно реагировать и производить чистку от химикатов не только поверхностью, но и пропуская их непосредственно через свои внутренности. Из-за этого он и приобретает изумрудный оттенок, но его свойства от этого только выигрывают.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_711_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_711_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_mincer_meat_721_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_721_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_mincer_meat_731_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_731_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_mincer_meat_741_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_741_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_mincer_meat_712_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_712_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_mincer_meat_722_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_722_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_mincer_meat_732_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_732_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_mincer_meat_742_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_742_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_mincer_meat_713_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_713_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_mincer_meat_723_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_723_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_mincer_meat_733_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_733_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_mincer_meat_743_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_743_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_mincer_meat_714_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_714_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_mincer_meat_724_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_724_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_mincer_meat_734_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_734_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_mincer_meat_744_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_744_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_mincer_meat_715_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_715_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_mincer_meat_725_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_725_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_mincer_meat_735_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_735_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_mincer_meat_745_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_745_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_mincer_meat_716_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_716_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_mincer_meat_726_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_726_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_mincer_meat_736_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_736_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_mincer_meat_746_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_746_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_mincer_meat_717_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_717_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_mincer_meat_727_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_727_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_mincer_meat_737_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_737_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_mincer_meat_747_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_747_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_mincer_meat_718_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_718_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_mincer_meat_728_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_728_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_mincer_meat_738_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_738_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_mincer_meat_748_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_748_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_mincer_meat_719_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_719_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_mincer_meat_729_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_729_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_mincer_meat_739_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_739_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_mincer_meat_749_name">
+<text>«Бордовый ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_749_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_mincer_meat_811_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_mincer_meat_821_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_mincer_meat_831_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_mincer_meat_841_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_812_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_822_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_832_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_842_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_813_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_823_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_833_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_843_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_814_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_824_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_834_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_844_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_815_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_825_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_835_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_845_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_816_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_826_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_836_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_846_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_817_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_827_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_837_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_847_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_818_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_mincer_meat_828_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_mincer_meat_838_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_mincer_meat_848_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_mincer_meat_819_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_829_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_839_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_849_name">
+<text>«Синева»</text>
+</string>
+<string id="st_af_mincer_meat_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_mincer_meat_911_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_mincer_meat_921_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_mincer_meat_931_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_mincer_meat_941_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_912_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_mincer_meat_922_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_mincer_meat_932_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_mincer_meat_942_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_913_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_mincer_meat_923_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_mincer_meat_933_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_mincer_meat_943_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_914_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_mincer_meat_924_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_mincer_meat_934_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_mincer_meat_944_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_915_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_mincer_meat_925_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_mincer_meat_935_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_mincer_meat_945_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_916_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_mincer_meat_926_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_mincer_meat_936_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_mincer_meat_946_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_917_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_mincer_meat_927_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_mincer_meat_937_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_mincer_meat_947_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_918_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_mincer_meat_928_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_mincer_meat_938_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_mincer_meat_948_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_mincer_meat_919_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_mincer_meat_929_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_mincer_meat_939_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_mincer_meat_949_name">
+<text>«Зашитый Мешок»</text>
+</string>
+<string id="st_af_mincer_meat_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_mincer_meat_011_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_021_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_031_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_041_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_012_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_022_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_032_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_042_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_013_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_023_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_033_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_043_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_014_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_024_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_034_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_044_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_015_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_025_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_035_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_045_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_016_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_mincer_meat_026_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_mincer_meat_036_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_mincer_meat_046_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_017_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_027_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_037_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_047_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_018_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_028_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_038_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_048_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_mincer_meat_019_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_mincer_meat_029_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_mincer_meat_039_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_mincer_meat_049_name">
+<text>«Живой ломоть»</text>
+</string>
+<string id="st_af_mincer_meat_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+
+</string_table>

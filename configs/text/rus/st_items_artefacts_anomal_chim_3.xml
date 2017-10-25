@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_ameba_slug_111_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_ameba_slug_121_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_ameba_slug_131_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_ameba_slug_141_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_112_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_ameba_slug_122_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_ameba_slug_132_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_ameba_slug_142_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_ameba_slug_113_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_123_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_133_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_143_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_114_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_124_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_134_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_144_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_115_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_125_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_135_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_145_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_116_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_126_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_136_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_146_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_117_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_127_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_137_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_147_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_118_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_128_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_138_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_148_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_119_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_129_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_139_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_149_name">
+<text>«Полюс»</text>
+</string>
+<string id="st_af_ameba_slug_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_211_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_221_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_231_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_241_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_212_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_222_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_232_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_242_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_213_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_223_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_233_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_243_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_214_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_224_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_234_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_244_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_215_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_225_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_235_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_245_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_216_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_ameba_slug_226_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_ameba_slug_236_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_ameba_slug_246_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_217_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_227_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_237_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_247_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_218_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_228_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_238_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_248_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_219_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_229_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_239_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_249_name">
+<text>«Втулка»</text>
+</string>
+<string id="st_af_ameba_slug_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_311_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_311_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_321_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_321_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_331_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_331_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_341_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_341_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_312_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_312_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_322_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_322_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_332_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_332_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_342_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_342_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_313_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_313_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_323_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_323_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_333_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_333_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_343_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_343_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_314_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_314_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_324_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_324_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_334_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_334_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_344_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_344_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_315_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_315_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_325_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_325_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_335_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_335_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_345_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_345_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_316_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_316_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_ameba_slug_326_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_326_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_ameba_slug_336_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_336_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_ameba_slug_346_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_346_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_317_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_317_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_ameba_slug_327_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_327_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_ameba_slug_337_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_337_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_347_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_347_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_318_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_318_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_328_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_328_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_338_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_338_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_348_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_348_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_319_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_319_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_329_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_329_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_339_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_339_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_349_name">
+<text>«Близнецы»</text>
+</string>
+<string id="st_af_ameba_slug_349_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_411_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_411_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_ameba_slug_421_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_421_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_ameba_slug_431_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_431_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_ameba_slug_441_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_441_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_412_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_412_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_ameba_slug_422_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_422_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_432_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_432_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_442_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_442_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_413_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_413_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_ameba_slug_423_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_423_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_433_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_433_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_443_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_443_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_414_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_414_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_ameba_slug_424_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_424_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_434_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_434_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_444_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_444_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_415_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_415_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_ameba_slug_425_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_425_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_435_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_435_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_445_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_445_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_416_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_416_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_ameba_slug_426_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_426_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_436_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_436_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_446_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_446_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_417_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_417_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_ameba_slug_427_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_427_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_437_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_437_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_447_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_447_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_418_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_418_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_ameba_slug_428_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_428_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_438_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_438_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_448_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_448_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.048. </text>
+</string>
+<string id="st_af_ameba_slug_419_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_419_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.2. </text>
+</string>
+<string id="st_af_ameba_slug_429_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_429_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.8. </text>
+</string>
+<string id="st_af_ameba_slug_439_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_439_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.44. </text>
+</string>
+<string id="st_af_ameba_slug_449_name">
+<text>«Ёлочкная Игрушка»</text>
+</string>
+<string id="st_af_ameba_slug_449_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.952. </text>
+</string>
+<string id="st_af_ameba_slug_511_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_511_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_ameba_slug_521_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_521_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_ameba_slug_531_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_531_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_ameba_slug_541_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_541_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_512_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_512_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_ameba_slug_522_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_522_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_ameba_slug_532_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_532_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_ameba_slug_542_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_542_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_ameba_slug_513_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_513_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_523_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_523_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_533_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_533_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_543_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_543_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_514_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_514_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_524_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_524_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_534_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_534_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_544_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_544_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_515_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_515_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_525_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_525_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_535_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_535_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_545_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_545_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_516_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_516_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_526_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_526_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_536_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_536_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_546_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_546_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_ameba_slug_517_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_517_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_527_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_527_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_537_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_537_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_547_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_547_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_518_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_518_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_528_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_528_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_538_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_538_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_548_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_548_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_519_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_519_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_529_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_529_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_539_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_539_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_549_name">
+<text>«Гиря»</text>
+</string>
+<string id="st_af_ameba_slug_549_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_611_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_621_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_631_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_641_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_612_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_622_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_632_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_642_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_613_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_623_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_633_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_643_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_614_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_624_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_634_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_644_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_615_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_625_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_635_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_645_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_ameba_slug_616_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_ameba_slug_626_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_ameba_slug_636_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_ameba_slug_646_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_617_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_627_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_637_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_647_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_618_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_628_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_638_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_648_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_619_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_629_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_639_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_649_name">
+<text>«Шкатулка»</text>
+</string>
+<string id="st_af_ameba_slug_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_711_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_721_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_731_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_741_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_ameba_slug_712_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08</text>
+</string>
+<string id="st_af_ameba_slug_722_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32</text>
+</string>
+<string id="st_af_ameba_slug_732_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56</text>
+</string>
+<string id="st_af_ameba_slug_742_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8</text>
+</string>
+<string id="st_af_ameba_slug_713_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08</text>
+</string>
+<string id="st_af_ameba_slug_723_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32</text>
+</string>
+<string id="st_af_ameba_slug_733_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56</text>
+</string>
+<string id="st_af_ameba_slug_743_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8</text>
+</string>
+<string id="st_af_ameba_slug_714_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08</text>
+</string>
+<string id="st_af_ameba_slug_724_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32</text>
+</string>
+<string id="st_af_ameba_slug_734_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56</text>
+</string>
+<string id="st_af_ameba_slug_744_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8</text>
+</string>
+<string id="st_af_ameba_slug_715_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08</text>
+</string>
+<string id="st_af_ameba_slug_725_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32</text>
+</string>
+<string id="st_af_ameba_slug_735_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56</text>
+</string>
+<string id="st_af_ameba_slug_745_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8</text>
+</string>
+<string id="st_af_ameba_slug_716_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.83</text>
+</string>
+<string id="st_af_ameba_slug_726_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.82</text>
+</string>
+<string id="st_af_ameba_slug_736_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.904827586206897</text>
+</string>
+<string id="st_af_ameba_slug_746_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8</text>
+</string>
+<string id="st_af_ameba_slug_717_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_ameba_slug_727_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_ameba_slug_737_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_ameba_slug_747_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_ameba_slug_718_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08</text>
+</string>
+<string id="st_af_ameba_slug_728_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32</text>
+</string>
+<string id="st_af_ameba_slug_738_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56</text>
+</string>
+<string id="st_af_ameba_slug_748_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8</text>
+</string>
+<string id="st_af_ameba_slug_719_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.08</text>
+</string>
+<string id="st_af_ameba_slug_729_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.32</text>
+</string>
+<string id="st_af_ameba_slug_739_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.56</text>
+</string>
+<string id="st_af_ameba_slug_749_name">
+<text>«Вздутый»</text>
+</string>
+<string id="st_af_ameba_slug_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.8</text>
+</string>
+<string id="st_af_ameba_slug_811_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_811_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_ameba_slug_821_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_821_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_ameba_slug_831_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_831_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_ameba_slug_841_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_841_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_812_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_812_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_822_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_822_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_832_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_832_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_842_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_842_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_813_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_813_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_823_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_823_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_833_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_833_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_843_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_843_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_814_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_814_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_824_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_824_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_834_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_834_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_844_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_844_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_815_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_815_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_825_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_825_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_835_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_835_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_845_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_845_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_816_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_816_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_826_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_826_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_836_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_836_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_846_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_846_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_817_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_817_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_827_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_827_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_837_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_837_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_847_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_847_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_818_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_818_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_ameba_slug_828_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_828_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_ameba_slug_838_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_838_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_ameba_slug_848_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_848_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_ameba_slug_819_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_819_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_ameba_slug_829_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_829_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_ameba_slug_839_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_839_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_ameba_slug_849_name">
+<text>«Стальная гусеница»</text>
+</string>
+<string id="st_af_ameba_slug_849_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_ameba_slug_911_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_911_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.6. </text>
+</string>
+<string id="st_af_ameba_slug_921_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_921_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.8. </text>
+</string>
+<string id="st_af_ameba_slug_931_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_931_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.66068965517241. </text>
+</string>
+<string id="st_af_ameba_slug_941_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_941_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.52. </text>
+</string>
+<string id="st_af_ameba_slug_912_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_912_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_ameba_slug_922_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_922_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. </text>
+</string>
+<string id="st_af_ameba_slug_932_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_932_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.28137931034483. </text>
+</string>
+<string id="st_af_ameba_slug_942_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_942_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.61750297265161. </text>
+</string>
+<string id="st_af_ameba_slug_913_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_913_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_ameba_slug_923_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_923_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_ameba_slug_933_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_933_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.04. </text>
+</string>
+<string id="st_af_ameba_slug_943_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_943_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.52. </text>
+</string>
+<string id="st_af_ameba_slug_914_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_914_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_ameba_slug_924_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_924_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_ameba_slug_934_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_934_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.04. </text>
+</string>
+<string id="st_af_ameba_slug_944_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_944_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.52. </text>
+</string>
+<string id="st_af_ameba_slug_915_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_915_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_ameba_slug_925_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_925_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_ameba_slug_935_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_935_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.04. </text>
+</string>
+<string id="st_af_ameba_slug_945_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_945_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.52. </text>
+</string>
+<string id="st_af_ameba_slug_916_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_916_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_ameba_slug_926_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_926_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_ameba_slug_936_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_936_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.04. </text>
+</string>
+<string id="st_af_ameba_slug_946_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_946_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.52. </text>
+</string>
+<string id="st_af_ameba_slug_917_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_917_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_ameba_slug_927_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_927_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_ameba_slug_937_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_937_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.04. </text>
+</string>
+<string id="st_af_ameba_slug_947_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_947_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.52. </text>
+</string>
+<string id="st_af_ameba_slug_918_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_918_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_ameba_slug_928_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_928_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_ameba_slug_938_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_938_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.04. </text>
+</string>
+<string id="st_af_ameba_slug_948_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_948_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.52. </text>
+</string>
+<string id="st_af_ameba_slug_919_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_919_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_ameba_slug_929_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_929_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_ameba_slug_939_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_939_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.04. </text>
+</string>
+<string id="st_af_ameba_slug_949_name">
+<text>«Чешуя»</text>
+</string>
+<string id="st_af_ameba_slug_949_descr">
+<text>Наружный покров некоторых живых существ, образуемый роговыми или костными пластинками. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.52. </text>
+</string>
+<string id="st_af_ameba_slug_011_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_011_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_021_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_021_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.54.  </text>
+</string>
+<string id="st_af_ameba_slug_031_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_031_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.48.  </text>
+</string>
+<string id="st_af_ameba_slug_041_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_041_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_012_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_012_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_022_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_022_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_032_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_032_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_042_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_042_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_013_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_013_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_023_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_023_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_033_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_033_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_043_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_043_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_014_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_014_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_024_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_024_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_034_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_034_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_044_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_044_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_015_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_015_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_025_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_025_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_035_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_035_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_045_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_045_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_016_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_016_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_026_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_026_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_036_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_036_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_046_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_046_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_017_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_017_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_027_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_027_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_037_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_037_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_047_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_047_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_018_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_018_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_028_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_028_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_038_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_038_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_048_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_048_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_ameba_slug_019_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_019_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_ameba_slug_029_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_029_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_ameba_slug_039_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_039_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_ameba_slug_049_name">
+<text>«Лакомка»</text>
+</string>
+<string id="st_af_ameba_slug_049_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+
+</string_table>

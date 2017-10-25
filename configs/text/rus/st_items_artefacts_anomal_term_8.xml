@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_soul_111_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_111_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_soul_121_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_121_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_soul_131_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_131_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_soul_141_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_141_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_112_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_112_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_soul_122_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_122_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_soul_132_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_132_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_soul_142_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_142_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_soul_113_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_113_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_123_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_123_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_133_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_133_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_143_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_143_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_114_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_114_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_124_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_124_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_134_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_134_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_144_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_144_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_115_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_115_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_125_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_125_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_135_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_135_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_145_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_145_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_116_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_116_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_126_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_126_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_136_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_136_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_146_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_146_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_117_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_117_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_127_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_127_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_137_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_137_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_147_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_147_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_118_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_118_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_128_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_128_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_138_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_138_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_148_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_148_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_119_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_119_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_129_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_129_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_139_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_139_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_149_name">
+<text>«Императорская Лампа»</text>
+</string>
+<string id="st_af_soul_149_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_211_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_211_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_221_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_221_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_231_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_231_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_241_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_241_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_212_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_212_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_222_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_222_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_232_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_232_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_242_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_242_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_213_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_213_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_223_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_223_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_233_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_233_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_243_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_243_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_214_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_214_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_224_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_224_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_234_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_234_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_244_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_244_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_215_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_215_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_225_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_225_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_235_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_235_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_245_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_245_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_216_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_216_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_soul_226_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_226_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_soul_236_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_236_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_soul_246_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_246_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_217_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_217_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_227_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_227_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_237_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_237_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_247_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_247_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_218_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_218_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_228_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_228_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_238_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_238_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_248_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_248_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_219_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_219_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_229_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_229_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_239_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_239_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_249_name">
+<text>«Затворник»</text>
+</string>
+<string id="st_af_soul_249_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_311_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_311_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_soul_321_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_321_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_soul_331_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_331_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.672.  </text>
+</string>
+<string id="st_af_soul_341_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_341_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+2.344.  </text>
+</string>
+<string id="st_af_soul_312_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_312_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192</text>
+</string>
+<string id="st_af_soul_322_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_322_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384</text>
+</string>
+<string id="st_af_soul_332_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_332_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_342_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_342_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_313_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_313_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192</text>
+</string>
+<string id="st_af_soul_323_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_323_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384</text>
+</string>
+<string id="st_af_soul_333_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_333_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_343_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_343_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_314_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_314_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192</text>
+</string>
+<string id="st_af_soul_324_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_324_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384</text>
+</string>
+<string id="st_af_soul_334_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_334_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_344_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_344_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_315_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_315_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192</text>
+</string>
+<string id="st_af_soul_325_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_325_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384</text>
+</string>
+<string id="st_af_soul_335_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_335_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_345_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_345_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_316_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_316_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.942</text>
+</string>
+<string id="st_af_soul_326_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_326_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.884</text>
+</string>
+<string id="st_af_soul_336_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_336_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.920827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_346_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_346_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_317_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_317_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_soul_327_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_327_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_soul_337_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_337_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_347_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_347_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_318_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_318_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192</text>
+</string>
+<string id="st_af_soul_328_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_328_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384</text>
+</string>
+<string id="st_af_soul_338_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_338_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_348_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_348_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_319_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_319_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.192</text>
+</string>
+<string id="st_af_soul_329_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_329_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.384</text>
+</string>
+<string id="st_af_soul_339_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_339_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.576\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_soul_349_name">
+<text>«Гефест»</text>
+</string>
+<string id="st_af_soul_349_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.768\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_soul_411_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_411_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.35.  </text>
+</string>
+<string id="st_af_soul_421_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_421_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.9.  </text>
+</string>
+<string id="st_af_soul_431_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_431_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.620689655172414.  </text>
+</string>
+<string id="st_af_soul_441_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_441_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_412_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_412_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_422_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_422_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_432_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_432_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_442_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_442_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_413_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_413_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_423_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_423_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_433_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_433_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_443_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_443_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_414_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_414_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_424_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_424_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_434_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_434_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_444_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_444_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_415_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_415_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_425_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_425_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_435_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_435_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_445_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_445_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_416_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_416_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_426_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_426_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_436_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_436_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_446_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_446_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_417_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_417_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_427_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_427_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_437_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_437_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_447_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_447_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_418_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_418_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_428_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_428_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_438_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_438_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_448_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_448_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_419_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_419_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_429_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_429_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_439_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_439_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_soul_449_name">
+<text>«Экзот»</text>
+</string>
+<string id="st_af_soul_449_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_soul_511_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_soul_521_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_soul_531_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_soul_541_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_512_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_soul_522_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_soul_532_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_soul_542_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_soul_513_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_523_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_533_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_543_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_514_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_524_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_534_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_544_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_515_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_525_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_535_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_545_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_516_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_526_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_536_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_546_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_soul_517_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_527_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_537_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_547_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_518_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_528_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_538_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_548_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_519_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_529_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_539_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_549_name">
+<text>«Отрада»</text>
+</string>
+<string id="st_af_soul_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_611_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_611_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_621_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_621_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_631_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_631_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_641_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_641_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_612_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_612_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_622_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_622_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_632_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_632_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_642_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_642_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_613_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_613_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_623_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_623_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_633_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_633_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_643_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_643_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_614_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_614_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_624_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_624_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_634_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_634_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_644_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_644_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_615_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_615_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_625_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_625_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_635_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_635_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_645_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_645_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_soul_616_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_616_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_soul_626_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_626_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_soul_636_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_636_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_soul_646_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_646_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_617_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_617_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_627_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_627_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_637_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_637_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_647_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_647_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_618_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_618_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_628_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_628_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_638_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_638_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_648_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_648_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_619_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_619_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_soul_629_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_629_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_soul_639_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_639_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_soul_649_name">
+<text>«Кут»</text>
+</string>
+<string id="st_af_soul_649_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_soul_711_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_soul_721_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_soul_731_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_soul_741_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_soul_712_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_soul_722_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_soul_732_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_soul_742_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_soul_713_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_soul_723_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_soul_733_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_soul_743_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_soul_714_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_soul_724_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_soul_734_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_soul_744_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_soul_715_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_soul_725_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_soul_735_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_soul_745_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_soul_716_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_soul_726_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_soul_736_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_soul_746_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_soul_717_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_soul_727_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_soul_737_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_soul_747_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_soul_718_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_soul_728_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_soul_738_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_soul_748_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_soul_719_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_soul_729_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_soul_739_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_soul_749_name">
+<text>«Лекарь»</text>
+</string>
+<string id="st_af_soul_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_soul_811_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_811_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.05.  </text>
+</string>
+<string id="st_af_soul_821_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_821_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.3.  </text>
+</string>
+<string id="st_af_soul_831_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_831_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.455172413793103.  </text>
+</string>
+<string id="st_af_soul_841_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_841_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_812_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_812_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_822_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_822_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_832_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_832_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_842_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_842_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_813_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_813_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_823_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_823_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_833_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_833_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_843_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_843_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_814_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_814_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_824_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_824_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_834_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_834_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_844_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_844_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_815_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_815_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_825_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_825_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_835_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_835_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_845_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_845_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_816_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_816_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_826_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_826_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_836_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_836_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_846_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_846_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_817_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_817_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_827_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_827_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_837_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_837_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_847_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_847_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_818_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_818_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_828_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_828_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_838_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_838_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_848_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_848_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_819_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_819_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_829_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_829_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_839_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_839_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_849_name">
+<text>«Миротворец»</text>
+</string>
+<string id="st_af_soul_849_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_soul_911_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_soul_921_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_soul_931_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_soul_941_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_912_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_soul_922_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_soul_932_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_soul_942_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_913_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_soul_923_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_soul_933_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_soul_943_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_914_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_soul_924_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_soul_934_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_soul_944_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_915_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_soul_925_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_soul_935_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_soul_945_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_916_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_soul_926_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_soul_936_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_soul_946_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_917_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_soul_927_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_soul_937_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_soul_947_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_918_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_soul_928_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_soul_938_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_soul_948_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_soul_919_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_soul_929_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_soul_939_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_soul_949_name">
+<text>«Мазня»</text>
+</string>
+<string id="st_af_soul_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_soul_011_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_021_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_031_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_041_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_012_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_022_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_032_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_042_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_013_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_023_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_033_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_043_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_014_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_024_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_034_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_044_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_015_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_025_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_035_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_045_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_016_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_soul_026_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_soul_036_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_soul_046_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_017_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_027_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_037_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_047_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_018_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_028_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_038_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_048_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_soul_019_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_soul_029_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_soul_039_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_soul_049_name">
+<text>«Дар»</text>
+</string>
+<string id="st_af_soul_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

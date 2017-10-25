@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<string id="st_af_cristall_star_111_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3. </text>
+</string>
+<string id="st_af_cristall_star_121_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_131_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.62068965517241. </text>
+</string>
+<string id="st_af_cristall_star_141_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_112_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_cristall_star_122_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2. </text>
+</string>
+<string id="st_af_cristall_star_132_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.24137931034483. </text>
+</string>
+<string id="st_af_cristall_star_142_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.09750297265161. </text>
+</string>
+<string id="st_af_cristall_star_113_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_123_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_133_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_143_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_114_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_124_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_134_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_144_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_115_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_125_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_135_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_145_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_116_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10. </text>
+</string>
+<string id="st_af_cristall_star_126_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10. </text>
+</string>
+<string id="st_af_cristall_star_136_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10. </text>
+</string>
+<string id="st_af_cristall_star_146_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10. </text>
+</string>
+<string id="st_af_cristall_star_117_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_127_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_137_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_147_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_118_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_128_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_138_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_148_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_119_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_129_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_139_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_149_name">
+<text>«Осиное гнездо»</text>
+</string>
+<string id="st_af_cristall_star_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6. </text>
+</string>
+<string id="st_af_cristall_star_211_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_221_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_231_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_241_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_212_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_222_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_232_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_242_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_213_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_223_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_233_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_243_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_214_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_224_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_234_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_244_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_215_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_225_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_235_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_245_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_216_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_cristall_star_226_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_cristall_star_236_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_cristall_star_246_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_217_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_227_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_237_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_247_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_218_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_228_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_238_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_248_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_219_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_229_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_239_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_249_name">
+<text>«Удильщик»</text>
+</string>
+<string id="st_af_cristall_star_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_311_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_321_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_331_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_341_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_312_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_322_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_332_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_342_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_313_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_323_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_333_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_343_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_314_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_324_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_334_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_344_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_315_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_325_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_335_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_345_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_316_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_326_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_336_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_346_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_317_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_cristall_star_327_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_cristall_star_337_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. </text>
+</string>
+<string id="st_af_cristall_star_347_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.44. </text>
+</string>
+<string id="st_af_cristall_star_318_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_328_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_338_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_348_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_319_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_329_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_339_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_349_name">
+<text>«Едкая Чаша»</text>
+</string>
+<string id="st_af_cristall_star_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_411_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_411_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_cristall_star_421_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_421_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_cristall_star_431_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_431_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_cristall_star_441_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_441_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_412_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_412_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_422_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_422_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_432_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_432_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_442_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_442_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_413_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_413_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_423_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_423_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_433_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_433_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_443_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_443_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_414_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_414_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_424_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_424_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_434_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_434_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_444_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_444_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_415_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_415_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_425_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_425_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_435_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_435_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_445_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_445_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_416_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_416_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_426_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_426_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_436_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_436_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_446_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_446_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_417_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_417_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_427_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_427_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_437_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_437_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_447_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_447_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_418_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_418_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_428_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_428_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_438_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_438_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_448_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_448_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_419_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_419_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_429_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_429_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_439_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_439_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_449_name">
+<text>«Завеса»</text>
+</string>
+<string id="st_af_cristall_star_449_descr">
+<text>Под плотной пеленой дыма можно нащупать его шарообразную основу. Прарадоксально, но испускаемые им густые клубы дыма очень быстро рассеиваются. Ученые крайне заинтересованы в его изучении, так как считают, что он таким образом старается исказить мир вокруг себя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_511_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_511_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2. </text>
+</string>
+<string id="st_af_cristall_star_521_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_521_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3. </text>
+</string>
+<string id="st_af_cristall_star_531_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_531_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.62068965517241. </text>
+</string>
+<string id="st_af_cristall_star_541_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_541_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_512_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_512_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1. </text>
+</string>
+<string id="st_af_cristall_star_522_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_522_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1. </text>
+</string>
+<string id="st_af_cristall_star_532_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_532_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.24137931034483. </text>
+</string>
+<string id="st_af_cristall_star_542_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_542_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.09750297265161. </text>
+</string>
+<string id="st_af_cristall_star_513_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_513_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_523_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_523_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_533_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_533_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_543_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_543_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_514_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_514_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_524_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_524_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_534_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_534_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_544_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_544_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_515_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_515_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_525_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_525_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_535_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_535_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_545_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_545_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_516_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_516_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_526_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_526_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_536_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_536_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_546_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_546_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_517_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_517_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_527_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_527_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_537_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_537_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_547_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_547_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_518_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_518_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_528_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_528_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_538_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_538_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_548_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_548_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_519_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_519_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_529_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_529_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_539_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_539_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_549_name">
+<text>«Мечехвост»</text>
+</string>
+<string id="st_af_cristall_star_549_descr">
+<text>Необычный артефакт с гравитационными способностями. Его спектр полезных способностей очень велик, а именно: небольшая защита от пулевых ранений, отличное гравитационное поле, которое можно использовать для облегчения веса инвентаря. Список его отрицательных качеств не велик, но очень значим: немного ухудшает свертываемость крови и, излучает колосальное количество радиации.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_cristall_star_611_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_611_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_621_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_621_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_631_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_631_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_641_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_641_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_612_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_612_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_622_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_622_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_632_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_632_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_642_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_642_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_613_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_613_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_623_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_623_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_633_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_633_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_643_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_643_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_614_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_614_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_624_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_624_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_634_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_634_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_644_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_644_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_615_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_615_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_625_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_625_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_635_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_635_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_645_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_645_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_616_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_616_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_cristall_star_626_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_626_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_cristall_star_636_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_636_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_cristall_star_646_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_646_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_617_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_617_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_627_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_627_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_637_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_637_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_647_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_647_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_618_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_618_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_628_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_628_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_638_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_638_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_648_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_648_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_619_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_619_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_629_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_629_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_639_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_639_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_649_name">
+<text>«Клевер»</text>
+</string>
+<string id="st_af_cristall_star_649_descr">
+<text>Приносит он удачу или нет, никто не проверял, но от шальной пули может иногда спасти. Основан на излучении и может противостоят пси-излучению. Хорошо влияет на выносливость живых организмов, но повышая и кровеносное давление. Достаточно радиоктивен.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_711_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_711_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_721_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_721_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_731_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_731_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_741_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_741_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_cristall_star_712_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_712_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_722_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_722_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_732_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_732_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_742_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_742_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_713_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_713_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_723_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_723_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_733_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_733_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_743_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_743_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_714_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_714_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_724_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_724_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_734_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_734_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_744_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_744_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_715_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_715_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_725_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_725_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_735_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_735_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_745_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_745_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_716_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_716_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_726_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_726_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_736_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_736_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_746_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_746_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_717_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_717_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.200000000000001. </text>
+</string>
+<string id="st_af_cristall_star_727_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_727_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.2. </text>
+</string>
+<string id="st_af_cristall_star_737_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_737_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3. </text>
+</string>
+<string id="st_af_cristall_star_747_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_747_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.64. </text>
+</string>
+<string id="st_af_cristall_star_718_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_718_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_728_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_728_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_738_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_738_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_748_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_748_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_719_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_719_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_729_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_729_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_739_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_739_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_749_name">
+<text>«Ошейник»</text>
+</string>
+<string id="st_af_cristall_star_749_descr">
+<text>Данный артефакт создает поле, полугравитационное, полуэнергитическое. Гравитационная часть этого артефакта хорошо ослабляет силу пули, а энергитическая способствует свертыванию крови. Но артефакт радиактивен и сиьно поднимает аппетит у владельца.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_cristall_star_811_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_cristall_star_821_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_cristall_star_831_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_cristall_star_841_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_812_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_822_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_832_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_842_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_813_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_823_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_833_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_843_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_814_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_824_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_834_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_844_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_815_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_825_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_835_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_845_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_816_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_826_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_836_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_846_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_817_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_827_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_837_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_847_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_818_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_828_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_838_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_848_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_cristall_star_819_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_829_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_839_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_849_name">
+<text>«Гербарий»</text>
+</string>
+<string id="st_af_cristall_star_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9. </text>
+</string>
+<string id="st_af_cristall_star_911_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_911_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_cristall_star_921_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_921_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_cristall_star_931_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_931_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_cristall_star_941_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_941_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_912_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_912_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. </text>
+</string>
+<string id="st_af_cristall_star_922_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_922_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. </text>
+</string>
+<string id="st_af_cristall_star_932_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_932_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. </text>
+</string>
+<string id="st_af_cristall_star_942_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_942_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_913_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_913_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. </text>
+</string>
+<string id="st_af_cristall_star_923_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_923_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. </text>
+</string>
+<string id="st_af_cristall_star_933_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_933_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. </text>
+</string>
+<string id="st_af_cristall_star_943_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_943_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_914_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_914_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. </text>
+</string>
+<string id="st_af_cristall_star_924_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_924_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. </text>
+</string>
+<string id="st_af_cristall_star_934_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_934_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. </text>
+</string>
+<string id="st_af_cristall_star_944_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_944_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_915_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_915_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. </text>
+</string>
+<string id="st_af_cristall_star_925_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_925_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. </text>
+</string>
+<string id="st_af_cristall_star_935_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_935_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. </text>
+</string>
+<string id="st_af_cristall_star_945_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_945_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_916_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_916_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. </text>
+</string>
+<string id="st_af_cristall_star_926_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_926_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. </text>
+</string>
+<string id="st_af_cristall_star_936_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_936_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. </text>
+</string>
+<string id="st_af_cristall_star_946_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_946_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_917_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_917_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. </text>
+</string>
+<string id="st_af_cristall_star_927_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_927_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. </text>
+</string>
+<string id="st_af_cristall_star_937_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_937_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. </text>
+</string>
+<string id="st_af_cristall_star_947_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_947_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_918_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_918_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.98. </text>
+</string>
+<string id="st_af_cristall_star_928_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_928_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.36. </text>
+</string>
+<string id="st_af_cristall_star_938_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_938_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.74. </text>
+</string>
+<string id="st_af_cristall_star_948_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_948_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.12. </text>
+</string>
+<string id="st_af_cristall_star_919_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_919_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+10.98. </text>
+</string>
+<string id="st_af_cristall_star_929_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_929_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+12.36. </text>
+</string>
+<string id="st_af_cristall_star_939_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_939_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+13.74. </text>
+</string>
+<string id="st_af_cristall_star_949_name">
+<text>«Жестянка»</text>
+</string>
+<string id="st_af_cristall_star_949_descr">
+<text>Артефакт "Жестянка" имеет довольно тривиальную форму, а внешний вид напоминает кусок заржавелого металла. Именно из-за этого данное аномальное образование можно легко не заметить. Довольно быстро образуется из различных стальных, медных и железных кусков в гравитационных аномалиях.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+15.12. </text>
+</string>
+<string id="st_af_cristall_star_011_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_011_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_021_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_021_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_031_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_031_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_041_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_041_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_012_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_012_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_022_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_022_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_032_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_032_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_042_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_042_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_013_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_013_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_023_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_023_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_033_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_033_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_043_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_043_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_014_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_014_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_024_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_024_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_034_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_034_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_044_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_044_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_015_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_015_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_025_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_025_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_035_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_035_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_045_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_045_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_016_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_016_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_cristall_star_026_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_026_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_cristall_star_036_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_036_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_cristall_star_046_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_046_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_017_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_017_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_027_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_027_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_037_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_037_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_047_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_047_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_018_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_018_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_028_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_028_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_038_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_038_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_048_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_048_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_cristall_star_019_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_019_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_cristall_star_029_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_029_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_cristall_star_039_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_039_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_cristall_star_049_name">
+<text>«Скверность»</text>
+</string>
+<string id="st_af_cristall_star_049_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+
+</string_table>

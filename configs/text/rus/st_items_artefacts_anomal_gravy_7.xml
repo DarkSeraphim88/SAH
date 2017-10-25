@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<string id="st_af_vtulka_111_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_vtulka_121_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_vtulka_131_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_vtulka_141_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_112_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_vtulka_122_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_vtulka_132_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_vtulka_142_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_vtulka_113_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_123_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_133_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_143_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_114_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_124_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_134_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_144_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_115_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_125_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_135_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_145_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_116_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_126_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_136_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_146_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_117_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_127_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_137_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_147_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_118_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_128_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_138_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_148_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_119_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_129_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_139_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_149_name">
+<text>«Раковина»</text>
+</string>
+<string id="st_af_vtulka_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_211_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_221_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_231_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_241_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_212_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_222_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_232_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_242_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_213_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_223_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_233_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_243_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_214_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_224_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_234_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_244_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_215_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_225_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_235_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_245_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_216_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_vtulka_226_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_vtulka_236_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_vtulka_246_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_217_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_227_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_237_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_247_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_218_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_228_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_238_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_248_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_219_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_229_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_239_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_249_name">
+<text>«Манок»</text>
+</string>
+<string id="st_af_vtulka_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_311_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_321_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_331_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_341_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_312_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_322_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_332_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_342_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_313_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_323_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_333_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_343_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_314_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_324_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_334_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_344_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_315_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_325_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_335_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_345_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_316_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_vtulka_326_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_vtulka_336_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_vtulka_346_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_317_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_vtulka_327_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_vtulka_337_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_vtulka_347_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_vtulka_318_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_328_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_338_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_348_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_319_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_329_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_339_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_349_name">
+<text>«Клюква»</text>
+</string>
+<string id="st_af_vtulka_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_411_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_411_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_vtulka_421_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_421_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_vtulka_431_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_431_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_vtulka_441_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_441_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_412_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_412_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_422_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_422_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_432_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_432_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_442_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_442_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_413_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_413_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_423_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_423_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_433_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_433_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_443_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_443_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_414_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_414_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_424_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_424_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_434_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_434_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_444_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_444_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_415_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_415_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_425_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_425_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_435_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_435_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_445_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_445_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_416_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_416_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_426_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_426_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_436_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_436_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_446_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_446_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_417_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_417_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_427_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_427_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_437_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_437_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_447_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_447_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_418_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_418_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_428_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_428_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_438_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_438_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_448_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_448_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_419_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_419_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_429_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_429_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_439_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_439_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_449_name">
+<text>«Жеванное Колено»</text>
+</string>
+<string id="st_af_vtulka_449_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_511_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_511_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_vtulka_521_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_521_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_vtulka_531_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_531_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_vtulka_541_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_541_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_512_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_512_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_vtulka_522_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_522_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_vtulka_532_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_532_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_vtulka_542_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_542_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_vtulka_513_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_513_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_523_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_523_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_533_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_533_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_543_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_543_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_514_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_514_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_524_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_524_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_534_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_534_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_544_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_544_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_515_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_515_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_525_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_525_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_535_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_535_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_545_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_545_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_516_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_516_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_526_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_526_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_536_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_536_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_546_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_546_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_vtulka_517_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_517_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_527_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_527_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_537_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_537_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_547_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_547_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_518_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_518_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_528_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_528_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_538_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_538_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_548_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_548_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_519_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_519_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_529_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_529_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_539_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_539_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_549_name">
+<text>«Горох»</text>
+</string>
+<string id="st_af_vtulka_549_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_611_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_621_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_631_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_641_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_612_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_622_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_632_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_642_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_613_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_623_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_633_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_643_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_614_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_624_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_634_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_644_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_615_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_625_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_635_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_645_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_vtulka_616_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_vtulka_626_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_vtulka_636_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_vtulka_646_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_617_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_627_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_637_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_647_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_618_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_628_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_638_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_648_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_619_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_629_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_639_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_649_name">
+<text>«Жаба»</text>
+</string>
+<string id="st_af_vtulka_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_711_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_711_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_721_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_721_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_731_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_731_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_741_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_741_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_vtulka_712_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_712_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_vtulka_722_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_722_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_vtulka_732_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_732_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_vtulka_742_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_742_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_vtulka_713_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_713_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_vtulka_723_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_723_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_vtulka_733_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_733_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_vtulka_743_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_743_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_vtulka_714_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_714_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_vtulka_724_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_724_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_vtulka_734_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_734_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_vtulka_744_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_744_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_vtulka_715_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_715_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_vtulka_725_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_725_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_vtulka_735_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_735_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_vtulka_745_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_745_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_vtulka_716_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_716_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_vtulka_726_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_726_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_vtulka_736_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_736_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_vtulka_746_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_746_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_vtulka_717_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_717_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_vtulka_727_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_727_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_vtulka_737_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_737_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_vtulka_747_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_747_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_vtulka_718_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_718_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_vtulka_728_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_728_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_vtulka_738_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_738_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_vtulka_748_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_748_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_vtulka_719_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_719_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_vtulka_729_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_729_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_vtulka_739_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_739_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_vtulka_749_name">
+<text>«Фантом»</text>
+</string>
+<string id="st_af_vtulka_749_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_vtulka_811_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_811_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_vtulka_821_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_821_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_vtulka_831_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_831_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_vtulka_841_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_841_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_812_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_812_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_822_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_822_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_832_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_832_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_842_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_842_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_813_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_813_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_823_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_823_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_833_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_833_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_843_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_843_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_814_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_814_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_824_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_824_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_834_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_834_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_844_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_844_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_815_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_815_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_825_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_825_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_835_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_835_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_845_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_845_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_816_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_816_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_826_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_826_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_836_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_836_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_846_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_846_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_817_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_817_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_827_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_827_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_837_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_837_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_847_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_847_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_818_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_818_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_vtulka_828_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_828_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_vtulka_838_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_838_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_vtulka_848_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_848_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_vtulka_819_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_819_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_829_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_829_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_839_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_839_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_849_name">
+<text>«Доплер»</text>
+</string>
+<string id="st_af_vtulka_849_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_vtulka_911_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_911_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.8. </text>
+</string>
+<string id="st_af_vtulka_921_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_921_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.4. </text>
+</string>
+<string id="st_af_vtulka_931_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_931_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.22068965517241. </text>
+</string>
+<string id="st_af_vtulka_941_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_941_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_vtulka_912_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_912_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_vtulka_922_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_922_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_vtulka_932_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_932_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.841379310344828. </text>
+</string>
+<string id="st_af_vtulka_942_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_942_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.89750297265161. </text>
+</string>
+<string id="st_af_vtulka_913_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_913_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_vtulka_923_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_923_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_vtulka_933_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_933_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_vtulka_943_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_943_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_vtulka_914_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_914_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_vtulka_924_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_924_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_vtulka_934_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_934_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_vtulka_944_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_944_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_vtulka_915_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_915_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_vtulka_925_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_925_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_vtulka_935_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_935_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_vtulka_945_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_945_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_vtulka_916_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_916_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.2. </text>
+</string>
+<string id="st_af_vtulka_926_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_926_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.4. </text>
+</string>
+<string id="st_af_vtulka_936_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_936_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_vtulka_946_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_946_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_vtulka_917_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_917_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_vtulka_927_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_927_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_vtulka_937_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_937_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_vtulka_947_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_947_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_vtulka_918_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_918_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_vtulka_928_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_928_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_vtulka_938_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_938_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_vtulka_948_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_948_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_vtulka_919_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_919_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_vtulka_929_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_929_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_vtulka_939_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_939_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_vtulka_949_name">
+<text>«Бумеранг»</text>
+</string>
+<string id="st_af_vtulka_949_descr">
+<text>Артефакт произошел из метала, побывавшего под воздействием разнообразных аномальных полей. Получил свое название из-за своей необычной формы, которая и правда перекликается с бумерангом. На этом все сходство заканчивается, если метнуть этот кусок метала, то он скорее зашибёт кого-нибудь при попадании, чем добровольно развернется и полетит назад.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_vtulka_011_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_011_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.6.  </text>
+</string>
+<string id="st_af_vtulka_021_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_021_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.54.  </text>
+</string>
+<string id="st_af_vtulka_031_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_031_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.48.  </text>
+</string>
+<string id="st_af_vtulka_041_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_041_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.4.  </text>
+</string>
+<string id="st_af_vtulka_012_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_012_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_022_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_022_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_032_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_032_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_042_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_042_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_vtulka_013_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_013_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_023_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_023_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_033_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_033_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_043_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_043_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_vtulka_014_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_014_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_024_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_024_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_034_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_034_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_044_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_044_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_vtulka_015_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_015_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_025_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_025_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_035_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_035_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_045_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_045_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_vtulka_016_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_016_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_026_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_026_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_036_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_036_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_046_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_046_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_vtulka_017_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_017_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_027_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_027_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_037_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_037_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_047_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_047_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_vtulka_018_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_018_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_028_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_028_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_038_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_038_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_048_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_048_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_vtulka_019_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_019_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_vtulka_029_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_029_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_vtulka_039_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_039_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_vtulka_049_name">
+<text>«Кружева»</text>
+</string>
+<string id="st_af_vtulka_049_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+
+</string_table>

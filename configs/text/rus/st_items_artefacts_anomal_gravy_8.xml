@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<string id="st_af_gold_fish_111_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-7.8. </text>
+</string>
+<string id="st_af_gold_fish_121_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.2. </text>
+</string>
+<string id="st_af_gold_fish_131_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.58620689655172. </text>
+</string>
+<string id="st_af_gold_fish_141_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.52199762187872. </text>
+</string>
+<string id="st_af_gold_fish_112_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-10.8. </text>
+</string>
+<string id="st_af_gold_fish_122_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-7.2. </text>
+</string>
+<string id="st_af_gold_fish_132_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.96551724137931. </text>
+</string>
+<string id="st_af_gold_fish_142_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.42449464922711. </text>
+</string>
+<string id="st_af_gold_fish_113_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_gold_fish_123_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_gold_fish_133_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.20689655172414. </text>
+</string>
+<string id="st_af_gold_fish_143_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.52199762187872. </text>
+</string>
+<string id="st_af_gold_fish_114_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_gold_fish_124_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_gold_fish_134_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.20689655172414. </text>
+</string>
+<string id="st_af_gold_fish_144_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.52199762187872. </text>
+</string>
+<string id="st_af_gold_fish_115_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_gold_fish_125_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_gold_fish_135_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.20689655172414. </text>
+</string>
+<string id="st_af_gold_fish_145_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.52199762187872. </text>
+</string>
+<string id="st_af_gold_fish_116_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. </text>
+</string>
+<string id="st_af_gold_fish_126_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.8. </text>
+</string>
+<string id="st_af_gold_fish_136_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.79310344827586. </text>
+</string>
+<string id="st_af_gold_fish_146_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.47800237812128. </text>
+</string>
+<string id="st_af_gold_fish_117_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_gold_fish_127_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_gold_fish_137_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.20689655172414. </text>
+</string>
+<string id="st_af_gold_fish_147_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.52199762187872. </text>
+</string>
+<string id="st_af_gold_fish_118_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_gold_fish_128_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_gold_fish_138_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.20689655172414. </text>
+</string>
+<string id="st_af_gold_fish_148_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.52199762187872. </text>
+</string>
+<string id="st_af_gold_fish_119_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_gold_fish_129_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_gold_fish_139_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.20689655172414. </text>
+</string>
+<string id="st_af_gold_fish_149_name">
+<text>«Догмат»</text>
+</string>
+<string id="st_af_gold_fish_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.52199762187872. </text>
+</string>
+<string id="st_af_gold_fish_211_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_211_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_221_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_221_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_231_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_231_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_241_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_241_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_212_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_212_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_222_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_222_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_232_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_232_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_242_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_242_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_213_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_213_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_223_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_223_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_233_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_233_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_243_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_243_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_214_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_214_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_224_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_224_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_234_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_234_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_244_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_244_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_215_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_215_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_225_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_225_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_235_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_235_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_245_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_245_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_216_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_216_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_gold_fish_226_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_226_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_gold_fish_236_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_236_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_gold_fish_246_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_246_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_217_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_217_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_227_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_227_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_237_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_237_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_247_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_247_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_218_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_218_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_228_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_228_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_238_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_238_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_248_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_248_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_219_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_219_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_229_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_229_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_239_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_239_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_249_name">
+<text>«Токсин»</text>
+</string>
+<string id="st_af_gold_fish_249_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_311_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_311_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_gold_fish_321_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_321_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_gold_fish_331_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_331_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_gold_fish_341_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_341_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.8.  </text>
+</string>
+<string id="st_af_gold_fish_312_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_312_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_322_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_322_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_332_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_332_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_342_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_342_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_313_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_313_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_323_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_323_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_333_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_333_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_343_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_343_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_314_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_314_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_324_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_324_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_334_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_334_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_344_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_344_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_315_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_315_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_325_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_325_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_335_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_335_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_345_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_345_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_316_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_316_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_326_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_326_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_336_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_336_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_346_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_346_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_317_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_317_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_327_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_327_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_337_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_337_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_347_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_347_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_318_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_318_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_328_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_328_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_338_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_338_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_348_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_348_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_319_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_319_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_329_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_329_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_339_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_339_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_349_name">
+<text>«Инферно»</text>
+</string>
+<string id="st_af_gold_fish_349_descr">
+<text>Редкий артефакт. По слухам его видели всего несколько раз в Зоне. Есть предположения что образуется он при слиянии нескольких аномалий, пока неизвестно каких. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_gold_fish_411_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_gold_fish_421_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_gold_fish_431_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_gold_fish_441_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_412_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_422_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_432_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_442_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_413_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_423_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_433_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_443_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_414_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_424_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_434_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_444_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_415_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_425_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_435_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_445_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_416_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_426_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_436_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_446_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_417_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_427_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_437_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_447_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_418_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_428_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_438_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_448_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_419_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_429_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_439_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_449_name">
+<text>«Корнеплод»</text>
+</string>
+<string id="st_af_gold_fish_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_511_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_511_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1. </text>
+</string>
+<string id="st_af_gold_fish_521_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_521_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2. </text>
+</string>
+<string id="st_af_gold_fish_531_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_531_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.62068965517241. </text>
+</string>
+<string id="st_af_gold_fish_541_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_541_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_512_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_512_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_gold_fish_522_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_522_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_532_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_532_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.24137931034483. </text>
+</string>
+<string id="st_af_gold_fish_542_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_542_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.09750297265161. </text>
+</string>
+<string id="st_af_gold_fish_513_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_513_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_523_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_523_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_533_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_533_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_543_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_543_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_514_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_514_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_524_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_524_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_534_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_534_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_544_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_544_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_515_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_515_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_525_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_525_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_535_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_535_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_545_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_545_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_516_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_516_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8. </text>
+</string>
+<string id="st_af_gold_fish_526_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_526_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8. </text>
+</string>
+<string id="st_af_gold_fish_536_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_536_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8. </text>
+</string>
+<string id="st_af_gold_fish_546_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_546_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8. </text>
+</string>
+<string id="st_af_gold_fish_517_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_517_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_527_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_527_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_537_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_537_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_547_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_547_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_518_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_518_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_528_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_528_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_538_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_538_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_548_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_548_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_519_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_519_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_529_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_529_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_539_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_539_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_549_name">
+<text>«Стеклянный шар»</text>
+</string>
+<string id="st_af_gold_fish_549_descr">
+<text>Необычный артефакт, который является не просто нагретым песком. Под действием высоких давления и температуры образуется полупрозрачный шарообразный артефакт. Именно поэтому его назвали "Стеклянный шар". Смельчаки говорят, что если по нему постучать, то можно услышать характерный для стекла звук. \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_gold_fish_611_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_611_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_621_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_621_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_631_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_631_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_641_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_641_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_612_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_612_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_622_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_622_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_632_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_632_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_642_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_642_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_613_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_613_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_623_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_623_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_633_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_633_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_643_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_643_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_614_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_614_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_624_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_624_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_634_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_634_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_644_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_644_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_615_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_615_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_625_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_625_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_635_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_635_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_645_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_645_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_gold_fish_616_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_616_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_gold_fish_626_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_626_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_gold_fish_636_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_636_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_gold_fish_646_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_646_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_617_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_617_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_627_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_627_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_637_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_637_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_647_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_647_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_618_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_618_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_628_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_628_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_638_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_638_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_648_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_648_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_619_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_619_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_629_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_629_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_639_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_639_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_649_name">
+<text>«Короед»</text>
+</string>
+<string id="st_af_gold_fish_649_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_711_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_gold_fish_721_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_gold_fish_731_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_gold_fish_741_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_gold_fish_712_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84</text>
+</string>
+<string id="st_af_gold_fish_722_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88</text>
+</string>
+<string id="st_af_gold_fish_732_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517</text>
+</string>
+<string id="st_af_gold_fish_742_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_gold_fish_713_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84</text>
+</string>
+<string id="st_af_gold_fish_723_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88</text>
+</string>
+<string id="st_af_gold_fish_733_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517</text>
+</string>
+<string id="st_af_gold_fish_743_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_gold_fish_714_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84</text>
+</string>
+<string id="st_af_gold_fish_724_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88</text>
+</string>
+<string id="st_af_gold_fish_734_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517</text>
+</string>
+<string id="st_af_gold_fish_744_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_gold_fish_715_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84</text>
+</string>
+<string id="st_af_gold_fish_725_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88</text>
+</string>
+<string id="st_af_gold_fish_735_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517</text>
+</string>
+<string id="st_af_gold_fish_745_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_gold_fish_716_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.59</text>
+</string>
+<string id="st_af_gold_fish_726_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.38</text>
+</string>
+<string id="st_af_gold_fish_736_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.34068965517241</text>
+</string>
+<string id="st_af_gold_fish_746_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_gold_fish_717_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_gold_fish_727_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_gold_fish_737_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_gold_fish_747_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_gold_fish_718_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84</text>
+</string>
+<string id="st_af_gold_fish_728_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88</text>
+</string>
+<string id="st_af_gold_fish_738_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517</text>
+</string>
+<string id="st_af_gold_fish_748_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_gold_fish_719_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.84</text>
+</string>
+<string id="st_af_gold_fish_729_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.88</text>
+</string>
+<string id="st_af_gold_fish_739_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.995862068965517</text>
+</string>
+<string id="st_af_gold_fish_749_name">
+<text>«Мракобес»</text>
+</string>
+<string id="st_af_gold_fish_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_gold_fish_811_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_gold_fish_821_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_gold_fish_831_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_gold_fish_841_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_812_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_822_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_832_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_842_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_813_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_823_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_833_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_843_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_814_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_824_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_834_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_844_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_815_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_825_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_835_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_845_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_816_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_826_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_836_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_846_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_817_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_827_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_837_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_847_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_818_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_gold_fish_828_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_gold_fish_838_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_gold_fish_848_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_gold_fish_819_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_829_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_839_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_849_name">
+<text>«Клюз»</text>
+</string>
+<string id="st_af_gold_fish_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_gold_fish_911_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_911_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_gold_fish_921_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_921_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_gold_fish_931_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_931_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_gold_fish_941_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_941_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_912_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_912_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_gold_fish_922_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_922_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_gold_fish_932_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_932_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_gold_fish_942_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_942_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_913_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_913_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_gold_fish_923_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_923_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_gold_fish_933_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_933_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_gold_fish_943_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_943_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_914_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_914_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_gold_fish_924_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_924_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_gold_fish_934_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_934_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_gold_fish_944_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_944_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_915_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_915_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_gold_fish_925_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_925_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_gold_fish_935_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_935_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_gold_fish_945_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_945_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_916_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_916_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_gold_fish_926_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_926_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_gold_fish_936_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_936_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_gold_fish_946_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_946_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_917_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_917_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_gold_fish_927_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_927_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_gold_fish_937_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_937_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_gold_fish_947_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_947_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_918_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_918_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_gold_fish_928_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_928_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_gold_fish_938_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_938_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_gold_fish_948_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_948_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_gold_fish_919_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_919_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_gold_fish_929_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_929_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_gold_fish_939_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_939_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_gold_fish_949_name">
+<text>«Запретный плод»</text>
+</string>
+<string id="st_af_gold_fish_949_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_gold_fish_011_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_011_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_021_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_021_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_031_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_031_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_041_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_041_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_012_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_012_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_022_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_022_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_032_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_032_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_042_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_042_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_013_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_013_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_023_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_023_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_033_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_033_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_043_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_043_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_014_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_014_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_024_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_024_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_034_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_034_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_044_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_044_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_015_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_015_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_025_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_025_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_035_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_035_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_045_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_045_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_016_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_016_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-2.3.  </text>
+</string>
+<string id="st_af_gold_fish_026_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_026_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.92.  </text>
+</string>
+<string id="st_af_gold_fish_036_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_036_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.72965517241379.  </text>
+</string>
+<string id="st_af_gold_fish_046_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_046_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_017_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_017_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_027_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_027_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_037_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_037_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_047_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_047_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_018_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_018_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_028_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_028_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_038_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_038_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_048_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_048_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+<string id="st_af_gold_fish_019_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_019_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.8.  </text>
+</string>
+<string id="st_af_gold_fish_029_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_029_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.92.  </text>
+</string>
+<string id="st_af_gold_fish_039_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_039_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.04.  </text>
+</string>
+<string id="st_af_gold_fish_049_name">
+<text>«Обруч»</text>
+</string>
+<string id="st_af_gold_fish_049_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.2.  </text>
+</string>
+
+
+
+</string_table>

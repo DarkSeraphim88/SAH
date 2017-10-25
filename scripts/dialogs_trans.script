@@ -1,0 +1,56 @@
+function have_money_0(a,b)
+	return db.actor:money() < 35000
+end 
+
+function have_money_8000(a,b)
+	return db.actor:money() >= 35000
+end 
+
+function have_money_16000(a,b)
+	return db.actor:money() >= 100000
+end 
+
+function have_money_30000(a,b)
+	return db.actor:money() >= 250000
+end 
+
+function trans_not_started(a,b)
+	return db.actor:dont_has_info("resultart_timer_start_4") and db.actor:dont_has_info("resultart_timer_end_4")
+end 
+
+function trans_not_started_herman(a,b)
+	return db.actor:dont_has_info("resultart_timer_start_5") and db.actor:dont_has_info("resultart_timer_end_5")
+end 
+
+function trans_ended(a,b)
+	return db.actor:has_info("resultart_timer_end_4")
+end 
+
+function trans_ended_herman(a,b)
+	return db.actor:has_info("resultart_timer_end_5")
+end 
+
+function trans_4_run(a,b)
+db.actor:give_info_portion("transmut_4")
+art_script.art_script():ShowDialog(true)
+end 
+
+function trans_5_run(a,b)
+db.actor:give_info_portion("transmut_5")
+art_script.art_script():ShowDialog(true)
+end 
+
+function give_container_1(a,b)
+dialogs.relocate_money_from_actor(a,b,35000)
+dialogs.relocate_item_section(second_speaker, "container_art_1", "in",1)
+end 
+
+function give_container_2(a,b)
+dialogs.relocate_money_from_actor(a,b,100000)
+dialogs.relocate_item_section(second_speaker, "container_art_2", "in",1)
+end 
+
+function give_container_3(a,b)
+dialogs.relocate_money_from_actor(a,b,250000)
+dialogs.relocate_item_section(second_speaker, "container_art_3", "in",1)
+end 

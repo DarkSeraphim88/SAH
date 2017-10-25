@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+<string id="af_kat">
+	<text>Катализатор</text>
+</string>
+<string id="af_af">
+	<text>Артефакт</text>
+</string>
+<string id="af_sim">
+	<text>Симбиот</text>
+</string>
+<string id="af_sima">
+	<text>Аномальный Симбиот</text>
+</string>
+<string id="af_un">
+	<text>Неизвестно</text>
+</string>
+<string id="af_sp">
+	<text>Спайка</text>
+</string>
+<string id="af_ing">
+	<text>Нерожденный</text>
+</string>
+<string id="af_abs">
+	<text>Абсолют</text>
+</string>
+<string id="af_para">
+	<text>Парадокс</text>
+</string>
+
+</string_table>

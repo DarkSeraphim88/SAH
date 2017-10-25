@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+<string id="st_af_dummy_battery_111_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_121_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_131_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_141_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_112_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_122_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_132_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_142_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_113_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_123_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_133_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_143_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_114_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_124_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_134_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_144_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_115_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_125_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_135_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_145_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_116_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_126_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_136_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_146_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_117_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_127_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_137_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_147_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_118_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_128_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_138_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_148_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_119_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_129_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_139_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_149_name">
+<text>«Экситон»</text>
+</string>
+<string id="st_af_dummy_battery_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.8.  </text>
+</string>
+<string id="st_af_dummy_battery_211_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_221_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_231_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_241_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_212_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_222_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_232_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_242_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_213_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_223_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_233_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_243_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_214_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_224_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_234_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_244_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_215_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_225_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_235_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_245_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_216_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_battery_226_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_battery_236_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_battery_246_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_217_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_227_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_237_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_247_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_218_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_228_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_238_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_248_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_219_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_229_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_239_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_249_name">
+<text>«Эшелетт»</text>
+</string>
+<string id="st_af_dummy_battery_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_311_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_321_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_331_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_341_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_312_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_322_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_332_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_342_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_313_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_323_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_333_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_343_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_314_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_324_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_334_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_344_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_315_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_325_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_335_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_345_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_316_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_dummy_battery_326_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_dummy_battery_336_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_dummy_battery_346_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_317_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_battery_327_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_battery_337_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_dummy_battery_347_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_dummy_battery_318_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_328_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_338_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_348_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_319_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_329_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_339_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_349_name">
+<text>«Вариконд»</text>
+</string>
+<string id="st_af_dummy_battery_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_411_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.35.  </text>
+</string>
+<string id="st_af_dummy_battery_421_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.9.  </text>
+</string>
+<string id="st_af_dummy_battery_431_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.620689655172414.  </text>
+</string>
+<string id="st_af_dummy_battery_441_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_412_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_422_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_432_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_442_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_413_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_423_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_433_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_443_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_414_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_424_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_434_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_444_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_415_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_425_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_435_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_445_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_416_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_426_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_436_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_446_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_417_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_427_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_437_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_447_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_418_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_428_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_438_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_448_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_419_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_429_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_439_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.275862068965517.  </text>
+</string>
+<string id="st_af_dummy_battery_449_name">
+<text>«Разрядник»</text>
+</string>
+<string id="st_af_dummy_battery_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_battery_511_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_511_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_dummy_battery_521_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_521_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_dummy_battery_531_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_531_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_dummy_battery_541_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_541_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_512_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_512_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_battery_522_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_522_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_battery_532_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_532_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_dummy_battery_542_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_542_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_dummy_battery_513_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_513_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_523_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_523_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_533_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_533_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_543_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_543_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_514_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_514_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_524_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_524_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_534_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_534_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_544_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_544_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_515_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_515_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_525_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_525_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_535_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_535_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_545_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_545_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_516_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_516_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_battery_526_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_526_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_battery_536_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_536_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_battery_546_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_546_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_battery_517_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_517_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_527_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_527_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_537_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_537_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_547_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_547_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_518_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_518_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_528_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_528_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_538_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_538_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_548_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_548_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_519_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_519_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_529_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_529_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_539_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_539_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_549_name">
+<text>«Аккумулятор»</text>
+</string>
+<string id="st_af_dummy_battery_549_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_611_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_621_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_631_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_641_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_612_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_622_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_632_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_642_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_613_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_623_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_633_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_643_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_614_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_624_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_634_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_644_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_615_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_625_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_635_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_645_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_battery_616_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_battery_626_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_battery_636_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_battery_646_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_617_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_627_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_637_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_647_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_618_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_628_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_638_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_648_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_619_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_629_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_639_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_649_name">
+<text>«Дезинтегратор»</text>
+</string>
+<string id="st_af_dummy_battery_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_711_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_711_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_721_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_721_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_731_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_731_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_741_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_741_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_battery_712_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_712_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_battery_722_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_722_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_battery_732_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_732_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_battery_742_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_742_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_battery_713_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_713_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_battery_723_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_723_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_battery_733_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_733_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_battery_743_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_743_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_battery_714_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_714_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_battery_724_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_724_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_battery_734_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_734_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_battery_744_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_744_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_battery_715_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_715_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_battery_725_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_725_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_battery_735_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_735_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_battery_745_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_745_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_battery_716_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_716_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_dummy_battery_726_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_726_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_dummy_battery_736_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_736_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_dummy_battery_746_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_746_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_battery_717_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_717_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_battery_727_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_727_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_battery_737_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_737_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_dummy_battery_747_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_747_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_dummy_battery_718_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_718_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_battery_728_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_728_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_battery_738_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_738_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_battery_748_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_748_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_battery_719_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_719_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_battery_729_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_729_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_battery_739_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_739_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_battery_749_name">
+<text>«Рубиновая батарейка»</text>
+</string>
+<string id="st_af_dummy_battery_749_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_battery_811_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_battery_821_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_battery_831_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_battery_841_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_812_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_822_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_832_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_842_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_813_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_823_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_833_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_843_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_814_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_824_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_834_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_844_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_815_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_825_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_835_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_845_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_816_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_826_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_836_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_846_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_817_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_827_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_837_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_847_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_818_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_battery_828_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_battery_838_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_battery_848_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_battery_819_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_battery_829_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_battery_839_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_battery_849_name">
+<text>«Искривление»</text>
+</string>
+<string id="st_af_dummy_battery_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_battery_911_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_battery_921_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_battery_931_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_battery_941_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_912_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_battery_922_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_battery_932_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_battery_942_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_913_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_battery_923_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_battery_933_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_battery_943_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_914_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_battery_924_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_battery_934_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_battery_944_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_915_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_battery_925_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_battery_935_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_battery_945_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_916_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_battery_926_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_battery_936_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_battery_946_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_917_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_battery_927_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_battery_937_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_battery_947_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_918_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_battery_928_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_battery_938_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_battery_948_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_battery_919_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_dummy_battery_929_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_dummy_battery_939_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_dummy_battery_949_name">
+<text>«Ветошь»</text>
+</string>
+<string id="st_af_dummy_battery_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_dummy_battery_011_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_021_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_031_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_041_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_012_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_022_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_032_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_042_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_013_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_023_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_033_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_043_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_014_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_024_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_034_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_044_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_015_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_025_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_035_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_045_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_016_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_dummy_battery_026_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_dummy_battery_036_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_dummy_battery_046_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_017_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_027_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_037_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_047_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_018_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_028_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_038_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_048_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_battery_019_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_battery_029_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_battery_039_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_battery_049_name">
+<text>«Стабилизатор»</text>
+</string>
+<string id="st_af_dummy_battery_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

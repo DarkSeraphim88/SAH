@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_rusty_kristall_111_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_rusty_kristall_121_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_rusty_kristall_131_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_rusty_kristall_141_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_112_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_rusty_kristall_122_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_rusty_kristall_132_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_rusty_kristall_142_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_rusty_kristall_113_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_123_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_133_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_143_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_114_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_124_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_134_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_144_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_115_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_125_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_135_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_145_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_116_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_126_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_136_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_146_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_117_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_127_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_137_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_147_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_118_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_128_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_138_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_148_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_119_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_129_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_139_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_149_name">
+<text>«Звездная роса»</text>
+</string>
+<string id="st_af_rusty_kristall_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_211_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_211_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_221_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_221_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_231_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_231_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_241_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_241_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_212_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_212_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_222_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_222_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_232_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_232_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_242_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_242_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_213_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_213_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_223_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_223_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_233_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_233_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_243_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_243_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_214_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_214_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_224_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_224_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_234_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_234_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_244_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_244_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_215_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_215_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_rusty_kristall_225_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_225_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_rusty_kristall_235_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_235_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_rusty_kristall_245_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_245_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_rusty_kristall_216_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_216_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_rusty_kristall_226_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_226_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_rusty_kristall_236_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_236_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_rusty_kristall_246_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_246_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_217_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_217_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_227_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_227_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_237_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_237_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_247_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_247_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_218_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_218_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_228_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_228_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_238_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_238_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_248_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_248_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_219_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_219_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_229_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_229_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_239_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_239_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_249_name">
+<text>«Кислотный ком»</text>
+</string>
+<string id="st_af_rusty_kristall_249_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_311_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_321_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_331_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_341_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_312_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_322_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_332_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_342_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_313_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_323_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_333_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_343_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_314_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_324_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_334_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_344_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_315_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_325_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_335_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_345_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_316_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_rusty_kristall_326_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_rusty_kristall_336_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_rusty_kristall_346_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_317_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_rusty_kristall_327_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_rusty_kristall_337_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_347_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_rusty_kristall_318_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_328_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_338_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_348_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_319_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_329_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_339_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_349_name">
+<text>«Цинаш»</text>
+</string>
+<string id="st_af_rusty_kristall_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_411_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_411_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_rusty_kristall_421_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_421_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_rusty_kristall_431_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_431_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_rusty_kristall_441_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_441_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_412_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_412_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_422_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_422_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_432_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_432_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_442_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_442_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_413_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_413_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_423_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_423_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_433_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_433_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_443_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_443_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_414_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_414_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_424_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_424_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_434_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_434_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_444_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_444_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_415_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_415_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_425_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_425_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_435_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_435_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_445_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_445_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_416_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_416_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_426_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_426_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_436_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_436_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_446_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_446_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_417_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_417_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_427_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_427_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_437_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_437_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_447_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_447_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_418_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_418_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_428_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_428_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_438_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_438_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_448_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_448_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_419_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_419_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_rusty_kristall_429_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_429_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_rusty_kristall_439_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_439_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_rusty_kristall_449_name">
+<text>«Алмазная пыль»</text>
+</string>
+<string id="st_af_rusty_kristall_449_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_rusty_kristall_511_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_511_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_rusty_kristall_521_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_521_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_rusty_kristall_531_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_531_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_rusty_kristall_541_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_541_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_512_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_512_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_rusty_kristall_522_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_522_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_rusty_kristall_532_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_532_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_rusty_kristall_542_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_542_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_rusty_kristall_513_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_513_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_523_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_523_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_533_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_533_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_543_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_543_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_514_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_514_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_524_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_524_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_534_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_534_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_544_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_544_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_515_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_515_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_525_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_525_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_535_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_535_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_545_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_545_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_516_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_516_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_526_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_526_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_536_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_536_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_546_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_546_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_rusty_kristall_517_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_517_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_527_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_527_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_537_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_537_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_547_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_547_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_518_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_518_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_528_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_528_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_538_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_538_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_548_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_548_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_519_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_519_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_529_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_529_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_539_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_539_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_549_name">
+<text>«Тулуп»</text>
+</string>
+<string id="st_af_rusty_kristall_549_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_611_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_611_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_621_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_621_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_631_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_631_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_641_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_641_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_612_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_612_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_622_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_622_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_632_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_632_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_642_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_642_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_613_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_613_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_623_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_623_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_633_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_633_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_643_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_643_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_614_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_614_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_624_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_624_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_634_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_634_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_644_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_644_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_615_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_615_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_625_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_625_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_635_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_635_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_645_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_645_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_616_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_616_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_rusty_kristall_626_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_626_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_rusty_kristall_636_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_636_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_rusty_kristall_646_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_646_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_617_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_617_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_627_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_627_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_637_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_637_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_647_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_647_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_618_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_618_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_628_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_628_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_638_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_638_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_648_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_648_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_619_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_619_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_629_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_629_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_639_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_639_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_649_name">
+<text>«Скрипучая Грена»</text>
+</string>
+<string id="st_af_rusty_kristall_649_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_711_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_711_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_721_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_721_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_731_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_731_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_741_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_741_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_rusty_kristall_712_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_712_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_722_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_722_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_732_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_732_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_742_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_742_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_713_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_713_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_723_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_723_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_733_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_733_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_743_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_743_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_714_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_714_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_724_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_724_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_734_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_734_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_744_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_744_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_715_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_715_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_725_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_725_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_735_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_735_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_745_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_745_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_716_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_716_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_rusty_kristall_726_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_726_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_rusty_kristall_736_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_736_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_rusty_kristall_746_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_746_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_717_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_717_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_rusty_kristall_727_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_727_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_rusty_kristall_737_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_737_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_747_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_747_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_rusty_kristall_718_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_718_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_728_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_728_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_738_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_738_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_748_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_748_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_719_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_719_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_rusty_kristall_729_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_729_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_rusty_kristall_739_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_739_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_rusty_kristall_749_name">
+<text>«Додекаэдр»</text>
+</string>
+<string id="st_af_rusty_kristall_749_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_rusty_kristall_811_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_811_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_rusty_kristall_821_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_821_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_rusty_kristall_831_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_831_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_rusty_kristall_841_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_841_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_812_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_812_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_822_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_822_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_832_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_832_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_842_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_842_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_813_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_813_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_823_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_823_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_833_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_833_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_843_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_843_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_814_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_814_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_824_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_824_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_834_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_834_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_844_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_844_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_815_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_815_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_825_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_825_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_835_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_835_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_845_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_845_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_816_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_816_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_826_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_826_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_836_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_836_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_846_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_846_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_817_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_817_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_827_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_827_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_837_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_837_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_847_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_847_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_818_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_818_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_828_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_828_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_838_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_838_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_848_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_848_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.2. </text>
+</string>
+<string id="st_af_rusty_kristall_819_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_819_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.2. </text>
+</string>
+<string id="st_af_rusty_kristall_829_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_829_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.2. </text>
+</string>
+<string id="st_af_rusty_kristall_839_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_839_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.2. </text>
+</string>
+<string id="st_af_rusty_kristall_849_name">
+<text>«Весы»</text>
+</string>
+<string id="st_af_rusty_kristall_849_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.2. </text>
+</string>
+<string id="st_af_rusty_kristall_911_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.8. </text>
+</string>
+<string id="st_af_rusty_kristall_921_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.4. </text>
+</string>
+<string id="st_af_rusty_kristall_931_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.22068965517241. </text>
+</string>
+<string id="st_af_rusty_kristall_941_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_912_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_922_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_rusty_kristall_932_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.841379310344828. </text>
+</string>
+<string id="st_af_rusty_kristall_942_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.89750297265161. </text>
+</string>
+<string id="st_af_rusty_kristall_913_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_rusty_kristall_923_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_933_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_rusty_kristall_943_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_914_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_rusty_kristall_924_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_934_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_rusty_kristall_944_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_915_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_rusty_kristall_925_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_935_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_rusty_kristall_945_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_916_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.2. </text>
+</string>
+<string id="st_af_rusty_kristall_926_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.4. </text>
+</string>
+<string id="st_af_rusty_kristall_936_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_rusty_kristall_946_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_rusty_kristall_917_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_rusty_kristall_927_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_937_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_rusty_kristall_947_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_918_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_rusty_kristall_928_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_938_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_rusty_kristall_948_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_919_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_rusty_kristall_929_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_rusty_kristall_939_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_rusty_kristall_949_name">
+<text>«Крица»</text>
+</string>
+<string id="st_af_rusty_kristall_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_rusty_kristall_011_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.36.  </text>
+</string>
+<string id="st_af_rusty_kristall_021_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.264.  </text>
+</string>
+<string id="st_af_rusty_kristall_031_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.168.  </text>
+</string>
+<string id="st_af_rusty_kristall_041_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.0399999999999999.  </text>
+</string>
+<string id="st_af_rusty_kristall_012_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_022_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_032_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_042_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+<string id="st_af_rusty_kristall_013_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_023_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_033_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_043_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+<string id="st_af_rusty_kristall_014_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_024_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_034_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_044_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+<string id="st_af_rusty_kristall_015_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_025_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_035_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_045_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+<string id="st_af_rusty_kristall_016_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_026_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_036_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_046_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+<string id="st_af_rusty_kristall_017_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-11.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_027_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-8.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_037_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-7.80689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_047_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-7.28199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+<string id="st_af_rusty_kristall_018_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_028_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_038_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_048_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+<string id="st_af_rusty_kristall_019_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.64.  </text>
+</string>
+<string id="st_af_rusty_kristall_029_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.736.  </text>
+</string>
+<string id="st_af_rusty_kristall_039_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.60689655172414. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.832.  </text>
+</string>
+<string id="st_af_rusty_kristall_049_name">
+<text>«Пестрая Лента»</text>
+</string>
+<string id="st_af_rusty_kristall_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.72199762187872. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.96.  </text>
+</string>
+
+
+</string_table>

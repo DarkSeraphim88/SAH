@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+<string id="st_af_electra_moonlight_111_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_111_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_electra_moonlight_121_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_121_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_electra_moonlight_131_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_131_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_electra_moonlight_141_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_141_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_112_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_112_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_electra_moonlight_122_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_122_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_electra_moonlight_132_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_132_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_electra_moonlight_142_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_142_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_electra_moonlight_113_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_113_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_123_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_123_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_133_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_133_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_143_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_143_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_114_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_114_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_124_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_124_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_134_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_134_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_144_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_144_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_115_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_115_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_125_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_125_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_135_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_135_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_145_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_145_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_116_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_116_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_126_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_126_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_136_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_136_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_146_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_146_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_117_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_117_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_127_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_127_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_137_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_137_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_147_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_147_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_118_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_118_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_128_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_128_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_138_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_138_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_148_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_148_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_119_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_119_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_129_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_129_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_139_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_139_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_149_name">
+<text>«Восход»</text>
+</string>
+<string id="st_af_electra_moonlight_149_descr">
+<text>Тусклый вдали и яркий внутри артефакт. Подвергшийся дополнительному аномальному воздействию и ставший проявлять свойства радиационно-подавляющих артефактов. За это, а так же за мягкое переливающееся жёлто-оранжевое свечение он и получил столь приятное имя.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_211_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_211_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_221_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_221_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_231_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_231_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_241_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_241_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_212_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_212_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_222_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_222_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_232_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_232_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_242_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_242_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_213_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_213_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_223_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_223_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_233_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_233_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_243_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_243_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_214_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_214_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_224_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_224_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_234_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_234_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_244_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_244_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_215_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_215_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_225_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_225_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_235_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_235_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_245_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_245_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_216_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_216_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_electra_moonlight_226_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_226_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_electra_moonlight_236_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_236_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_electra_moonlight_246_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_246_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_217_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_217_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_227_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_227_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_237_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_237_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_247_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_247_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_218_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_218_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_228_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_228_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_238_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_238_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_248_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_248_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_219_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_219_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_229_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_229_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_239_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_239_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_249_name">
+<text>«Хамелеон»</text>
+</string>
+<string id="st_af_electra_moonlight_249_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_311_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_311_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_321_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_321_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_331_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_331_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_341_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_341_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_312_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_312_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_322_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_322_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_332_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_332_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_342_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_342_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_313_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_313_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_323_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_323_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_333_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_333_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_343_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_343_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_314_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_314_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_324_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_324_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_334_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_334_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_344_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_344_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_315_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_315_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_325_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_325_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_335_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_335_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_345_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_345_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_316_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_316_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_electra_moonlight_326_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_326_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_electra_moonlight_336_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_336_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_electra_moonlight_346_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_346_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_317_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_317_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_electra_moonlight_327_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_327_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_electra_moonlight_337_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_337_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_electra_moonlight_347_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_347_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_electra_moonlight_318_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_318_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_328_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_328_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_338_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_338_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_348_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_348_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_319_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_319_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_329_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_329_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_339_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_339_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_349_name">
+<text>«Комета»</text>
+</string>
+<string id="st_af_electra_moonlight_349_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_411_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_electra_moonlight_421_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_electra_moonlight_431_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_electra_moonlight_441_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_412_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_422_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_432_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_442_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_413_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_423_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_433_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_443_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_414_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_424_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_434_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_444_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_415_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_425_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_435_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_445_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_416_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_426_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_436_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_446_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_417_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_427_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_437_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_447_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_418_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_428_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_438_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_448_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_419_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_429_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_439_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_449_name">
+<text>«Шаровая молния»</text>
+</string>
+<string id="st_af_electra_moonlight_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_511_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_electra_moonlight_521_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_electra_moonlight_531_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_electra_moonlight_541_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_512_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_electra_moonlight_522_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_electra_moonlight_532_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_electra_moonlight_542_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_electra_moonlight_513_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_523_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_533_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_543_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_514_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_524_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_534_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_544_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_515_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_525_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_535_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_545_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_516_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_526_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_536_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_546_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_electra_moonlight_517_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_527_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_537_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_547_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_518_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_528_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_538_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_548_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_519_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_529_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_539_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_549_name">
+<text>«Рема»</text>
+</string>
+<string id="st_af_electra_moonlight_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_611_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_611_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_621_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_621_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_631_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_631_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_641_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_641_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_612_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_612_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_622_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_622_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_632_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_632_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_642_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_642_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_613_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_613_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_623_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_623_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_633_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_633_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_643_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_643_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_614_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_614_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_624_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_624_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_634_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_634_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_644_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_644_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_615_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_615_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_625_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_625_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_635_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_635_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_645_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_645_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_electra_moonlight_616_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_616_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_electra_moonlight_626_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_626_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_electra_moonlight_636_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_636_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_electra_moonlight_646_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_646_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_617_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_617_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_627_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_627_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_637_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_637_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_647_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_647_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_618_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_618_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_628_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_628_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_638_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_638_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_648_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_648_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_619_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_619_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_629_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_629_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_639_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_639_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_649_name">
+<text>«Заряженная Вайа»</text>
+</string>
+<string id="st_af_electra_moonlight_649_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_711_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_721_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_731_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_741_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_electra_moonlight_712_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_electra_moonlight_722_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_electra_moonlight_732_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_electra_moonlight_742_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_electra_moonlight_713_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_electra_moonlight_723_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_electra_moonlight_733_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_electra_moonlight_743_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_electra_moonlight_714_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_electra_moonlight_724_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_electra_moonlight_734_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_electra_moonlight_744_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_electra_moonlight_715_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_electra_moonlight_725_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_electra_moonlight_735_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_electra_moonlight_745_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_electra_moonlight_716_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_electra_moonlight_726_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_electra_moonlight_736_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_electra_moonlight_746_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_electra_moonlight_717_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_electra_moonlight_727_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_electra_moonlight_737_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_electra_moonlight_747_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_electra_moonlight_718_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_electra_moonlight_728_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_electra_moonlight_738_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_electra_moonlight_748_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_electra_moonlight_719_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_electra_moonlight_729_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_electra_moonlight_739_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_electra_moonlight_749_name">
+<text>«Усопший»</text>
+</string>
+<string id="st_af_electra_moonlight_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_electra_moonlight_811_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_electra_moonlight_821_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_electra_moonlight_831_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_electra_moonlight_841_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_812_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_822_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_832_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_842_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_813_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_823_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_833_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_843_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_814_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_824_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_834_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_844_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_815_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_825_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_835_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_845_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_816_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_826_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_836_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_846_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_817_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_827_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_837_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_847_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_818_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_electra_moonlight_828_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_electra_moonlight_838_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_electra_moonlight_848_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_electra_moonlight_819_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_829_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_839_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_849_name">
+<text>«Слепец»</text>
+</string>
+<string id="st_af_electra_moonlight_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_electra_moonlight_911_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_electra_moonlight_921_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_electra_moonlight_931_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_electra_moonlight_941_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_912_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_electra_moonlight_922_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_electra_moonlight_932_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_electra_moonlight_942_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_913_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_electra_moonlight_923_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_electra_moonlight_933_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_electra_moonlight_943_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_914_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_electra_moonlight_924_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_electra_moonlight_934_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_electra_moonlight_944_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_915_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_electra_moonlight_925_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_electra_moonlight_935_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_electra_moonlight_945_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_916_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_electra_moonlight_926_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_electra_moonlight_936_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_electra_moonlight_946_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_917_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_electra_moonlight_927_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_electra_moonlight_937_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_electra_moonlight_947_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_918_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_electra_moonlight_928_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_electra_moonlight_938_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_electra_moonlight_948_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_electra_moonlight_919_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_electra_moonlight_929_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_electra_moonlight_939_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_electra_moonlight_949_name">
+<text>«Синклаза»</text>
+</string>
+<string id="st_af_electra_moonlight_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_electra_moonlight_011_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_021_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_031_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_041_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_012_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_022_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_032_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_042_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_013_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_023_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_033_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_043_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_014_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_024_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_034_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_044_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_015_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_025_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_035_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_045_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_016_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_electra_moonlight_026_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_036_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_electra_moonlight_046_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_017_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_027_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_037_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_047_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_018_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_028_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_038_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_048_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_electra_moonlight_019_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_electra_moonlight_029_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_electra_moonlight_039_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_electra_moonlight_049_name">
+<text>«Невидимка Нейтрино»</text>
+</string>
+<string id="st_af_electra_moonlight_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

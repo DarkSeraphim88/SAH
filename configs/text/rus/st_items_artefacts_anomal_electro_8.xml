@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+<string id="st_af_dummy_dummy_111_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_111_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_dummy_dummy_121_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_121_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_dummy_dummy_131_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_131_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_dummy_dummy_141_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_141_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_112_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_112_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_dummy_122_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_122_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_dummy_132_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_132_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_dummy_dummy_142_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_142_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_dummy_dummy_113_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_113_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_123_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_123_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_133_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_133_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_143_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_143_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_114_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_114_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_124_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_124_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_134_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_134_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_144_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_144_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_115_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_115_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_125_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_125_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_135_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_135_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_145_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_145_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_116_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_116_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_126_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_126_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_136_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_136_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_146_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_146_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_117_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_117_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_127_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_127_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_137_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_137_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_147_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_147_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_118_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_118_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_128_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_128_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_138_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_138_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_148_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_148_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_119_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_119_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_129_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_129_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_139_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_139_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_149_name">
+<text>«Агама»</text>
+</string>
+<string id="st_af_dummy_dummy_149_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.16</text>
+</string>
+<string id="st_af_dummy_dummy_211_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_211_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_221_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_221_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_231_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_231_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_241_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_241_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_212_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_212_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_222_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_222_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_232_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_232_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_242_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_242_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_213_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_213_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_223_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_223_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_233_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_233_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_243_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_243_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_214_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_214_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_224_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_224_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_234_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_234_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_244_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_244_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_215_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_215_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_225_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_225_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_235_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_235_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_245_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_245_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_216_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_216_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_dummy_226_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_226_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_dummy_236_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_236_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_dummy_246_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_246_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_217_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_217_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_227_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_227_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_237_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_237_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_247_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_247_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_218_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_218_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_228_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_228_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_238_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_238_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_248_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_248_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_219_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_219_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_229_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_229_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_239_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_239_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_249_name">
+<text>«Попрыгун»</text>
+</string>
+<string id="st_af_dummy_dummy_249_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_311_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_311_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_321_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_321_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_331_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_331_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_341_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_341_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_312_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_312_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_322_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_322_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_332_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_332_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_342_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_342_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_313_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_313_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_323_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_323_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_333_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_333_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_343_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_343_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_314_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_314_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_324_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_324_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_334_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_334_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_344_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_344_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_315_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_315_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_325_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_325_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_335_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_335_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_345_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_345_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_316_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_316_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_dummy_dummy_326_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_326_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_dummy_dummy_336_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_336_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_dummy_dummy_346_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_346_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_317_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_317_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_dummy_327_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_327_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_dummy_337_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_337_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_dummy_dummy_347_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_347_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_dummy_dummy_318_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_318_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_328_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_328_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_338_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_338_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_348_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_348_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_319_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_319_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_329_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_329_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_339_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_339_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_349_name">
+<text>«Пудинг»</text>
+</string>
+<string id="st_af_dummy_dummy_349_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_411_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_dummy_421_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_dummy_431_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_dummy_441_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_412_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_422_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_432_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_442_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_413_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_423_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_433_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_443_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_414_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_424_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_434_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_444_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_415_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_425_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_435_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_445_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_416_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_426_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_436_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_446_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_417_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_427_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_437_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_447_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_418_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_428_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_438_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_448_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_419_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_429_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_439_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_449_name">
+<text>«Грозовая завеса»</text>
+</string>
+<string id="st_af_dummy_dummy_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_511_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_511_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_dummy_dummy_521_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_521_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_dummy_dummy_531_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_531_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_dummy_dummy_541_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_541_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_512_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_512_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_dummy_522_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_522_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_dummy_532_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_532_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_dummy_dummy_542_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_542_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_dummy_dummy_513_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_513_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_523_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_523_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_533_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_533_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_543_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_543_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_514_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_514_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_524_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_524_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_534_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_534_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_544_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_544_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_515_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_515_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_525_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_525_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_535_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_535_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_545_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_545_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_516_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_516_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_526_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_526_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_536_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_536_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_546_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_546_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_dummy_517_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_517_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_527_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_527_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_537_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_537_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_547_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_547_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_518_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_518_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_528_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_528_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_538_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_538_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_548_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_548_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_519_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_519_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_529_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_529_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_539_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_539_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_549_name">
+<text>«Пружина»</text>
+</string>
+<string id="st_af_dummy_dummy_549_descr">
+<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид «Пустышки» и электрического артефакта, слитые под воздействием гравитационных полей. На практике же, этого никто не подтверждал.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_611_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_611_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_621_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_621_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_631_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_631_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_641_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_641_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_612_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_612_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_622_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_622_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_632_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_632_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_642_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_642_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_613_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_613_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_623_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_623_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_633_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_633_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_643_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_643_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_614_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_614_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_624_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_624_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_634_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_634_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_644_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_644_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_615_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_615_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_625_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_625_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_635_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_635_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_645_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_645_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_dummy_616_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_616_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_dummy_626_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_626_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_dummy_636_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_636_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_dummy_646_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_646_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_617_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_617_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_627_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_627_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_637_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_637_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_647_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_647_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_618_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_618_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_628_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_628_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_638_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_638_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_648_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_648_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_619_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_619_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_629_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_629_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_639_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_639_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_649_name">
+<text>«Троп»</text>
+</string>
+<string id="st_af_dummy_dummy_649_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_711_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_721_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_731_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_741_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_dummy_712_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_dummy_722_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_dummy_732_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_dummy_742_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_dummy_713_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_dummy_723_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_dummy_733_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_dummy_743_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_dummy_714_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_dummy_724_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_dummy_734_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_dummy_744_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_dummy_715_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_dummy_725_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_dummy_735_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_dummy_745_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_dummy_716_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_dummy_dummy_726_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_dummy_dummy_736_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_dummy_dummy_746_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_dummy_717_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_dummy_727_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_dummy_737_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_dummy_dummy_747_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_dummy_dummy_718_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_dummy_728_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_dummy_738_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_dummy_748_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_dummy_719_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_dummy_729_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_dummy_739_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_dummy_749_name">
+<text>«Слоеный Рулон»</text>
+</string>
+<string id="st_af_dummy_dummy_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_dummy_811_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_dummy_821_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_dummy_831_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_dummy_841_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_812_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_822_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_832_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_842_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_813_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_823_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_833_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_843_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_814_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_824_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_834_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_844_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_815_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_825_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_835_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_845_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_816_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_826_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_836_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_846_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_817_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_827_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_837_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_847_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_818_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_dummy_828_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_dummy_838_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_dummy_848_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_dummy_819_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_829_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_839_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_849_name">
+<text>«Грааль»</text>
+</string>
+<string id="st_af_dummy_dummy_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_dummy_911_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_dummy_921_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_dummy_931_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_dummy_941_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_912_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_dummy_922_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_dummy_932_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_dummy_942_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_913_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_dummy_923_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_dummy_933_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_dummy_943_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_914_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_dummy_924_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_dummy_934_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_dummy_944_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_915_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_dummy_925_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_dummy_935_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_dummy_945_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_916_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_dummy_926_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_dummy_936_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_dummy_946_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_917_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_dummy_927_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_dummy_937_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_dummy_947_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_918_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_dummy_928_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_dummy_938_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_dummy_948_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_dummy_919_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.2. </text>
+</string>
+<string id="st_af_dummy_dummy_929_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.4. </text>
+</string>
+<string id="st_af_dummy_dummy_939_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.6. </text>
+</string>
+<string id="st_af_dummy_dummy_949_name">
+<text>«Колбы»</text>
+</string>
+<string id="st_af_dummy_dummy_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+9.8. </text>
+</string>
+<string id="st_af_dummy_dummy_011_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_011_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_021_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_021_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_031_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_031_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_041_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_041_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_012_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_012_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_022_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_022_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_032_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_032_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_042_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_042_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_013_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_013_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_023_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_023_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_033_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_033_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_043_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_043_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_014_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_014_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_024_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_024_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_034_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_034_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_044_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_044_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_015_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_015_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_025_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_025_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_035_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_035_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_045_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_045_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_016_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_016_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.9.  </text>
+</string>
+<string id="st_af_dummy_dummy_026_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_026_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_036_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_036_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.20965517241379.  </text>
+</string>
+<string id="st_af_dummy_dummy_046_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_046_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_017_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_017_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_027_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_027_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_037_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_037_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_047_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_047_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_018_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_018_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_028_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_028_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_038_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_038_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_048_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_048_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_dummy_019_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_019_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_dummy_029_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_029_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_dummy_039_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_039_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_dummy_049_name">
+<text>«Полип»</text>
+</string>
+<string id="st_af_dummy_dummy_049_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

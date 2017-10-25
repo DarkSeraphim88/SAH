@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+<string id="st_af_fuzz_kolobok_111_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_111_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_fuzz_kolobok_121_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_121_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_131_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_131_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_fuzz_kolobok_141_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_141_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_112_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_112_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_122_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_122_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_132_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_132_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_fuzz_kolobok_142_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_142_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_fuzz_kolobok_113_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_113_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_123_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_123_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_133_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_133_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_143_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_143_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_114_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_114_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_124_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_124_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_134_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_134_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_144_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_144_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_115_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_115_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_125_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_125_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_135_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_135_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_145_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_145_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_116_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_116_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_126_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_126_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_136_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_136_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_146_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_146_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_117_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_117_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_127_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_127_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_137_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_137_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_147_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_147_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_118_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_118_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_128_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_128_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_138_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_138_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_148_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_148_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_119_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_119_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_129_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_129_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_139_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_139_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_149_name">
+<text>«Ехидна»</text>
+</string>
+<string id="st_af_fuzz_kolobok_149_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_211_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_221_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_231_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_241_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_212_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_222_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_232_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_242_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_213_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_223_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_233_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_243_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_214_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_224_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_234_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_244_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_215_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_225_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_235_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_245_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_216_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_226_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_236_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_246_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_217_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_227_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_237_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_247_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_218_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_228_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_238_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_248_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_219_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_229_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_239_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_249_name">
+<text>«Сафаиль»</text>
+</string>
+<string id="st_af_fuzz_kolobok_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_311_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_321_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_331_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_341_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_312_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_322_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_332_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_342_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_313_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_323_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_333_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_343_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_314_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_324_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_334_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_344_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_315_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_325_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_335_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_345_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_316_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_fuzz_kolobok_326_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_fuzz_kolobok_336_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_fuzz_kolobok_346_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_317_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_327_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_337_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_347_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_fuzz_kolobok_318_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_328_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_338_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_348_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_319_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_329_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_339_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_349_name">
+<text>«Прелый»</text>
+</string>
+<string id="st_af_fuzz_kolobok_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_411_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_411_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_421_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_421_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_431_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_431_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_441_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_441_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_412_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_412_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_422_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_422_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_432_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_432_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_442_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_442_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_413_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_413_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_423_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_423_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_433_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_433_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_443_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_443_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_414_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_414_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_424_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_424_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_434_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_434_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_444_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_444_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_415_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_415_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_425_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_425_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_435_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_435_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_445_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_445_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_416_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_416_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_426_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_426_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_436_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_436_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_446_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_446_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_417_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_417_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_427_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_427_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_437_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_437_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_447_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_447_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_418_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_418_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_428_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_428_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_438_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_438_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_448_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_448_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_419_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_419_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_429_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_429_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_439_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_439_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_449_name">
+<text>«Снежинка»</text>
+</string>
+<string id="st_af_fuzz_kolobok_449_descr">
+<text>Внешне артефакт похож на «Колобок». Бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен поглащать электрическое воздействие.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_511_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_fuzz_kolobok_521_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_531_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_fuzz_kolobok_541_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_512_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_522_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_532_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_fuzz_kolobok_542_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_fuzz_kolobok_513_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_523_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_533_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_543_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_514_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_524_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_534_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_544_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_515_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_525_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_535_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_545_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_516_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_526_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_536_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_546_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_517_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_527_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_537_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_547_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_518_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_528_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_538_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_548_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_519_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_529_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_539_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_549_name">
+<text>«Терние»</text>
+</string>
+<string id="st_af_fuzz_kolobok_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_611_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_621_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_631_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_641_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_612_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_622_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_632_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_642_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_613_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_623_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_633_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_643_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_614_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_624_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_634_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_644_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_615_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_625_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_635_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_645_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_fuzz_kolobok_616_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_626_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_636_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_646_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_617_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_627_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_637_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_647_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_618_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_628_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_638_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_648_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_619_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_629_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_639_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_649_name">
+<text>«Дикообраз»</text>
+</string>
+<string id="st_af_fuzz_kolobok_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_711_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_711_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_721_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_721_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_731_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_731_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_741_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_741_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_712_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_712_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_fuzz_kolobok_722_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_722_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_fuzz_kolobok_732_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_732_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_fuzz_kolobok_742_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_742_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_fuzz_kolobok_713_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_713_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_fuzz_kolobok_723_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_723_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_fuzz_kolobok_733_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_733_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_fuzz_kolobok_743_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_743_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_fuzz_kolobok_714_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_714_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_fuzz_kolobok_724_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_724_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_fuzz_kolobok_734_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_734_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_fuzz_kolobok_744_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_744_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_fuzz_kolobok_715_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_715_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_fuzz_kolobok_725_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_725_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_fuzz_kolobok_735_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_735_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_fuzz_kolobok_745_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_745_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_fuzz_kolobok_716_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_716_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_fuzz_kolobok_726_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_726_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_fuzz_kolobok_736_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_736_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_fuzz_kolobok_746_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_746_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_fuzz_kolobok_717_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_717_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_727_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_727_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_737_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_737_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_747_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_747_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_fuzz_kolobok_718_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_718_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_fuzz_kolobok_728_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_728_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_fuzz_kolobok_738_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_738_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_fuzz_kolobok_748_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_748_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_fuzz_kolobok_719_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_719_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_fuzz_kolobok_729_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_729_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_fuzz_kolobok_739_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_739_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_fuzz_kolobok_749_name">
+<text>«Акупунктура»</text>
+</string>
+<string id="st_af_fuzz_kolobok_749_descr">
+<text>Редкий артефакт встречающийся втолько в центре Зоны внешни напоминающий крыло птицы серого цвета имеет лечебные свойства увелечения заживленния ран \n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_fuzz_kolobok_811_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_821_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_831_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_841_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_812_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_822_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_832_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_842_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_813_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_823_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_833_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_843_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_814_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_824_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_834_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_844_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_815_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_825_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_835_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_845_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_816_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_826_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_836_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_846_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_817_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_827_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_837_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_847_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_818_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_828_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_fuzz_kolobok_838_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_fuzz_kolobok_848_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_fuzz_kolobok_819_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_829_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_839_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_849_name">
+<text>«Звездная Сурьма»</text>
+</string>
+<string id="st_af_fuzz_kolobok_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_fuzz_kolobok_911_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_911_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_921_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_921_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_931_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_931_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.22068965517241. </text>
+</string>
+<string id="st_af_fuzz_kolobok_941_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_941_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_912_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_912_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_922_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_922_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_932_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_932_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.841379310344828. </text>
+</string>
+<string id="st_af_fuzz_kolobok_942_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_942_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.89750297265161. </text>
+</string>
+<string id="st_af_fuzz_kolobok_913_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_913_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_923_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_923_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_933_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_933_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_943_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_943_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_914_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_914_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_924_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_924_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_934_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_934_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_944_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_944_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_915_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_915_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_925_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_925_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_935_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_935_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_945_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_945_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_916_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_916_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_926_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_926_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_936_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_936_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_946_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_946_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_917_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_917_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_927_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_927_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_937_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_937_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_947_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_947_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_918_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_918_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_928_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_928_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_938_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_938_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_948_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_948_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_919_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_919_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_fuzz_kolobok_929_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_929_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_fuzz_kolobok_939_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_939_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_fuzz_kolobok_949_name">
+<text>«Акация»</text>
+</string>
+<string id="st_af_fuzz_kolobok_949_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_fuzz_kolobok_011_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_011_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_021_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_021_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.54.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_031_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_031_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.48.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_041_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_041_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_012_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_012_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_022_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_022_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_032_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_032_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_042_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_042_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_013_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_013_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_023_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_023_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_033_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_033_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_043_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_043_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_014_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_014_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_024_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_024_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_034_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_034_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_044_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_044_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_015_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_015_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_025_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_025_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_035_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_035_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_045_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_045_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_016_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_016_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_026_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_026_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_036_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_036_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_046_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_046_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_017_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_017_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_027_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_027_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_037_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_037_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_047_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_047_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_018_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_018_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_028_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_028_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_038_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_038_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_048_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_048_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_019_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_019_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_029_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_029_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_039_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_039_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_fuzz_kolobok_049_name">
+<text>«Трофей»</text>
+</string>
+<string id="st_af_fuzz_kolobok_049_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

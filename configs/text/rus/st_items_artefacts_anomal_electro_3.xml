@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_glass_111_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_111_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_glass_121_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_121_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_glass_131_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_131_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_glass_141_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_141_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_112_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_112_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_glass_122_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_122_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_glass_132_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_132_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_glass_142_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_142_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_glass_113_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_113_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_123_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_123_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_133_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_133_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_143_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_143_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_114_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_114_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_124_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_124_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_134_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_134_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_144_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_144_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_115_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_115_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_125_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_125_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_135_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_135_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_145_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_145_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_116_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_116_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_126_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_126_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_136_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_136_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_146_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_146_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_117_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_117_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_127_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_127_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_137_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_137_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_147_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_147_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_118_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_118_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_128_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_128_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_138_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_138_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_148_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_148_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_119_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_119_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_129_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_129_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_139_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_139_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_149_name">
+<text>«Излучатель»</text>
+</string>
+<string id="st_af_glass_149_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_211_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_211_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_221_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_221_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_231_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_231_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_241_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_241_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_212_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_212_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_222_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_222_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_232_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_232_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_242_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_242_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_213_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_213_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_223_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_223_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_233_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_233_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_243_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_243_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_214_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_214_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_224_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_224_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_234_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_234_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_244_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_244_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_215_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_215_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_225_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_225_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_235_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_235_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_245_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_245_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_216_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_216_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_glass_226_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_226_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_glass_236_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_236_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_glass_246_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_246_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_217_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_217_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_227_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_227_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_237_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_237_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_247_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_247_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_218_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_218_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_228_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_228_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_238_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_238_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_248_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_248_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_219_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_219_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_229_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_229_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_239_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_239_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_249_name">
+<text>«Зеленый луч»</text>
+</string>
+<string id="st_af_glass_249_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_311_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_311_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_321_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_321_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_331_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_331_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_341_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_341_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_312_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_312_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_322_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_322_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_332_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_332_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_342_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_342_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_313_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_313_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_323_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_323_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_333_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_333_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_343_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_343_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_314_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_314_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_324_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_324_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_334_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_334_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_344_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_344_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_315_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_315_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_325_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_325_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_335_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_335_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_345_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_345_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_316_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_316_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_glass_326_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_326_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_glass_336_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_336_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897</text>
+</string>
+<string id="st_af_glass_346_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_346_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_317_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_317_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_glass_327_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_327_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_glass_337_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_337_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_glass_347_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_347_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_glass_318_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_318_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_328_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_328_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_338_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_338_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_348_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_348_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_319_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_319_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_329_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_329_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_339_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_339_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_349_name">
+<text>«Гонитель»</text>
+</string>
+<string id="st_af_glass_349_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_411_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_glass_421_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_glass_431_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_glass_441_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_412_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_422_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_432_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_442_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_413_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_423_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_433_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_443_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_414_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_424_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_434_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_444_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_415_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_425_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_435_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_445_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_416_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_426_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_436_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_446_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_417_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_427_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_437_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_447_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_418_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_428_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_438_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_448_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_419_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_429_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_439_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_449_name">
+<text>«Светоч»</text>
+</string>
+<string id="st_af_glass_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_511_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_glass_521_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_glass_531_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_glass_541_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_512_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_glass_522_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_glass_532_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_glass_542_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_glass_513_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_523_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_533_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_543_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_514_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_524_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_534_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_544_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_515_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_525_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_535_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_545_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_516_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_526_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_536_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_546_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_glass_517_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_527_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_537_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_547_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_518_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_528_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_538_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_548_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_519_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_529_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_539_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_549_name">
+<text>«Колотый»</text>
+</string>
+<string id="st_af_glass_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_611_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_611_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_621_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_621_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_631_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_631_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_641_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_641_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_612_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_612_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_622_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_622_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_632_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_632_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_642_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_642_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_613_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_613_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_623_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_623_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_633_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_633_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_643_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_643_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_614_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_614_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_624_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_624_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_634_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_634_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_644_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_644_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_615_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_615_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_625_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_625_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_635_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_635_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_645_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_645_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_glass_616_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_616_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_glass_626_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_626_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_glass_636_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_636_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_glass_646_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_646_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_617_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_617_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_627_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_627_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_637_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_637_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_647_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_647_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_618_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_618_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_628_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_628_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_638_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_638_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_648_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_648_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_619_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_619_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_629_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_629_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_639_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_639_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_649_name">
+<text>«Нефритовый Сполох»</text>
+</string>
+<string id="st_af_glass_649_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_711_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_711_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_721_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_721_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_731_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_731_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_741_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_741_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_glass_712_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_712_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_glass_722_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_722_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_glass_732_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_732_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_glass_742_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_742_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_glass_713_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_713_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_glass_723_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_723_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_glass_733_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_733_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_glass_743_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_743_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_glass_714_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_714_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_glass_724_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_724_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_glass_734_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_734_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_glass_744_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_744_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_glass_715_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_715_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_glass_725_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_725_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_glass_735_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_735_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_glass_745_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_745_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_glass_716_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_716_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_glass_726_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_726_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_glass_736_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_736_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_glass_746_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_746_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_glass_717_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_717_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_glass_727_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_727_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_glass_737_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_737_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_glass_747_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_747_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_glass_718_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_718_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_glass_728_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_728_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_glass_738_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_738_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_glass_748_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_748_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_glass_719_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_719_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_glass_729_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_729_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_glass_739_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_739_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_glass_749_name">
+<text>«Клещ»</text>
+</string>
+<string id="st_af_glass_749_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_glass_811_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_glass_821_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_glass_831_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_glass_841_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_812_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_822_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_832_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_842_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_813_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_823_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_833_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_843_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_814_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_824_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_834_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_844_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_815_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_825_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_835_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_845_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_816_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_826_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_836_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_846_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_817_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_827_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_837_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_847_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_818_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_glass_828_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_glass_838_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_glass_848_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_glass_819_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_829_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_839_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_849_name">
+<text>«Мандорла»</text>
+</string>
+<string id="st_af_glass_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_glass_911_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_911_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.8. </text>
+</string>
+<string id="st_af_glass_921_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_921_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.4. </text>
+</string>
+<string id="st_af_glass_931_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_931_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.22068965517241. </text>
+</string>
+<string id="st_af_glass_941_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_941_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_glass_912_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_912_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_glass_922_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_922_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_glass_932_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_932_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.841379310344828. </text>
+</string>
+<string id="st_af_glass_942_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_942_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.89750297265161. </text>
+</string>
+<string id="st_af_glass_913_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_913_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_glass_923_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_923_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_glass_933_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_933_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_glass_943_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_943_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_glass_914_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_914_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_glass_924_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_924_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_glass_934_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_934_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_glass_944_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_944_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_glass_915_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_915_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_glass_925_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_925_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_glass_935_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_935_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_glass_945_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_945_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_glass_916_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_916_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.2. </text>
+</string>
+<string id="st_af_glass_926_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_926_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.4. </text>
+</string>
+<string id="st_af_glass_936_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_936_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_glass_946_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_946_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_glass_917_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_917_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_glass_927_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_927_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_glass_937_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_937_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_glass_947_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_947_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_glass_918_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_918_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_glass_928_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_928_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_glass_938_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_938_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_glass_948_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_948_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_glass_919_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_919_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_glass_929_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_929_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_glass_939_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_939_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_glass_949_name">
+<text>«Хмарь»</text>
+</string>
+<string id="st_af_glass_949_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_glass_011_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_011_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.6.  </text>
+</string>
+<string id="st_af_glass_021_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_021_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.54.  </text>
+</string>
+<string id="st_af_glass_031_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_031_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.48.  </text>
+</string>
+<string id="st_af_glass_041_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_041_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.4.  </text>
+</string>
+<string id="st_af_glass_012_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_012_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_022_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_022_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_032_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_032_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_042_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_042_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_glass_013_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_013_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_023_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_023_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_033_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_033_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_043_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_043_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_glass_014_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_014_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_024_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_024_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_034_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_034_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_044_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_044_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_glass_015_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_015_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_025_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_025_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_035_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_035_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_045_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_045_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_glass_016_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_016_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_026_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_026_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_036_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_036_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_046_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_046_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_glass_017_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_017_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_027_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_027_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_037_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_037_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_047_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_047_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_glass_018_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_018_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_028_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_028_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_038_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_038_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_048_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_048_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_glass_019_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_019_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_glass_029_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_029_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_glass_039_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_039_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_glass_049_name">
+<text>«Бездна»</text>
+</string>
+<string id="st_af_glass_049_descr">
+<text>Предположительно артефакт имеет пси-поле, хотя приборами это и не удалось зафиксировать. Если в него начать всматриваться, то можно почувствовать эффект "падения" и чем дольше смотреть, тем сильнее это чувство и сложнее отвести взгляд. Иногда этот артефакт переходил владельцу из рук трупа, с застившей гримасой ужаса на лице.\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+
+</string_table>

@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_af_dummy_glassbeads_111_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_111_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_dummy_glassbeads_121_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_121_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_131_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_131_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_dummy_glassbeads_141_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_141_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_112_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_112_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_122_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_122_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_132_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_132_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_dummy_glassbeads_142_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_142_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_dummy_glassbeads_113_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_113_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_123_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_123_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_133_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_133_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_143_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_143_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_114_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_114_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_124_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_124_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_134_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_134_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_144_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_144_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_115_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_115_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_125_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_125_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_135_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_135_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_145_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_145_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_116_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_116_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_126_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_126_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_136_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_136_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_146_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_146_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_117_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_117_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_127_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_127_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_137_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_137_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_147_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_147_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_118_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_118_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_128_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_128_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_138_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_138_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_148_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_148_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_119_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_119_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_129_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_129_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_139_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_139_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_149_name">
+<text>«Вилка»</text>
+</string>
+<string id="st_af_dummy_glassbeads_149_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_211_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_211_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_221_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_221_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_231_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_231_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_241_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_241_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_212_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_212_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_222_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_222_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_232_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_232_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_242_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_242_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_213_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_213_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_223_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_223_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_233_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_233_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_243_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_243_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_214_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_214_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_224_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_224_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_234_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_234_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_244_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_244_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_215_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_215_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_225_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_225_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_235_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_235_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_245_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_245_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_216_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_216_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_226_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_226_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_236_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_236_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_246_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_246_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_217_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_217_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_227_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_227_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_237_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_237_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_247_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_247_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_218_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_218_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_228_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_228_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_238_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_238_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_248_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_248_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_219_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_219_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_229_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_229_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_239_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_239_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_249_name">
+<text>«Тритон»</text>
+</string>
+<string id="st_af_dummy_glassbeads_249_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_311_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_311_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_321_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_321_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_331_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_331_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_341_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_341_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+2.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_312_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_312_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_322_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_322_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_332_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_332_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_342_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_342_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_313_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_313_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_323_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_323_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_333_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_333_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_343_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_343_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_314_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_314_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_324_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_324_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_334_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_334_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_344_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_344_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_315_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_315_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_325_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_325_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_335_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_335_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_345_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_345_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_316_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_316_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75</text>
+</string>
+<string id="st_af_dummy_glassbeads_326_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_326_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5</text>
+</string>
+<string id="st_af_dummy_glassbeads_336_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_336_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_346_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_346_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_317_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_317_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_327_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_327_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_337_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_337_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_347_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_347_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_318_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_318_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_328_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_328_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_338_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_338_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_348_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_348_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_319_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_319_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_329_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_329_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_339_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_339_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.672.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_349_name">
+<text>«Жгут»</text>
+</string>
+<string id="st_af_dummy_glassbeads_349_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.344.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_411_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_411_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_421_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_421_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_431_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_431_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_441_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_441_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_412_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_412_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_422_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_422_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_432_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_432_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_442_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_442_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_413_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_413_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_423_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_423_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_433_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_433_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_443_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_443_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_414_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_414_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_424_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_424_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_434_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_434_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_444_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_444_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_415_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_415_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_425_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_425_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_435_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_435_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_445_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_445_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_416_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_416_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_426_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_426_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_436_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_436_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_446_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_446_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_417_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_417_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_427_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_427_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_437_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_437_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_447_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_447_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_418_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_418_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_428_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_428_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_438_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_438_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_448_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_448_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_419_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_419_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_429_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_429_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_439_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_439_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_449_name">
+<text>«Антраша»</text>
+</string>
+<string id="st_af_dummy_glassbeads_449_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_511_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_511_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3. </text>
+</string>
+<string id="st_af_dummy_glassbeads_521_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_521_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_531_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_531_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.37931034482759. </text>
+</string>
+<string id="st_af_dummy_glassbeads_541_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_541_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_512_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_512_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_522_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_522_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_532_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_532_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.75862068965517. </text>
+</string>
+<string id="st_af_dummy_glassbeads_542_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_542_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.90249702734839. </text>
+</string>
+<string id="st_af_dummy_glassbeads_513_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_513_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_523_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_523_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_533_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_533_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_543_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_543_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_514_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_514_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_524_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_524_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_534_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_534_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_544_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_544_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_515_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_515_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_525_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_525_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_535_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_535_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_545_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_545_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_516_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_516_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_526_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_526_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_536_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_536_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_546_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_546_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_517_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_517_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_527_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_527_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_537_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_537_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_547_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_547_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_518_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_518_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_528_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_528_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_538_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_538_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_548_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_548_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_519_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_519_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_529_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_529_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_539_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_539_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_549_name">
+<text>«Вервие»</text>
+</string>
+<string id="st_af_dummy_glassbeads_549_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_611_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_611_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_621_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_621_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_631_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_631_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_641_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_641_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_612_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_612_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_622_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_622_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_632_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_632_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_642_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_642_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_613_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_613_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_623_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_623_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_633_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_633_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_643_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_643_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_614_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_614_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_624_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_624_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_634_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_634_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_644_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_644_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_615_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_615_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_625_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_625_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_635_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_635_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_645_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_645_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,0,255,0]+0.2</text>
+</string>
+<string id="st_af_dummy_glassbeads_616_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_616_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.5.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_626_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_626_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_636_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_636_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.689655172413793.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_646_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_646_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_617_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_617_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_627_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_627_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_637_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_637_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_647_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_647_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_618_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_618_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_628_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_628_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_638_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_638_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_648_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_648_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_619_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_619_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_629_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_629_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_639_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_639_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_649_name">
+<text>«Костяное колье»</text>
+</string>
+<string id="st_af_dummy_glassbeads_649_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_711_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_711_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_721_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_721_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_731_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_731_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_741_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_741_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+1.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_712_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_712_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_glassbeads_722_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_722_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_glassbeads_732_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_732_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_glassbeads_742_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_742_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_glassbeads_713_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_713_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_glassbeads_723_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_723_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_glassbeads_733_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_733_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_glassbeads_743_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_743_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_glassbeads_714_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_714_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_glassbeads_724_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_724_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_glassbeads_734_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_734_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_glassbeads_744_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_744_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_glassbeads_715_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_715_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_glassbeads_725_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_725_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_glassbeads_735_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_735_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_glassbeads_745_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_745_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_glassbeads_716_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_716_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.99</text>
+</string>
+<string id="st_af_dummy_glassbeads_726_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_726_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.98</text>
+</string>
+<string id="st_af_dummy_glassbeads_736_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_736_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-1.0648275862069</text>
+</string>
+<string id="st_af_dummy_glassbeads_746_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_746_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_glassbeads_717_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_717_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_727_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_727_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_737_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_737_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_747_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_747_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.56. </text>
+</string>
+<string id="st_af_dummy_glassbeads_718_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_718_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_glassbeads_728_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_728_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_glassbeads_738_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_738_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_glassbeads_748_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_748_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_glassbeads_719_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_719_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.24</text>
+</string>
+<string id="st_af_dummy_glassbeads_729_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_729_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.48</text>
+</string>
+<string id="st_af_dummy_glassbeads_739_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_739_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.72</text>
+</string>
+<string id="st_af_dummy_glassbeads_749_name">
+<text>«Лента»</text>
+</string>
+<string id="st_af_dummy_glassbeads_749_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.96</text>
+</string>
+<string id="st_af_dummy_glassbeads_811_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_811_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.75.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_821_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_821_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.5.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_831_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_831_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.344827586206897.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_841_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_841_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_812_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_812_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_822_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_822_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_832_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_832_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_842_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_842_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_813_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_813_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_823_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_823_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_833_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_833_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_843_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_843_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_814_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_814_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_824_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_824_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_834_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_834_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_844_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_844_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_815_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_815_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_825_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_825_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_835_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_835_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_845_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_845_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_816_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_816_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_826_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_826_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_836_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_836_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_846_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_846_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_817_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_817_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_827_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_827_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_837_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_837_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_847_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_847_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_818_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_818_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_828_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_828_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.</text>
+</string>
+<string id="st_af_dummy_glassbeads_838_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_838_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.</text>
+</string>
+<string id="st_af_dummy_glassbeads_848_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_848_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.</text>
+</string>
+<string id="st_af_dummy_glassbeads_819_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_819_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_829_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_829_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_839_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_839_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_849_name">
+<text>«Нахлебник»</text>
+</string>
+<string id="st_af_dummy_glassbeads_849_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5. </text>
+</string>
+<string id="st_af_dummy_glassbeads_911_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_911_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_921_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_921_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_931_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_931_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.22068965517241. </text>
+</string>
+<string id="st_af_dummy_glassbeads_941_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_941_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_912_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_912_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_922_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_922_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_932_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_932_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+0.841379310344828. </text>
+</string>
+<string id="st_af_dummy_glassbeads_942_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_942_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.89750297265161. </text>
+</string>
+<string id="st_af_dummy_glassbeads_913_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_913_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_923_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_923_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_933_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_933_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_943_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_943_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_914_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_914_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_924_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_924_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_934_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_934_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_944_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_944_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_915_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_915_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_925_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_925_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_935_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_935_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_945_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_945_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_916_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_916_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+5.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_926_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_926_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+6.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_936_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_936_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+7.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_946_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_946_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+8.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_917_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_917_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_927_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_927_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_937_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_937_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_947_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_947_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_918_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_918_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_928_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_928_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_938_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_938_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_948_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_948_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_919_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_919_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+1.2. </text>
+</string>
+<string id="st_af_dummy_glassbeads_929_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_929_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+2.4. </text>
+</string>
+<string id="st_af_dummy_glassbeads_939_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_939_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+3.6. </text>
+</string>
+<string id="st_af_dummy_glassbeads_949_name">
+<text>«Кастет Мебиуса»</text>
+</string>
+<string id="st_af_dummy_glassbeads_949_descr">
+<text>0\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,0,255,0]+4.8. </text>
+</string>
+<string id="st_af_dummy_glassbeads_011_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_011_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_021_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_021_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.54.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_031_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_031_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.48.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_041_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_041_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,0,255,0]+0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_012_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_012_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_022_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_022_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_032_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_032_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_042_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_042_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_013_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_013_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_023_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_023_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_033_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_033_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_043_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_043_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_014_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_014_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_024_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_024_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_034_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_034_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_044_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_044_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_015_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_015_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_025_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_025_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_035_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_035_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_045_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_045_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_016_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_016_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.75\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_026_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_026_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.5\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_036_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_036_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Насыщение: %c[255,255,0,0]-0.344827586206897\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_046_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_046_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_017_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_017_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-6.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_027_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_027_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_037_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_037_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_047_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_047_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-5.76. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_018_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_018_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_028_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_028_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_038_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_038_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_048_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_048_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_019_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_019_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,0,0]Нестабильный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-0.8. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.4.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_029_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_029_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[235,235,255,235]Обычный.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-1.6. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.46.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_039_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_039_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Хорошее.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-2.4. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.52.  </text>
+</string>
+<string id="st_af_dummy_glassbeads_049_name">
+<text>«Голова Рыбы»</text>
+</string>
+<string id="st_af_dummy_glassbeads_049_descr">
+<text>@\n %c[default]Тип: %c[255,100,160,200]Аномальный симбиот.\n %c[default]Качество: %c[255,255,255,0]Отличное.\n%c[255,140,140,140]• Пулестойкость: %c[255,255,0,0]-3.2. \n%c[255,140,140,140]• Защита от взрыва: %c[255,255,0,0]-0.6.  </text>
+</string>
+
+
+</string_table>

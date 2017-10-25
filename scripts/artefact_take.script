@@ -1,0 +1,151 @@
+local art = nil
+local art_new = nil
+local ver = {
+3, 3, 3, 3, 4, 3, 4, 4, 1, 3, 2, 3, 2, 4, 4, 2, 2, 2, 3, 4, 2, 2, 2, 3, 4, 4
+}
+
+
+local location = {
+"l03_agroprom", "l05_bar", "l10u_bunker", "k01_darkscape", "l04_darkvalley", "l09_deadcity", "l01_escape", "l02_garbage", "l13_generators", "jupiter", "l08u_brainlab", "l04u_labx18", "l10_limansk", "k00_marsh", "l07_military", "l11_pripyat", "pripyat", "l10_radar", "l10_red_forest", "l06_rostok", "l12u_sarcofag", "l12_stancia", "l12_stancia_2", "k02_trucks_cemetery", "l08_yantar", "zaton"
+}
+
+local prost = {
+"af_medusa","af_vyvert","af_night_star","af_gravi","af_cristall_flower","af_cristall_star","af_vtulka","af_gold_fish","af_dummy_spring","af_blood","af_mincer_meat","af_ameba_slug","af_ameba_mica","af_electra_flash","af_baloon","af_ameba_slime","af_dummy_pellicle","af_plenka","af_fireball","af_cristall","af_drops","af_fire","af_dummy_glassbeads","af_eye","af_glass_crystal","af_soul","af_rusty_kristall","af_electra_sparkler","af_rusty_sea","af_glass","af_dummy_battery","af_rusty_thorn","af_electra_moonlight","af_fuzz_kolobok","af_dummy_dummy","af_ice"
+}
+
+local take_sim = {
+"af_medusa_1","af_medusa_2","af_medusa_3","af_medusa_4","af_medusa_5","af_medusa_6","af_medusa_7","af_medusa_8","af_medusa_9","af_medusa_0","af_vyvert_1","af_vyvert_2","af_vyvert_3","af_vyvert_4","af_vyvert_5","af_vyvert_6","af_vyvert_7","af_vyvert_8","af_vyvert_9","af_vyvert_0","af_night_star_1","af_night_star_2","af_night_star_3","af_night_star_4","af_night_star_5","af_night_star_6","af_night_star_7","af_night_star_8","af_night_star_9","af_night_star_0","af_gravi_1","af_gravi_2","af_gravi_3","af_gravi_4","af_gravi_5","af_gravi_6","af_gravi_7","af_gravi_8","af_gravi_9","af_gravi_0","af_cristall_flower_1","af_cristall_flower_2","af_cristall_flower_3","af_cristall_flower_4","af_cristall_flower_5","af_cristall_flower_6","af_cristall_flower_7","af_cristall_flower_8","af_cristall_flower_9","af_cristall_flower_0","af_cristall_star_1","af_cristall_star_2","af_cristall_star_3","af_cristall_star_4","af_cristall_star_5","af_cristall_star_6","af_cristall_star_7","af_cristall_star_8","af_cristall_star_9","af_cristall_star_0","af_vtulka_1","af_vtulka_2","af_vtulka_3","af_vtulka_4","af_vtulka_5","af_vtulka_6","af_vtulka_7","af_vtulka_8","af_vtulka_9","af_vtulka_0","af_gold_fish_1","af_gold_fish_2","af_gold_fish_3","af_gold_fish_4","af_gold_fish_5","af_gold_fish_6","af_gold_fish_7","af_gold_fish_8","af_gold_fish_9","af_gold_fish_0","af_dummy_spring_1","af_dummy_spring_2","af_dummy_spring_3","af_dummy_spring_4","af_dummy_spring_5","af_dummy_spring_6","af_dummy_spring_7","af_dummy_spring_8","af_dummy_spring_9","af_dummy_spring_0","af_blood_1","af_blood_2","af_blood_3","af_blood_4","af_blood_5","af_blood_6","af_blood_7","af_blood_8","af_blood_9","af_blood_0","af_mincer_meat_1","af_mincer_meat_2","af_mincer_meat_3","af_mincer_meat_4","af_mincer_meat_5","af_mincer_meat_6","af_mincer_meat_7","af_mincer_meat_8","af_mincer_meat_9","af_mincer_meat_0","af_ameba_slug_1","af_ameba_slug_2","af_ameba_slug_3","af_ameba_slug_4","af_ameba_slug_5","af_ameba_slug_6","af_ameba_slug_7","af_ameba_slug_8","af_ameba_slug_9","af_ameba_slug_0","af_ameba_mica_1","af_ameba_mica_2","af_ameba_mica_3","af_ameba_mica_4","af_ameba_mica_5","af_ameba_mica_6","af_ameba_mica_7","af_ameba_mica_8","af_ameba_mica_9","af_ameba_mica_0","af_electra_flash_1","af_electra_flash_2","af_electra_flash_3","af_electra_flash_4","af_electra_flash_5","af_electra_flash_6","af_electra_flash_7","af_electra_flash_8","af_electra_flash_9","af_electra_flash_0","af_baloon_1","af_baloon_2","af_baloon_3","af_baloon_4","af_baloon_5","af_baloon_6","af_baloon_7","af_baloon_8","af_baloon_9","af_baloon_0","af_ameba_slime_1","af_ameba_slime_2","af_ameba_slime_3","af_ameba_slime_4","af_ameba_slime_5","af_ameba_slime_6","af_ameba_slime_7","af_ameba_slime_8","af_ameba_slime_9","af_ameba_slime_0","af_dummy_pellicle_1","af_dummy_pellicle_2","af_dummy_pellicle_3","af_dummy_pellicle_4","af_dummy_pellicle_5","af_dummy_pellicle_6","af_dummy_pellicle_7","af_dummy_pellicle_8","af_dummy_pellicle_9","af_dummy_pellicle_0","af_plenka_1","af_plenka_2","af_plenka_3","af_plenka_4","af_plenka_5","af_plenka_6","af_plenka_7","af_plenka_8","af_plenka_9","af_plenka_0","af_fireball_1","af_fireball_2","af_fireball_3","af_fireball_4","af_fireball_5","af_fireball_6","af_fireball_7","af_fireball_8","af_fireball_9","af_fireball_0","af_cristall_1","af_cristall_2","af_cristall_3","af_cristall_4","af_cristall_5","af_cristall_6","af_cristall_7","af_cristall_8","af_cristall_9","af_cristall_0","af_drops_1","af_drops_2","af_drops_3","af_drops_4","af_drops_5","af_drops_6","af_drops_7","af_drops_8","af_drops_9","af_drops_0","af_fire_1","af_fire_2","af_fire_3","af_fire_4","af_fire_5","af_fire_6","af_fire_7","af_fire_8","af_fire_9","af_fire_0","af_dummy_glassbeads_1","af_dummy_glassbeads_2","af_dummy_glassbeads_3","af_dummy_glassbeads_4","af_dummy_glassbeads_5","af_dummy_glassbeads_6","af_dummy_glassbeads_7","af_dummy_glassbeads_8","af_dummy_glassbeads_9","af_dummy_glassbeads_0","af_eye_1","af_eye_2","af_eye_3","af_eye_4","af_eye_5","af_eye_6","af_eye_7","af_eye_8","af_eye_9","af_eye_0","af_glass_crystal_1","af_glass_crystal_2","af_glass_crystal_3","af_glass_crystal_4","af_glass_crystal_5","af_glass_crystal_6","af_glass_crystal_7","af_glass_crystal_8","af_glass_crystal_9","af_glass_crystal_0","af_soul_1","af_soul_2","af_soul_3","af_soul_4","af_soul_5","af_soul_6","af_soul_7","af_soul_8","af_soul_9","af_soul_0","af_rusty_kristall_1","af_rusty_kristall_2","af_rusty_kristall_3","af_rusty_kristall_4","af_rusty_kristall_5","af_rusty_kristall_6","af_rusty_kristall_7","af_rusty_kristall_8","af_rusty_kristall_9","af_rusty_kristall_0","af_electra_sparkler_1","af_electra_sparkler_2","af_electra_sparkler_3","af_electra_sparkler_4","af_electra_sparkler_5","af_electra_sparkler_6","af_electra_sparkler_7","af_electra_sparkler_8","af_electra_sparkler_9","af_electra_sparkler_0","af_rusty_sea_1","af_rusty_sea_2","af_rusty_sea_3","af_rusty_sea_4","af_rusty_sea_5","af_rusty_sea_6","af_rusty_sea_7","af_rusty_sea_8","af_rusty_sea_9","af_rusty_sea_0","af_glass_1","af_glass_2","af_glass_3","af_glass_4","af_glass_5","af_glass_6","af_glass_7","af_glass_8","af_glass_9","af_glass_0","af_dummy_battery_1","af_dummy_battery_2","af_dummy_battery_3","af_dummy_battery_4","af_dummy_battery_5","af_dummy_battery_6","af_dummy_battery_7","af_dummy_battery_8","af_dummy_battery_9","af_dummy_battery_0","af_rusty_thorn_1","af_rusty_thorn_2","af_rusty_thorn_3","af_rusty_thorn_4","af_rusty_thorn_5","af_rusty_thorn_6","af_rusty_thorn_7","af_rusty_thorn_8","af_rusty_thorn_9","af_rusty_thorn_0","af_electra_moonlight_1","af_electra_moonlight_2","af_electra_moonlight_3","af_electra_moonlight_4","af_electra_moonlight_5","af_electra_moonlight_6","af_electra_moonlight_7","af_electra_moonlight_8","af_electra_moonlight_9","af_electra_moonlight_0","af_fuzz_kolobok_1","af_fuzz_kolobok_2","af_fuzz_kolobok_3","af_fuzz_kolobok_4","af_fuzz_kolobok_5","af_fuzz_kolobok_6","af_fuzz_kolobok_7","af_fuzz_kolobok_8","af_fuzz_kolobok_9","af_fuzz_kolobok_0","af_dummy_dummy_1","af_dummy_dummy_2","af_dummy_dummy_3","af_dummy_dummy_4","af_dummy_dummy_5","af_dummy_dummy_6","af_dummy_dummy_7","af_dummy_dummy_8","af_dummy_dummy_9","af_dummy_dummy_0","af_ice_1","af_ice_2","af_ice_3","af_ice_4","af_ice_5","af_ice_6","af_ice_7","af_ice_8","af_ice_9","af_ice_0"
+}
+
+local take_x = {
+"af_medusa_sp1_","af_vyvert_sp1_","af_night_star_sp1_","af_gravi_sp1_","af_cristall_flower_sp1_","af_cristall_star_sp1_","af_vtulka_sp1_","af_gold_fish_sp1_","af_dummy_spring_sp1_","af_blood_sp1_","af_mincer_meat_sp1_","af_ameba_slug_sp1_","af_ameba_mica_sp1_","af_electra_flash_sp1_","af_baloon_sp1_","af_ameba_slime_sp1_","af_dummy_pellicle_sp1_","af_plenka_sp1_","af_fireball_sp1_","af_cristall_sp1_","af_drops_sp1_","af_fire_sp1_","af_dummy_glassbeads_sp1_","af_eye_sp1_","af_glass_crystal_sp1_","af_soul_sp1_","af_rusty_kristall_sp1_","af_electra_sparkler_sp1_","af_rusty_sea_sp1_","af_glass_sp1_","af_dummy_battery_sp1_","af_rusty_thorn_sp1_","af_electra_moonlight_sp1_","af_fuzz_kolobok_sp1_","af_dummy_dummy_sp1_","af_ice_sp1_","af_medusa_sp2_","af_vyvert_sp2_","af_night_star_sp2_","af_gravi_sp2_","af_cristall_flower_sp2_","af_cristall_star_sp2_","af_vtulka_sp2_","af_gold_fish_sp2_","af_dummy_spring_sp2_","af_blood_sp2_","af_mincer_meat_sp2_","af_ameba_slug_sp2_","af_ameba_mica_sp2_","af_electra_flash_sp2_","af_baloon_sp2_","af_ameba_slime_sp2_","af_dummy_pellicle_sp2_","af_plenka_sp2_","af_fireball_sp2_","af_cristall_sp2_","af_drops_sp2_","af_fire_sp2_","af_dummy_glassbeads_sp2_","af_eye_sp2_","af_glass_crystal_sp2_","af_soul_sp2_","af_rusty_kristall_sp2_","af_electra_sparkler_sp2_","af_rusty_sea_sp2_","af_glass_sp2_","af_dummy_battery_sp2_","af_rusty_thorn_sp2_","af_electra_moonlight_sp2_","af_fuzz_kolobok_sp2_","af_dummy_dummy_sp2_","af_ice_sp2_","af_medusa_sp3_","af_vyvert_sp3_","af_night_star_sp3_","af_gravi_sp3_","af_cristall_flower_sp3_","af_cristall_star_sp3_","af_vtulka_sp3_","af_gold_fish_sp3_","af_dummy_spring_sp3_","af_blood_sp3_","af_mincer_meat_sp3_","af_ameba_slug_sp3_","af_ameba_mica_sp3_","af_electra_flash_sp3_","af_baloon_sp3_","af_ameba_slime_sp3_","af_dummy_pellicle_sp3_","af_plenka_sp3_","af_fireball_sp3_","af_cristall_sp3_","af_drops_sp3_","af_fire_sp3_","af_dummy_glassbeads_sp3_","af_eye_sp3_","af_glass_crystal_sp3_","af_soul_sp3_","af_rusty_kristall_sp3_","af_electra_sparkler_sp3_","af_rusty_sea_sp3_","af_glass_sp3_","af_dummy_battery_sp3_","af_rusty_thorn_sp3_","af_electra_moonlight_sp3_","af_fuzz_kolobok_sp3_","af_dummy_dummy_sp3_","af_ice_sp3_"
+}
+
+local take_nox = {
+"af_para_1_","af_para_2_","af_para_3_","af_para_4_","af_para_5_","af_para_6_","af_para_7_","af_para_8_","af_para_9_","af_para_10_","af_para_11_","af_para_12_","af_para_13_","af_para_14_","af_para_15_","af_para_16_","af_para_17_","af_para_18_","af_para_19_","af_para_20_","af_para_21_","af_para_22_","af_para_23_","af_para_24_","af_para_25_","af_para_26_","af_para_27_","af_para_28_","af_para_29_","af_para_30_","af_para_31_","af_para_32_","af_para_33_","af_para_34_","af_para_35_","af_para_36_","af_para_37_","af_para_38_","af_para_39_","af_para_40_","af_para_41_","af_para_42_","af_para_43_","af_para_44_","af_para_45_","af_para_46_","af_para_47_","af_para_48_","af_para_49_","af_para_50_","af_para_51_","af_para_52_","af_para_53_","af_para_54_","af_para_55_","af_para_56_","af_para_57_","af_para_58_","af_para_59_","af_para_60_","af_para_61_","af_para_62_","af_para_63_","af_para_64_","af_para_65_","af_para_66_","af_para_67_","af_para_68_","af_para_69_","af_para_70_","af_para_71_","af_para_72_","af_para_73_","af_para_74_","af_para_75_","af_para_76_","af_para_77_","af_para_78_","af_para_79_","af_para_80_","af_para_81_","af_para_82_","af_para_83_","af_para_84_","af_para_85_","af_para_86_","af_para_87_","af_para_88_","af_para_89_","af_para_90_","af_medusa_abs_","af_vyvert_abs_","af_night_star_abs_","af_gravi_abs_","af_cristall_flower_abs_","af_cristall_star_abs_","af_vtulka_abs_","af_gold_fish_abs_","af_dummy_spring_abs_","af_blood_abs_","af_mincer_meat_abs_","af_ameba_slug_abs_","af_ameba_mica_abs_","af_electra_flash_abs_","af_baloon_abs_","af_ameba_slime_abs_","af_dummy_pellicle_abs_","af_plenka_abs_","af_fireball_abs_","af_cristall_abs_","af_drops_abs_","af_fire_abs_","af_dummy_glassbeads_abs_","af_eye_abs_","af_glass_crystal_abs_","af_soul_abs_","af_rusty_kristall_abs_","af_electra_sparkler_abs_","af_rusty_sea_abs_","af_glass_abs_","af_dummy_battery_abs_","af_rusty_thorn_abs_","af_electra_moonlight_abs_","af_fuzz_kolobok_abs_","af_dummy_dummy_abs_","af_ice_abs_","af_medusa_ing_","af_vyvert_ing_","af_night_star_ing_","af_gravi_ing_","af_cristall_flower_ing_","af_cristall_star_ing_","af_vtulka_ing_","af_gold_fish_ing_","af_dummy_spring_ing_","af_blood_ing_","af_mincer_meat_ing_","af_ameba_slug_ing_","af_ameba_mica_ing_","af_electra_flash_ing_","af_baloon_ing_","af_ameba_slime_ing_","af_dummy_pellicle_ing_","af_plenka_ing_","af_fireball_ing_","af_cristall_ing_","af_drops_ing_","af_fire_ing_","af_dummy_glassbeads_ing_","af_eye_ing_","af_glass_crystal_ing_","af_soul_ing_","af_rusty_kristall_ing_","af_electra_sparkler_ing_","af_rusty_sea_ing_","af_glass_ing_","af_dummy_battery_ing_","af_rusty_thorn_ing_","af_electra_moonlight_ing_","af_fuzz_kolobok_ing_","af_dummy_dummy_ing_","af_ice_ing_"
+}
+
+function on_game_start()
+	RegisterScriptCallback("actor_on_item_take", actor_on_item_take)
+end
+
+function actor_on_item_take(item) 
+
+if IsArtefact(item) and (alife() ~= nil) then
+local item = item:section()
+	local stop = 0
+	local tab
+	local max
+	local ver1 = 0
+	for y = 1, 26 do
+		if level.name() == location[y] then
+			ver1 = ver[y]
+		elseif y == 26 and level.name() ~= location[y] and stop == 0 and ver1 == 0 then
+			ver1 = 3
+		end
+	end
+	for z = 1,4 do
+		if stop == 0 then
+			if z == 1 then
+				tab = prost
+				max = 36
+			elseif z == 2 then
+				tab = take_sim
+				max = 360
+			elseif z == 3 then
+				tab = take_x
+				max = 108
+			elseif z == 4 then
+				max = 162
+				tab = take_nox
+			end
+
+			for x = 1, max do
+				if z == 1 and  item == tab[x] and stop == 0 then
+						art = tab[x]
+						local r = math.random(1, 100)
+						local r2 = math.random(1, 9)
+						if stop == 0 then
+									if r >= 70+ver1*5 then
+										art_new = art..r2.."4"
+									elseif r >= 55+ver1*5 then
+										art_new = art..r2.."3"
+									elseif r >= 10+ver1*5 then 
+										art_new = art..r2.."2"
+									else
+										art_new = art..r2.."1"
+									end
+							xr_effects.remove_item(actor, npc, {item})
+							dialogs.relocate_item_section(second_speaker, art_new, "in",1)
+							xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+							stop = 1
+						end
+				elseif z == 2 and item == tab[x] and stop == 0 then
+						art = tab[x]
+						local r = math.random(1, 100)
+						local r2 = math.random(1, 100)
+							if r2 >=75 then
+								r2 = math.random(1, 9)
+							else 
+								r2 = ""
+							end
+						if stop == 0 then
+									if r >= 70+ver1*5 then
+										art_new = art.."4"..r2
+									elseif r >= 55+ver1*5 then
+										art_new = art.."3"..r2
+									elseif r >= 10+ver1*5 then 
+										art_new = art.."2"..r2
+									else
+										art_new = art.."1"..r2
+									end
+							xr_effects.remove_item(actor, npc, {item})
+							dialogs.relocate_item_section(second_speaker, art_new, "in",1)
+							xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+							stop = 1
+						end
+					elseif z == 3 and item == tab[x] and db.actor:has_info(tab[x]) and stop == 0 then
+						art = tab[x]
+						if stop == 0 then
+								local r = math.random(1, 100)
+								local r2 = math.random(1,4)
+									if r >= 70+ver1*5 then
+										art_new = art..r2.."4"
+									elseif r >= 55+ver1*5 then
+										art_new = art..r2.."3"
+									elseif r >= 10+ver1*5 then
+										art_new = art..r2.."2"
+									else
+										art_new = art..r2.."1"
+									end
+							xr_effects.remove_item(actor, npc, {item})
+							dialogs.relocate_item_section(second_speaker, art_new, "in",1)
+							xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+							stop = 1
+						end
+					elseif z == 4 and item == tab[x] and db.actor:has_info(tab[x]) and stop == 0 then
+						art = tab[x]
+						if stop == 0 then
+								local r = math.random(1, 100)
+									if r >= 70+ver1*5 then
+										art_new = art.."4"
+									elseif r >= 55+ver1*5 then
+										art_new = art.."3"
+									elseif r >= 20+ver1*5 then 
+										art_new = art.."2"
+									else
+										art_new = art.."1"
+									end
+							xr_effects.remove_item(actor, npc, {item})
+							dialogs.relocate_item_section(second_speaker, art_new, "in",1)
+							xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+							stop = 1
+						end
+					end
+				end
+		else
+			break
+		end
+	end
+end
+end
