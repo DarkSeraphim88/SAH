@@ -1,3 +1,3 @@
 # SAH
 
-Artifact Hunter Project
+Selectioneer Artifact Hunter Project
